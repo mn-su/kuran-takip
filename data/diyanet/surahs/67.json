@@ -1,0 +1,171 @@
+{
+  "id": 67,
+  "name": "الملك",
+  "translation": "Mülk",
+  "transliteration": "mulk",
+  "nuzul": 77,
+  "description": "Mekke döneminde inmiştir. 30 âyettir. Sûre, adını birinci âyette geçen “elMülk”kelimesinden almıştır. Sûrede başlıca, Allah’ın azameti, Allah’ın birliğinindelilleri ve öldükten sonra dirilmeyi inkâr edenlerin akıbetleri konuedilmektedir",
+  "total_verses": 30,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Mutlak hükümranlık elinde olan Allah aşkındır, cömerttir ve O’nun her şeye gücü yeter."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Hanginizin davranışça daha iyi olduğunu denemek için ölümü ve hayatı yaratan O’dur. O, güçlüdür, çok bağışlayıcıdır."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Yedi göğü birbiriyle tam bir uygunluk içinde yaratan O’dur. Rahmanın yaratışında hiçbir uyumsuzluk göremezsin. Gözünü çevir de bir bak, bir bozukluk görebiliyor musun?"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Sonra gözünü tekrar tekrar çevir de bak; (kusur arayan) göz aradığını bulamadan bitkin olarak sana dönecektir."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Gerçek şu ki biz yakın göğü kandillerle süsledik. Ayrıca bunlarla şeytanların taşlanmasını sağladık ve onlara alevli ateş azabını hazırladık."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Rablerini inkar edenlere cehennem azabı vardır. Orası ne kötü bir varış yeri!"
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Oraya atıldıklarında, onun kaynarken çıkardığı uğultuyu işitirler."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Cehennem neredeyse öfkesinden çatlayacak! Oraya her bir grup atıldıkça, muhafızları onlara, “Size bir uyarıcı gelmemiş miydi?” diye sorarlar."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Şöyle cevap verirler: “Evet, doğrusu bize bir uyarıcı (peygamber) gelmişti; fakat biz onu yalancılıkla itham etmiş ve ‘Allah hiçbir şey göndermemiştir; siz gerçekten büyük bir sapkınlık içindesiniz!’ demiştik.”"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "“Şayet kulak vermiş veya aklımızı kullanmış olsaydık, şimdi şu alevli cehennemin mahkumları arasında olmazdık!” diye de ilave ederler."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Böylece günahlarını itiraf etmiş olurlar. O alevli ateşin mahkumları artık rahmetten mahrumdurlar."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Görmedikleri halde rablerinden korkup saygı duyanlara gelince, onları da hem bir bağışlanma hem de büyük bir ödül beklemektedir."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Sözünüzü ister gizleyin isterse açığa vurun; unutmayın ki O, kalplerin içindekini bilmektedir."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Yaratan bilmez olur mu? O, bütün inceliklerin farkındadır ve her şeyden ­haberdardır."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Yeryüzünü sizin için kullanışlı hale getiren O’dur. Üzerinde dolaşın ve Allah’ın rızkından yiyip için; (ama unutmayın ki) dönüş yalnız Allah’adır."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Göktekinin sizi yerin dibine batırmayacağından emin misiniz? Bir de bakarsınız yeryüzü altüst olmuş!"
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Yahut gökte olanın üzerinize taş yağdıran bir fırtına göndermeyeceğinden emin misiniz? Uyarılarımın ne demek olduğunu yakında anlayacaksınız!"
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Onlardan öncekiler de (dinimi) asılsız saymışlardı; ama verdiğim ceza da nasıl olmuştu?"
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Üstlerinde kanatlarını aça kapaya uçan kuşları hiç görmediler mi? Onları (havada) Rahman’dan başkası tutmuyor. Şüphesiz O her şeyi görmektedir."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Peki, Rahman’a karşı size yardım edecek askerleriniz kimler? İnkarcılar sadece derin bir gaflet içinde bulunmaktadırlar."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Yahut Allah lutfettiği rızkı kesiverse size rızık verebilecek olan kim? Hayır! Onlar azgınlıkta ve haktan sapıp uzaklaşmakta ısrar ediyorlar."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Şimdi (düşünün, önünü görmeden), yüzüstü sürünen mi hedefe erişir, yoksa doğru yolda düzgün yürüyen mi?"
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "De ki: “Sizi yaratan, size işitme duyusu, gözler ve kalpler veren O’dur. Ne az şükrediyorsunuz!”"
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "De ki: “Sizi yeryüzünde çoğaltıp yayan O’dur; sadece gelip O’nun huzurunda toplanacaksınız.”"
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "“Doğru sözlü iseniz (söyleyin), bu tehdit ne zaman gerçekleşecek?” derler."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "De ki: “O bilgi yalnız Allah’a mahsustur, ben ise sadece açık bir uyarıcıyım.”"
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Ama onu yakından gördükleri zaman, inkar edenlerin yüzleri kara çıkacak ve (kendilerine), “İşte sizin isteyip durduğunuz budur!” denilecektir."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "De ki: “Beni ve beraberimdekileri Allah yok eder veya bizi esirgerse (söyler misiniz), inkarcıları yakıcı azaptan kurtaracak olan kimdir?”"
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "De ki: “O, Rahman’dır; biz O’na iman etmiş ve O’na güvenip dayanmışızdır. Kimin düpedüz bir sapkınlık içinde olduğunu yakında anlayacaksınız!”"
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Bir de şunu sor: “Suyunuz çekiliverse size yerden kaynayan suyu kim getirebilir?”"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

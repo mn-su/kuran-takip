@@ -1,0 +1,61 @@
+{
+  "id": 94,
+  "name": "الْاِنْشِرَاحِ",
+  "translation": "İnşirâh",
+  "transliteration": "insirah",
+  "nuzul": 12,
+  "description": "Mekke döneminde inmiştir. 8 âyettir. İnşirah, açılmak, genişlemek demektir.",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Senin kalbini açıp genişletmedik mi?"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Belini büken yükünü üzerinden kaldırmadık mı?"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Belini büken yükünü üzerinden kaldırmadık mı?"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Ve senin şanını yüceltmedik mi?"
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Demek ki zorlukla beraber bir kolaylık vardır."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Evet, doğrusu her güçlüğün yanında bir kolaylık var."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "O halde önemli bir işi bitirince hemen diğerine koyul."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Ve yalnız rabbine yönel."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

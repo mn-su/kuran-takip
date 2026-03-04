@@ -1,0 +1,51 @@
+{
+  "id": 109,
+  "name": "الكافرون",
+  "translation": "Kâfirûn",
+  "transliteration": "kafirun",
+  "nuzul": 18,
+  "description": "Mekke döneminde inmiştir. 6 âyettir. “Kâfirûn”, inkârcılar demektir.",
+  "total_verses": 6,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "De ki: \"Ey inkarcılar! "
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Ben sizin tapmakta olduğunuz şeylere tapmam."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Siz de benim taptığıma tapıyor değilsiniz."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Ben sizin taptıklarınıza tapacak değilim."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Siz de benim taptığıma tapıyor değilsiniz."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Sizin dininiz size, benim dinim banadır.\""
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

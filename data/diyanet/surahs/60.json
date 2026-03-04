@@ -1,0 +1,86 @@
+{
+  "id": 60,
+  "name": "الممتحنة",
+  "translation": "Mümtehine",
+  "transliteration": "mumtehine",
+  "nuzul": 91,
+  "description": "Medine döneminde inmiştir. 13 âyettir. Onuncu âyette, Hudeybiye antlaşmasından sonra müşrikler arasından çıkıp Medine’ye gelen ve müslüman olduklarını söyleyen kadınların imtihan edilmeleri emredildiği için sûreye mecazen,“imtihan eden” anlamında “mümtehine” denmiştir. Sûrede başlıca, Allah için sevmek, Allah için buğz etmek ve müslümanlarla kâfirler arasındaki ilişkilere dair bazı uyarılar konu edilmektedir",
+  "total_verses": 13,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Ey iman edenler! Eğer benim yolumda cihad etmek ve hoşnutluğumu kazanmak üzere yola çıkmışsanız, benim de düşmanım sizin de düşmanınız olan kimseleri kendilerine sevgi göstererek dost edinmeyin. Onlar size gelen gerçeği inkar etmektedirler; üstelik rabbiniz Allah’a iman ettiniz diye peygamberi ve sizi (yurdunuzdan) çıkarıyorlar. Ben sizin gizlediklerinizi de açıkladıklarınızı da bildiğim halde onlara gizliden gizliye sevgi besliyorsunuz. İçinizden kim bunu yaparsa bilsin ki doğru yoldan sapmıştır."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Onlar sizi bir yakalasalar size düşmanca davranırlar, elleriyle ve dilleriyle size kötülük etmeye çalışırlar ve isterler ki sizler de hakkı inkar edesiniz."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Kıyamet gününde yakınlarınız da çocuklarınız da size asla fayda vermeyecek. Allah aranızda hükmünü verecek. Yapıp ettiklerinizi Allah görmektedir."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "İbrahim’de ve ona uyanlarda size güzel bir örneklik vardır; onlar kavimlerine şöyle demişlerdi: Bilin ki bizim sizinle ve Allah’ı bırakıp da taptıklarınızla bir ilişiğimiz yoktur. Sizi (ve değerlerinizi) reddediyoruz. Sizinle bizim aramızda, siz bir tek Allah’a iman edinceye kadar sürüp gidecek bir düşmanlık ve nefret açıkça ortaya çıkmıştır. Ancak İbrahim’in, babasına “Hiç şüphen olmasın bağışlanman için dua edeceğim, ama Allah’tan sana geleceklere karşı yapabileceğim bir şey de yoktur” demesi başka. Rabbimiz! Sadece sana dayanıp güvendik, sana yöneldik; dönüş de ancak sanadır."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Rabbimiz! Bizi, inkar edenler için bir sınama konusu yapma. Bizi bağışla ey rabbimiz! Çünkü kudret ve hikmet sahibi olan sensin."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Şüphe yok ki, içinizden Allah’ın lutfuna ve ahiret gününe umut bağlayanlar için onlarda güzel bir örneklik vardır. Kim yüz çevirirse bilsin ki Allah hiçbir şeye muhtaç değildir, her türlü hamde layıktır."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Belki de Allah sizinle onlardan düşmanınız olan kimseler arasında (karşılıklı) bir dostluk meydana getirecektir. Allah kadirdir. Allah bağışlayıcıdır, engin merhamet sahibidir."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Allah, din konusunda sizinle savaşmayan ve sizi yurtlarınızdan çıkarmayanlarla iyi ilişkiler içinde olmanızı ve onlara adaletli davranmanızı yasaklamaz. Allah adaletli olanları elbette sever."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Allah ancak, din konusunda sizinle savaşmış, sizi yurtlarınızdan çıkarmış ve çıkarılmanıza yardım etmiş olanlarla dostluk kurmanızı yasaklar. Kim onlarla dost olursa işte bunlar kendilerine yazık etmişlerdir."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Ey iman edenler! Mümin kadınlar göç ederek size geldiklerinde -onların imanlarını Allah daha iyi bilmekle beraber- siz onları sınayın. Eğer mümin olduklarını anlarsanız, onları kafirlere iade etmeyin. Bunlar onlara helal değildir, onlar da bunlara helal olmaz. Onlara (kocalarına) harcadıklarını (mehirleri) geri veriniz. Mehirlerini ödediğiniz takdirde bu kadınlarla evlenmenizde sakınca yoktur. Kafir kadınları nikahınız altında tutmayın. Siz harcadığınızı (verdiğiniz mehri) isteyin, onlar da harcadıklarını istesinler. Allah’ın hükmü işte budur. Aranızda hükmünü böyle veriyor. Allah hakkıyla bilmektedir, hüküm ve hikmet sahibidir."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Şayet eşlerinizden biri kafirlere kaçar, böylece (tazminat ödemek için) sıra size gelmiş olursa, eşleri gitmiş olanlara harcadıklarına denk bir şey verin. İnandığınız Allah’a karşı gelmekten sakının."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Ey Peygamber! Mümin kadınlar Allah’a hiçbir şeyi ortak koşmayacakları, hırsızlık yapmayacakları, zina etmeyecekleri, çocuklarını öldürmeyecekleri, elleriyle ayakları arasında bir iftira düzüp getirmeyecekleri, dine ve akla uygun hiçbir konuda sana karşı gelmeyecekleri hususunda sana biat etmeye geldiklerinde onların biatlarını kabul et ve onlar için Allah’tan bağışlama dile. Kuşkusuz Allah bağışlayıcıdır, engin merhamet sahibidir."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’ın kendilerine gazap ettiği bir topluluğu dost edinmeyin. Onlar, inkarcıların kabirlerdekilerden ümit kestikleri gibi ahiretten ümit kesmişlerdir."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

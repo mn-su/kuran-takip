@@ -1,0 +1,411 @@
+{
+  "id": 55,
+  "name": "الرحمن",
+  "translation": "Rahmân",
+  "transliteration": "rahman",
+  "nuzul": 97,
+  "description": "Mekke döneminde inmiştir. 78 âyettir. Sûre, adını ilk âyeti oluşturan ve Allah’ın sıfatlarından biri olan “er-Rahmân” kelimesinden almıştır. Sûrede başlıca, Allah’ın nimetleri, birliğini ve kudretini gösteren kâinat delilleri ve günahkârların kıyamette karşılaşacakları korku ve şiddet konu edilmektedir.",
+  "total_verses": 78,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Kur’an’ı rahman öğretti."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Kur’an’ı rahman öğretti."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "İnsanı O yarattı."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Ona anlama ve anlatmayı öğretti."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Güneş ve ay bir hesaba bağlı (olarak hareket ederler)."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Yıldızlar da ağaçlar da secde ederler."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Göğü O yükseltti, denge ve ölçüyü O koydu ki dengeden sapmayasınız;"
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Göğü O yükseltti, denge ve ölçüyü O koydu ki dengeden sapmayasınız;"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Ölçüyü düzgün tutasınız ve eksik tartmayasınız."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "O yeryüzünü canlıların altına serdi."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Orada meyveler ve tomurcuklu hurma ağaçları var."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Çimlenen taneler ve hoş kokulu bitkiler var."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "O, insanı ateşte pişirilmiş toprak kaplar gibi kurutulmuş çamurdan yarattı."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Cinleri de yalın ateşten yarattı."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "O, iki doğunun da rabbi iki batının da rabbidir."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "O, birbirine kavuşmak üzere iki denizi salıverdi."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "(Ama) aralarında bir engel vardır; birbirlerine karışmazlar."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Onlardan inci ve mercan çıkar."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Denizde yelkenlerini bayraklar gibi açarak süzülüp giden gemiler O’nundur."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Yeryüzünde bulunanların hepsi fanidir."
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Azamet ve kerem sahibi rabbinin zatı ise baki kalır."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Göklerde ve yerde bulunanların hepsi O’ndan ister (O’na muhtaçtır). O her an yaratma halindedir."
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Sizin için de (hesap sorma) vaktimiz olacak, ey sorumluluk yüklenmiş iki varlık!"
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Ey cin ve insan toplulukları! Göklerin ve yerin sınırlarını aşıp öteye geçebilirseniz haydi geçin! Ama (tarafımızdan verilmiş) bir güç olmadıkça geçemezsiniz."
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Üzerinize yalın bir ateş alevi ve erimiş bakır gönderilir de kurtulmak için birbirinizle yardımlaşamazsınız."
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Gök yarılıp gül kırmızısı bir yağ gibi olduğu zaman!"
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "İşte o gün insana da cine de günahı hakkında soru sorulmaz (çünkü her şey apaçık ortadadır)."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Günahkarlar simalarından tanınır, perçemlerinden ve ayaklarından yakalanırlar."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "Günahkarların yalan saydıkları cehennem işte bu!"
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Onun ateşi ile kaynar su arasında gidip gelirler."
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 46,
+      "text": "",
+      "translation": "Rabbinin huzurundan korkan kimse için çifte cennet vardır."
+    },
+    {
+      "id": 47,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 48,
+      "text": "",
+      "translation": "İkisinde de çeşit çeşit ve emsalsiz nimetler bulunur."
+    },
+    {
+      "id": 49,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 50,
+      "text": "",
+      "translation": "İkisinde de akıp giden iki kaynak vardır."
+    },
+    {
+      "id": 51,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 52,
+      "text": "",
+      "translation": "İkisinde de her meyveden farklı türler bulunur."
+    },
+    {
+      "id": 53,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 54,
+      "text": "",
+      "translation": "(Cennettekiler) içleri atlasla dokunmuş sergiler üzerine kurulmuşlardır. Bu iki cennetin de meyveleri kolayca erişilebilecek yakınlıktadır."
+    },
+    {
+      "id": 55,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 56,
+      "text": "",
+      "translation": "Oralarda eşinden başkasına bakmayan kadınlar vardır ki onlardan önce kendilerine ne bir insan ne de bir cin dokunmuştur."
+    },
+    {
+      "id": 57,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 58,
+      "text": "",
+      "translation": "Sanki onlar yakut ve mercandır."
+    },
+    {
+      "id": 59,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 60,
+      "text": "",
+      "translation": "İyiliğin karşılığı da ancak işte böyle iyiliktir."
+    },
+    {
+      "id": 61,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 62,
+      "text": "",
+      "translation": "Bu ikisinden başka iki cennet daha vardır."
+    },
+    {
+      "id": 63,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 64,
+      "text": "",
+      "translation": "İkisi de yemyeşil."
+    },
+    {
+      "id": 65,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 66,
+      "text": "",
+      "translation": "İkisinde de gürül gürül akan iki su kaynağı bulunur."
+    },
+    {
+      "id": 67,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 68,
+      "text": "",
+      "translation": "Her ikisinde türlü meyveler, hurma ve nar var."
+    },
+    {
+      "id": 69,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 70,
+      "text": "",
+      "translation": "Oralarda, huyu güzel, yüzü güzel kadınlar var."
+    },
+    {
+      "id": 71,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 72,
+      "text": "",
+      "translation": "Otağlarına kapanmış huriler var."
+    },
+    {
+      "id": 73,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 74,
+      "text": "",
+      "translation": "Onlardan önce kendilerine ne bir insan ne de bir cin dokunmuştur."
+    },
+    {
+      "id": 75,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 76,
+      "text": "",
+      "translation": "Yeşil, harikulade güzel yastıklara yaslanmışlardır."
+    },
+    {
+      "id": 77,
+      "text": "",
+      "translation": "Artık rabbinizin nimetlerinden hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 78,
+      "text": "",
+      "translation": "Azamet ve kerem sahibi rabbinin adı ne yücedir!"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

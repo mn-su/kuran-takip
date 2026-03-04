@@ -1,0 +1,46 @@
+{
+  "id": 113,
+  "name": "الفلق",
+  "translation": "Felak",
+  "transliteration": "felak",
+  "nuzul": 20,
+  "description": "Medine döneminde inmiştir. 5 âyettir. Felâk, sabah aydınlığı demektir",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "De ki: \"Sabahın rabbine sığınırım;"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Yarattığı şeylerden gelebilecek kötülüklerden;"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Karanlığı çöktüğü zaman gecenin şerrinden;"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Düğümlere üfürenlerin şerrinden;"
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Bir de kıskandığı vakit kıskanç kişinin şerrinden!\""
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

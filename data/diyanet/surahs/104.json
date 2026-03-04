@@ -1,0 +1,66 @@
+{
+  "id": 104,
+  "name": "الهمزة",
+  "translation": "Hümeze",
+  "transliteration": "humeze",
+  "nuzul": 32,
+  "description": "Mekke döneminde inmiştir. 9 âyettir. Hümeze, insanları arkadan çekiştiren,ayıplayan kimse demektir",
+  "total_verses": 9,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Arkadan çekiştiren, ayıp kusurlar arayan, servet toplayan ve onu sayıp duran herkesin vay haline!"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Arkadan çekiştiren, ayıp kusurlar arayan, servet toplayan ve onu sayıp duran herkesin vay haline!"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "O, malının kendisini sonsuza kadar yaşatacağını zanneder."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Hayır! Andolsun ki o, hutameye atılacaktır."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Nedir o hutame bilir misin?"
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Allah'ın tutuşturulmuş ateşi."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Uzatılmış direklere bağlı olarak içine hapsedildikleri, yükselip yürekleri saran ateş!"
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Uzatılmış direklere bağlı olarak içine hapsedildikleri, yükselip yürekleri saran ateş!"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Uzatılmış direklere bağlı olarak içine hapsedildikleri, yükselip yürekleri saran ateş!"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

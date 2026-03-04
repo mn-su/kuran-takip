@@ -1,0 +1,61 @@
+{
+  "id": 102,
+  "name": "التكاثر",
+  "translation": "Tekâsür",
+  "transliteration": "tekasur",
+  "nuzul": 16,
+  "description": "Mekke döneminde inmiştir. 8 âyettir. Tekâsür, mal, mülk ve çoluk çocuğunçokluğuyla övünmek demektir",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Çoklukla övünme yarışı sizi kabirlere varıncaya kadar oyaladı."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Çoklukla övünme yarışı sizi kabirlere varıncaya kadar oyaladı."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Hayır! Yakında anlayacaksınız!"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Hayır hayır! Elbette yakında anlayacaksınız."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Hayır! Keşke kesin bir bilgiyle bilmiş olsaydınız!"
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Yemin olsun, cehennemi mutlaka göreceksiniz!"
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Sonra kuşkusuz onu gözünüzle ayan beyan göreceksiniz."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Nihayet o gün nimetlerden elbette sorguya çekileceksiniz."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "id": 19,
+  "name": "مريم",
+  "translation": "Meryem",
+  "transliteration": "meryem",
+  "nuzul": 44,
+  "description": "Mekke döneminde inmiştir. 98 âyettir. Bazı tefsir bilginlerine göre 58 ve 71. âyetler Medine döneminde inmiştir. Sûre, Meryem’in, oğlu İsa’yı nasıl dünyaya getirdiğini anlattığı için bu adla anılmıştır. Sûre de başlıca, tevhit inancını yerleştirmek amacıyla bazı peygamberlerin kıssaları ve kıyamet sahneleri konu edilmektedir.",
+  "total_verses": 98,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Kaf-ha-ya-ayn-sad."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Bu, rabbinin Zekeriyya kuluna lutfettiği rahmetin anlatımıdır."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Hani o, alçak sesle rabbine yalvarmıştı."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "“Rabbim!” demişti, “Benim kemiklerim zayıfladı, saçlarım ağardı. Rabbim! Ben sana ettiğim dualarda hiç eli boş dönmedim."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Doğrusu ben, arkamdan iş başına geçecek olan yakınlarımdan endişe ediyorum; karım da kısırdır. Tarafından bana yerimi alacak bir halef ver; o, Yakub hanedanına da varis olsun; rabbim, onu rızana erdir!”"
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Doğrusu ben, arkamdan iş başına geçecek olan yakınlarımdan endişe ediyorum; karım da kısırdır. Tarafından bana yerimi alacak bir halef ver; o, Ya‘kub hanedanına da varis olsun; rabbim, onu rızana erdir!\"\""
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Allah buyurdu ki: “Ey Zekeriyya! Biz sana Yahya adında bir oğul müjdeliyoruz. Bu adı daha önce kimseye vermedik.”"
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Zekeriya, “Rabbim!” dedi. “Karım kısır olduğu, ben de ihtiyarlığın son sınırına vardığım halde, benim nasıl oğlum olabilir?”"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "“Orası öyle” dedi ve buyurdu ki rabbin: “O bana kolaydır; daha önce, sen hiçbir şey değilken seni de yaratmıştım.”"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Zekeriyya, “Rabbim! Öyle ise bana bir işaret ver” dedi. Allah, “Sana işaret, tam üç gün insanlarla konuşamamandır” buyurdu."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Bunun üzerine Zekeriyya, mabedden kavminin karşısına çıkarak onlara, özel bir işaret diliyle, “Sabah akşam Allah’ı tesbih edin” dedi."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "“Ey Yahya! Kitaba var gücünle sarıl!” dedik ve ona henüz çocukken hikmeti verdik."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Ayrıca katımızdan ona şefkat ve ruh temizliği de (verdik). O, kötülükten çok sakınan biriydi."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Anne babasına çok iyi davranırdı; zorba ve asi değildi."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Doğduğu gün, öleceği gün ve yeniden hayata döndürüleceği gün ona selam olsun."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Kitapta Meryem’i de okuyup an. Hani o, evinden ayrılarak doğu tarafında bir yere çekilmişti."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Onlarla kendi arasına bir perde çekmişti. Derken, ona ruhumuzu gönderdik; ruh ona tam bir insan şeklinde göründü."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Meryem, “Beni senden koruması için çok esirgeyici olan Allah’a sığınıyorum! Eğer Allah’tan sakınan bir kimse isen (bana dokunma)” dedi."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Melek, “Ben ancak sana tertemiz bir erkek çocuk bağışlamak için rabbin tarafından gönderilmiş bir elçiyim” dedi."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Meryem, “Ben iffetsiz olmadığım ve bana bir erkek eli bile değmediği halde nasıl çocuğum olur?” dedi."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Melek cevap verdi: “Orası öyle; ancak rabbin buyurdu ki: O bana kolaydır. Biz, onu insanlara bir delil ve kendimizden bir rahmet kılacağız. Bu, kararlaştırılmış bir iştir.”"
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Derken Meryem ona hamile kaldı, işte bu sebeple karnında bebeği ile uzak bir yere çekildi."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Sonra doğum sancısı onu bir hurma ağacının dibine getirdi. Meryem, “Keşke bundan önce ölseydim de unutulup gitseydim!” dedi."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Aşağısından biri ona şöyle seslendi: “Tasalanma! Rabbin senin altında bir su kaynağı yaratmıştır."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "(Şu) hurma ağacını da kendine doğru silkele ki, üzerine taze, olgun hurma ­dökülsün."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Ye iç, gözün aydın olsun! İnsanlardan birini görürsen de ki: Ben, çok esirgeyici olan Allah’a adakta bulundum; artık bugün hiçbir insanla konuşmayacağım.”"
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Sonra çocuğu kucağına alarak topluluğuna getirdi. Dediler ki: “Ey Meryem! Gerçekten sen çirkin bir şey yaptın!"
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Ey Harun’un kız kardeşi! Baban kötü bir adam, annen de iffetsiz değildi.”"
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Bunun üzerine Meryem çocuğu işaret etti. “Beşikteki bir çocukla nasıl konuşuruz?” dediler."
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Cevabı çocuk verdi: “Ben Allah’ın kuluyum; O bana kitap verdi ve beni peygamber yaptı."
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Nerede olursam olayım, o beni kutlu ve bereketli kıldı; yaşadığım sürece bana namazı, zekatı ve anneme saygılı olmayı emretti; beni zorba ve isyankar yapmadı."
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Nerede olursam olayım, o beni kutlu ve bereketli kıldı; yaşadığım sürece bana namazı, zekatı ve anneme saygılı olmayı emretti; beni zorba ve isyankar yapmadı."
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Doğduğum gün, öleceğim gün ve yeniden hayata döndürüleceğim gün esenlik benimle olacaktır.”"
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "İşte Meryem oğlu İsa bu; şüpheye düşüp tartıştıkları konuda gerçek söz de bu."
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Allah’ın bir evlat edinmesi olacak şey değildir. O, bundan münezzehtir. Bir işe karar verdiği zaman ona sadece “ol!” der, hemen olur."
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "İsa şunu da söyledi: “Muhakkak ki Allah, benim de rabbim, sizin de rabbinizdir. O halde O’na kulluk edin, doğru yol budur.”"
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Sonra gruplar kendi aralarında ayrılığa düştüler. Büyük güne ulaşıldığında, vay o inkarcıların haline!"
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Onlar, bizim huzurumuza çıkacakları gün öyle bir işitirler ve öyle bir görürler ki! Ne var ki o zalimler bugün tam bir sapkınlık için­dedirler."
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Sen onları pişmanlık günü hakkında uyar; o gün onlar bir gafletin içine dalmış oldukları halde ve henüz iman etmemişken iş olup bitecektir."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Yeryüzü ve onun üzerindekiler sonunda yalnız bize kalır ve hepsi bize dönerler."
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Bu kitapta İbrahim’i de okuyup an! Kuşkusuz o, özü sözü doğru bir insan, bir peygamberdi."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Bir gün babasına şöyle demişti: Babacığım! Duymayan, görmeyen ve sana hiçbir fayda sağlamayan bir şeye niçin taparsın?"
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "Babacığım! Sana gelmeyen bir bilgi hakikaten bana geldi, bu sebeple bana uy ki seni düz yola çıkarayım."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Babacığım! Şeytana kulluk etme! Çünkü şeytan, rahmanın buyruğuna uymamıştır."
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Babacığım! Allah’ın azabına uğramandan ve böylece şeytanın yandaşı olmandan korkuyorum."
+    },
+    {
+      "id": 46,
+      "text": "",
+      "translation": "(Babası:) “Ey İbrahim! Sen benim tanrılarımdan yüz mü çeviriyorsun? Eğer vazgeçmezsen, andolsun seni taşlatırım; şimdi uzun bir süre gözüme görünme!” dedi."
+    },
+    {
+      "id": 47,
+      "text": "",
+      "translation": "İbrahim şöyle dedi: “Esen kal! Rabbimden senin için mağfiret dileyeceğim. Çünkü O, bana karşı çok lutufkârdır."
+    },
+    {
+      "id": 48,
+      "text": "",
+      "translation": "Sizden de Allah’ın dışında taptığınız şeylerden de uzaklaşıyor ve rabbime niyaz ediyorum. Umudum odur ki rabbime niyazımdan eli boş dönmeyeceğim.”"
+    },
+    {
+      "id": 49,
+      "text": "",
+      "translation": "Nihayet İbrahim onlardan ve Allah’ın dışında taptıklarından uzaklaşınca, biz ona İshak ve Yakub’u bahşettik, her birini peygamber yaptık."
+    },
+    {
+      "id": 50,
+      "text": "",
+      "translation": "Onlara da rahmetimizden bağışlarda bulunduk ve onlara hak ettikleri yüksek bir övgü ile anılmayı nasip ettik."
+    },
+    {
+      "id": 51,
+      "text": "",
+      "translation": "Bu kitapta Musa’yı da okuyarak an. Gerçekten o ihlaslı biriydi, elçi-peygamberdi."
+    },
+    {
+      "id": 52,
+      "text": "",
+      "translation": "Ona Tur’un sağ tarafından seslendik ve onu fısıldaşırcasına (kendimize) yaklaştırdık."
+    },
+    {
+      "id": 53,
+      "text": "",
+      "translation": "Rahmetimizin bir sonucu olmak üzere kardeşi Harun’u da bir peygamber olarak onun yanına verdik."
+    },
+    {
+      "id": 54,
+      "text": "",
+      "translation": "Bu kitapta İsmail’i de okuyup an. O gerçekten sözüne sadıktı; elçi-peygamberdi."
+    },
+    {
+      "id": 55,
+      "text": "",
+      "translation": "Halkına namazı ve zekatı emrederdi ve rabbinin rızasına ermişti."
+    },
+    {
+      "id": 56,
+      "text": "",
+      "translation": "Kitapta İdris’i de okuyarak an. Hakikaten o, pek doğru bir insandı ve bir peygamberdi."
+    },
+    {
+      "id": 57,
+      "text": "",
+      "translation": "Onu üstün bir konuma getirdik."
+    },
+    {
+      "id": 58,
+      "text": "",
+      "translation": "İşte bunlar, Allah’ın kendilerine lütuflarda bulunduğu, Adem’in soyundan gelen peygamberler; Nuh ile birlikte (gemide) taşıdıklarımız, İbrahim ve İsrail’in (Yakub) soyundan gelenler ve doğruya ulaştırdığımız ve seçkin kıldığımız kimselerden olup, kendilerine Rahman’ın ayetleri okunduğunda ağlayarak ve secde ederek yere kapanırlar."
+    },
+    {
+      "id": 59,
+      "text": "",
+      "translation": "Sonra bunların ardından artık namazı kılmayan ve nefsani arzulara uyan bir nesil geldi. Bunlar elbette azgınlıklarının cezasını bulacaklardır."
+    },
+    {
+      "id": 60,
+      "text": "",
+      "translation": "Ancak tövbe eden, iman eden ve iyi davranışta bulunan kimseler böyle değildir. Bunlar hiçbir haksızlığa uğratılmaksızın cennete; çok esirgeyici olan Allah’ın, kullarına vaad ettiği, onların idraklerini aşan adn cennetlerine gireceklerdir. Şüphesiz O’nun vaadi yerine gelecektir."
+    },
+    {
+      "id": 61,
+      "text": "",
+      "translation": "Ancak tövbe eden, iman eden ve iyi davranışta bulunan kimseler böyle değildir. Bunlar hiçbir haksızlığa uğratılmaksızın cennete; çok esirgeyici olan Allah’ın, kullarına vaad ettiği, onların idraklerini aşan adn cennetlerine gireceklerdir. Şüphesiz O’nun vaadi yerine gelecektir."
+    },
+    {
+      "id": 62,
+      "text": "",
+      "translation": "Orada boş söz işitmezler, kendilerine yalnız esenlikler dilenir. Orada, sabah akşam rızıkları hazırdır."
+    },
+    {
+      "id": 63,
+      "text": "",
+      "translation": "Kullarımızdan takva sahibi kimselere vereceğimiz cennet işte budur."
+    },
+    {
+      "id": 64,
+      "text": "",
+      "translation": "(Melek dedi ki:) “Biz ancak rabbinin emriyle ineriz. Önümüzde, arkamızda ve bunlar arasında olan her şey O’na aittir. Senin rabbin unutkan değildir.”"
+    },
+    {
+      "id": 65,
+      "text": "",
+      "translation": "O göklerin, yerin ve bu ikisi arasındakilerin rabbidir. Şu halde O’na sabır ve sebatla kulluk et. O’nun adını almaya layık başka birini biliyor musun?"
+    },
+    {
+      "id": 66,
+      "text": "",
+      "translation": "İnsan, “Ben öldükten bir süre sonra sahiden yeniden hayata döndürülecek miyim?” diyor."
+    },
+    {
+      "id": 67,
+      "text": "",
+      "translation": "İnsan düşünmez mi ki, daha önce hiçbir şey değilken biz onu yaratmışızdır?"
+    },
+    {
+      "id": 68,
+      "text": "",
+      "translation": "Rabbine andolsun ki onları muhakkak şeytanlarla birlikte mahşerde toplayacağız; sonra onları cehennemin çevresinde diz üstü çökmüş vaziyette hazır tutacağız."
+    },
+    {
+      "id": 69,
+      "text": "",
+      "translation": "Sonra her gruptan, Rahman’a en çok asi olanlar hangileri ise çekip çıkaracağız."
+    },
+    {
+      "id": 70,
+      "text": "",
+      "translation": "Sonra ateşi boylamayı hak edenleri elbette en iyi biz biliriz."
+    },
+    {
+      "id": 71,
+      "text": "",
+      "translation": "İçinizden, oraya varmayacak hiçbir kimse yoktur. Bu, rabbinin kesinleşmiş bir hükmüdür."
+    },
+    {
+      "id": 72,
+      "text": "",
+      "translation": "Sonra biz kötülükten sakınanları (cehennemden) esirgeriz; zalimleri de diz üstü çökmüş olarak orada bırakırız."
+    },
+    {
+      "id": 73,
+      "text": "",
+      "translation": "Kendilerine ayetlerimiz açıkça okunduğu zaman inkar edenler iman edenlere, “İki topluluktan hangimizin konumu daha üstün ve mensupları daha iyi?” diye sorarlar."
+    },
+    {
+      "id": 74,
+      "text": "",
+      "translation": "Oysa onlardan önce de daha varlıklı ve daha gösterişli olan nice nesiller helak ettik."
+    },
+    {
+      "id": 75,
+      "text": "",
+      "translation": "De ki: “Kim sapkınlık içinde ise dilerim Rahman ona süre versin!” Sonunda kendilerine vaad olunanı; azabı veya kıyameti gördükleri zaman, konumu daha kötü, askeri daha zayıf olanın kim olduğunu öğreneceklerdir."
+    },
+    {
+      "id": 76,
+      "text": "",
+      "translation": "Allah, doğru yola gidenlerin hidayetini güçlendirir. Kalıcı olan iyilikler, rabbinin katında hem mükafat bakımından daha hayırlı, hem de sonuç bakımından daha iyidir."
+    },
+    {
+      "id": 77,
+      "text": "",
+      "translation": "Ayetlerimizi inkar eden ve “Mutlaka bana mal ve evlat verilecektir” diyen adamı gördün mü!"
+    },
+    {
+      "id": 78,
+      "text": "",
+      "translation": "O, gaybı mı biliyor, yoksa Allah’ın katından bir söz mü aldı?"
+    },
+    {
+      "id": 79,
+      "text": "",
+      "translation": "Kesinlikle hayır! Biz onun söylediklerini yazacağız ve cezasını uzattıkça uzatacağız."
+    },
+    {
+      "id": 80,
+      "text": "",
+      "translation": "Onun sözünü ettiği şeyler sonunda bize kalacak, kendisi de tek başına bize gelecek."
+    },
+    {
+      "id": 81,
+      "text": "",
+      "translation": "Onlar kendilerine bir itibar ve güç vesilesi olsun diye Allah’tan başka tanrılar edindiler."
+    },
+    {
+      "id": 82,
+      "text": "",
+      "translation": "Hayır, hayır! O putlar onların ibadetini tanımayacaklar ve kendilerine hasım olacaklar."
+    },
+    {
+      "id": 83,
+      "text": "",
+      "translation": "Görmedin mi? Biz, inkarcıların üzerine kendilerini isyana itip duran şeytanları saldık."
+    },
+    {
+      "id": 84,
+      "text": "",
+      "translation": "Öyle ise onlar hakkında acele etme; biz onların günlerini sayıyoruz."
+    },
+    {
+      "id": 85,
+      "text": "",
+      "translation": "Gün gelecek, takva sahiplerini seçkin konuklar olarak rahmanın huzurunda toplayacağız;"
+    },
+    {
+      "id": 86,
+      "text": "",
+      "translation": "Günahkarları da suya götürülen sürü gibi cehenneme süreceğiz;"
+    },
+    {
+      "id": 87,
+      "text": "",
+      "translation": "(O gün) Rahman’ın katında söz ve izin alandan başkasının şefaat hakkı olmayacaktır."
+    },
+    {
+      "id": 88,
+      "text": "",
+      "translation": "“Rahman çocuk edindi” dediler."
+    },
+    {
+      "id": 89,
+      "text": "",
+      "translation": "Hakikaten çok çirkin bir iddia ortaya attınız."
+    },
+    {
+      "id": 90,
+      "text": "",
+      "translation": "Öyle ki bundan dolayı neredeyse gökler çatlayacak, yer ortasından yarılacak, dağlar yıkılıp çökecek!"
+    },
+    {
+      "id": 91,
+      "text": "",
+      "translation": "Çünkü Rahman’a çocuk yakıştırıyorlar."
+    },
+    {
+      "id": 92,
+      "text": "",
+      "translation": "Halbuki çocuk edinmek Rahman’ın şanına yakışmaz."
+    },
+    {
+      "id": 93,
+      "text": "",
+      "translation": "Göklerde ve yerde olan herkes istisnasız, Rahman’a birer kul olarak gelecektir."
+    },
+    {
+      "id": 94,
+      "text": "",
+      "translation": "O, bunların hepsini kuşatmış ve sayılarını tesbit etmiştir."
+    },
+    {
+      "id": 95,
+      "text": "",
+      "translation": "Bunların hepsi de kıyamet gününde Allah’ın huzuruna tek başına gelecektir."
+    },
+    {
+      "id": 96,
+      "text": "",
+      "translation": "İman edip dünya ve ahiret için yararlı işler yapanlara gelince, rahman onlar için (gönüllerde) bir sevgi yaratacaktır."
+    },
+    {
+      "id": 97,
+      "text": "",
+      "translation": "Biz Kur’an’ı senin dilinle kolay anlaşılır kıldık ki günahtan sakınanları onunla müjdeleyesin ve inatla direnenleri de onunla uyarasın!"
+    },
+    {
+      "id": 98,
+      "text": "",
+      "translation": "Biz, onlardan önce nice nesilleri helak ettik. Sen, onların herhangi birinden (bir varlık emaresi) hissediyor veya cılız da olsa bir ses işitiyor musun?"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

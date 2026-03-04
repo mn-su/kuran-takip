@@ -1,0 +1,76 @@
+{
+  "id": 101,
+  "name": "القارعة",
+  "translation": "Kâria",
+  "transliteration": "karia",
+  "nuzul": 30,
+  "description": "Mekke döneminde inmiştir. 11 âyettir. “Kâri’a”, vuran, çarpan, kapıyı çalan,yürekleri hoplatan şey demektir. Burada, kıyamet gününü ifade etmektedir.",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "O dehşetli ses!"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "O ne dehşetli ses!"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Nedir o dehşetli ses, bilir misin?"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "O gün insanlar sağa sola dağılmış kelebekler gibi olur."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Dağlar da atılmış renkli yüne dönüşür."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Kimin tartılan amelleri ağır gelirse,"
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "İşte o mutlu bir hayat içinde olur."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Amelleri hafif olana gelince,"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Onu kucaklayacak olan haviyedir."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "O nedir, bilir misin?"
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Yakıp kavuran bir ateş!"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

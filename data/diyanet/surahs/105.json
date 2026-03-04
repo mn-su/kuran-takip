@@ -1,0 +1,46 @@
+{
+  "id": 105,
+  "name": "الفيل",
+  "translation": "Fîl",
+  "transliteration": "fil",
+  "nuzul": 19,
+  "description": "Mekke döneminde inmiştir. 5 âyettir. Sûre, fillerle donanmış ordusuylaKâ’be’yi yıkmaya gelen Ebrehe’nin helâk edilişinden bahsettiği için bu adı almıştır",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Rabbin fil ordusuna ne yaptı, görmedin mi?"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Onların planlarını boşa çıkarmadı mı?"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Onların üzerine pişkin tuğladan yapılmış taşlar yağdıran sürü sürü kuşlar salmadı mı?"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Onların üzerine pişkin tuğladan yapılmış taşlar yağdıran sürü sürü kuşlar salmadı mı?"
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Sonuçta Allah onları yenilip ezilmiş ekine çevirdi."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

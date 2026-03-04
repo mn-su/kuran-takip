@@ -1,0 +1,221 @@
+{
+  "id": 75,
+  "name": "القيامة",
+  "translation": "Kıyâmet",
+  "transliteration": "kiyame",
+  "nuzul": 31,
+  "description": "Mekke döneminde inmiştir. 40 âyettir. Sûre, adını birinci âyetteki “el-Kıyâme”kelimesinden almıştır. Sûrede başlıca, öldükten sonra dirilme ve ceza, ölümsırasında insanın durumu ve kâfirlerin ahirette karşılaşacağı zorluklar konuedilmektedir",
+  "total_verses": 40,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Sandıkları gibi değil, kıyamet gününe yemin ederim!"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Öyle değil, kendini kınayan nefse yemin ederim!"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "İnsan, kemiklerini toplayıp birleştiremeyeceğimizi mi sanıyor?"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Evet, parmaklarına varıncaya kadar yeniden yapmaya gücümüz yeter."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Fakat insanoğlu önündeki zaman içinde de günah işlemeye (bugünden) istekli durur."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "“Kıyamet günü ne zamanmış?” diye soruyor."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Göz dehşetle açıldığı, ay tutulduğu, güneşle ay birleştirildiği zaman;"
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Göz dehşetle açıldığı, ay tutulduğu, güneşle ay birleştirildiği zaman;"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Göz dehşetle açıldığı, ay tutulduğu, güneşle ay birleştirildiği zaman;"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "İşte o gün insan “Kaçacak yer var mı?” diyecektir."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Hayır, sığınacak bir yer yoktur!"
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "O gün varıp durulacak yer sadece rabbinin huzurudur."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "O gün insana yaptığı ve yapmadığı her şey hakkında bilgi verilecektir."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Artık insan, mazeretlerini sayıp dökse de kendine kendisi tanıktır."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Artık insan, mazeretlerini sayıp dökse de kendine kendisi tanıktır."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Onu zihnine bir an önce kaydetmek için, okumada acele etme."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Onu zihninde toplayıp okumanı sağlama işi bize aittir."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "O halde onu okuduğumuz zaman sen onun okunuşunu takip et."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Sonra onu anlatmak elbette bize aittir."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Hayır (ey insanlar)! Doğrusu siz çabucak gelip geçeni seviyorsunuz,"
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Ahireti ise bir yana bırakıyorsunuz."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Oysa o gün bir kısım yüzler rablerine bakarak mutlulukla parıldayacak;"
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Oysa o gün bir kısım yüzler rablerine bakarak mutlulukla parıldayacaktır;"
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Bir kısım yüzler ise o gün insanın belini kıracak bir felaketi sezerek sararıp solacaktır."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Bir kısım yüzler ise o gün insanın belini kıracak bir felaketi sezerek sararıp solacaktır."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Hayır artık çok geç! Can boğaza gelip dayandığında;"
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "“Yok mu bir şifacı?” dendiğinde;"
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "(Hasta) bunun beklenen ayrılış olduğunu anladığında;"
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Ve bacaklar birbirine dolaştığında;"
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "İşte o gün sevkedilen yer sadece rabbinin huzurudur."
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Vaktiyle o hakka inanmamış, namaz da kılmamıştı."
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Aksine inkar etmiş, haktan yüz çevirmişti."
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Sonra da çalım sata sata yürüyüp yandaşlarına gitmişti."
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "(Ey insan!) Acı sonun yaklaştıkça yaklaşıyor!"
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Evet o sana yaklaştıkça yaklaşıyor!"
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "İnsan, kendisinin başı boş bırakılacağını mı sanır?"
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "O akıtılan meniden bir damlacık (sperm) değil miydi?"
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Sonra o, alaka (asılıp tutunan zigot) olmuş, derken Allah onu yaratıp ­şekillendirmiş;"
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Ondan iki eşi, erkek ve dişiyi yaratmıştır."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Peki bütün bunları yapan, ölüleri diriltemez mi?"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

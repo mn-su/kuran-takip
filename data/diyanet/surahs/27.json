@@ -1,0 +1,486 @@
+{
+  "id": 27,
+  "name": "النمل",
+  "translation": "Neml",
+  "transliteration": "neml",
+  "nuzul": 48,
+  "description": "Mekke döneminde inmiştir. 93 âyettir. Sûre, adını 18. âyette yer alan “enNeml” kelimesinden almaktadır. Neml, karınca demektir. Sûre de başlıca, Süleyman peygamber ve Sebe’ melikesi, Belkıs kıssası ile Salih ve Lût peygamberler konu edilmekte, ayrıca mü’minlerin kurtuluşa ereceği, İslâm karşıtlarının kötü akıbetleri, öldükten sonra dirilmek ve kıyamet dile getirilmektedir.",
+  "total_verses": 93,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Ta-sin. Bunlar Kur’an’ın, gerçekleri açıklayan kitabın ayetleridir;"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Namazı kılan, zekatı veren ve ahirete kesin bir şekilde iman eden müminler için bir hidayet rehberi ve bir müjdedir."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Namazı kılan, zekatı veren ve ahirete kesin bir şekilde iman eden müminler için bir hidayet rehberi ve bir müjdedir."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Ahirete inanmayanların yapıp ettiklerini şüphesiz kendilerine güzel göstermiş olduk; bu yüzden şuursuzca eğlenip dururlar."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "İşte en ağır cezayı hak edenler bunlardır; ahirette en çok ziyana uğrayacak olanlar da yine bunlardır."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Şüphesiz ki bu Kur’an sana ilim ve hikmet sahibi Allah tarafından verilmektedir."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Bir zamanlar Musa, ailesine, “(Şu uzakta) bir ateş bulunduğunu farkettim. Size oradan bir haber ya da ısınmanız için ondan bir parça kor getireceğim” demişti."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Oraya geldiğinde ona şöyle seslenildi: “Ateşin yanındaki ve çevresindekiler mübarek kılınmıştır! Alemlerin rabbi olan Allah, her türlü noksanlıktan uzaktır!”"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "“Ey Musa! Şüphesiz ben mutlak galip ve hikmet sahibi olan Allahım!"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Asanı yere at!” Musa atıp da onu yılan gibi kımıldanır görünce arkasına bakmadan dönüp kaçtı. (Allah buyurdu ki:) “Ey Musa! Korkma, benim huzurumda peygamberler korkmaz;"
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Ancak haksızlığa sapan korkar; o da işlediği bir kötülük yerine bir iyilik ederse bilsin ki ben çok bağışlayıcıyım, çok merhametliyim."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Şimdi elini koynuna sok da kusursuz bembeyaz olarak çıksın. Dokuz mucize ile Firavun ve kavmine git. Çünkü onlar yoldan çıkmış bir kavim oldular.”"
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Mucizelerimiz onların gözleri önüne serilince, “Bu, düpedüz bir sihirdir” dediler."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Mucizeleri açık ve kesin olarak görüp idrak ettikleri halde zulüm ve kibirlerinden ötürü onları inkar ettiler. Bozguncuların sonunun nice olduğuna bir bak!"
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Şüphesiz biz Davud’a ve Süleyman’a da bir ilim verdik. “Bizi mümin kullarının birçoğundan üstün kılan Allah’a hamdolsun!” dediler."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Süleyman Davud’un yerine geçti. Dedi ki: “Ey insanlar! Bize kuş dili öğretildi ve bize her şeyden gerektiği kadar verildi. Doğrusu bu apaçık bir lutuftur.”"
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Bir zaman cinlerden, insanlardan ve kuşlardan oluşan orduları Süleyman’ın emrinde toplanmış, birlikte sevk ve idare ediliyordu."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Nihayet Karınca vadisine geldiklerinde, bir karınca şöyle dedi: “Ey karıncalar! Yuvalarınıza girin; aman, Süleyman ve ordusu farkına varmadan sizi ezmesin!”"
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Onun bu sözünden dolayı Süleyman neşeyle gülümsedi ve “Ey rabbim!” dedi, “Gerek bana gerekse anne babama verdiğin nimete şükretmeye ve hoşnut olacağın iyi işler yapmaya beni muvaffak kıl. Rahmetinle beni iyi kullarının arasına kat!”"
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Süleyman kuşları gözden geçirdi ve “Hüdhüdü niçin göremiyorum; yoksa kayıplara mı karıştı?” diye sordu."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "“Ya bana açık bir gerekçe getirir veya onu şiddetle cezalandırırım ya da onu ­boğazlarım!”"
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Çok geçmeden hüdhüd gelip dedi ki: “Ben, senin bilmediğin bir şeyi öğrendim. Sebe’ halkından sana kesin bir bilgi getirdim.”"
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "“Onları bir kadın hükümdarın yönettiğini gördüm; kendisine her imkan verilmiş; bir de muhteşem tahtı var."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Ancak onun ve halkının Allah’ı bırakıp güneşe taptıklarını da gördüm. Şeytan onlara yaptıklarını güzel göstermiş, böylece onları yoldan alıkoymuş; bu yüzden doğru yolu bulamıyorlar."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "(Şeytan bunu) göklerde ve yerde gizli olanı açığa çıkaran, gizlediğinizi ve açıkladığınızı bilen Allah’a secde etmesinler, diye yapmış."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Oysa büyük arşın sahibi olan Allah’tan başka tanrı yoktur.”"
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Süleyman da, “Doğru mu söylüyorsun yoksa yalancılardan biri misin, göreceğiz."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Şu mektubumu götür, önlerine bırak, sonra onların yanından çekil de ne sonuca varacaklarına bak.”"
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Sebe melikesi (adamlarına) şöyle dedi: “Beyler! Bana çok önemli bir mektup gönderilmiş!"
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Mektup Süleyman’dan gelmekte, rahman ve rahim olan Allah’ın adıyla ­başlamaktadır;"
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "‘Bana üstünlük taslamayın, gelip bana teslim olun’ denilmektedir.”"
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Kraliçe şöyle dedi: “Efendiler! İçinde bulunduğum durum hakkında bana görüşünüzü açıklayın. Sizin görüşünüzü almadan asla bir işe kesin karar vermem.”"
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Şu cevabı verdiler: “Biz güçlüyüz, zorlu savaşçılarız, yine de yetki senindir; artık ne buyuracağını sen düşün.”"
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Kraliçe şöyle dedi: “Krallar bir ülkeye girdiler mi, oranın altını üstüne getirirler ve halkının ulularını aşağılanmış duruma düşürürler. Bunlar da öyle yapacaklardır."
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Ben bunlara bir hediye göndereceğim, sonra bakacağım elçiler ne ile dönecekler?”"
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "(Elçiler) Süleyman’a geldiğinde o şöyle dedi: “Siz bana mal yardımı mı yapıyorsunuz? Allah’ın bana verdiği size verdiğinden daha değerlidir. Hayır, hayır! Bu hediyenizle ancak sizin gibiler sevinir."
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "(Ey elçi!) Onlara dön; iyi bilsinler ki asla karşı koyamayacakları ordularla üzerlerine gelir, muhakkak surette onları yenilmiş ve küçük düşürülmüş olarak oradan çıkarırız!”"
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "(Danışmanlarına dönerek) “Beyler! Onlar boyun eğerek bana gelmeden önce hanginiz o kraliçenin tahtını bana getirebilirsiniz?” diye sordu."
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Cinlerden bir ifrit, “Sen makamından kalkmadan önce ben onu sana getiririm. Gerçekten bu işe gücüm yeter, ben güvenilir biriyim” dedi."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "(Bu konuya dair) kitaptan bir bilgisi olan ise, “Ben onu sen göz açıp kapayıncaya kadar getiririm” diye cevap verdi. Süleyman, tahtı yanı başına yerleşmiş olarak görünce şöyle dedi: “Bu, şükür mü yoksa nankörlük mü edeceğim diye beni sınayan rabbimin bir lutfudur. Şükreden ancak kendisi için şükretmiş olur, nankörlük edene gelince, o bilsin ki rabbimin hiçbir şeye ihtiyacı yoktur, kerem sahibidir.”"
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "“Onun tahtını tanıyamayacağı bir hale getirin; bakalım gerçeği anlayacak mı yoksa anlamayanlardan mı olacak?” dedi."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Kraliçe geldiğinde, “Senin tahtın da böyle mi?” diye soruldu. “Tıpkı o!” dedi ve ekledi: “Biz bundan önce hakkınızda bilgi sahibi olmuş ve çağrınıza boyun eğmiştik.”"
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "Onu, daha önce Allah’tan başka taptığı şeyler saptırmıştı. Çünkü o inkarcı bir kavimdendi."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Ona, “Köşke gir” denildi. Kraliçe salonu görünce, onu oraya toplanmış su sandı ve eteğini topladı. Süleyman, “Bu, billurdan yapılmış bir köşkün şeffaf zeminidir” diye uyardı. Kraliçe, “Rabbim, ben gerçekten kendime zulmetmişim! Artık Süleyman’la beraber alemlerin rabbi olan Allah’a teslim oldum” dedi."
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Semud kavmine, “Allah’a kulluk edin” demesi için kardeşleri Salih’i gönderdik. Ama hemen birbiriyle çekişen iki grup oluverdiler."
+    },
+    {
+      "id": 46,
+      "text": "",
+      "translation": "Salih, “Ey kavmim!” dedi, “İyilik dururken niçin kötülüğe koşuyorsunuz; size merhamet edilmesi için Allah’tan bağışlanmayı dileseniz olmaz mı?”"
+    },
+    {
+      "id": 47,
+      "text": "",
+      "translation": "Şöyle cevap verdiler: “Sen ve beraberindekiler bize uğursuz geldiniz.” Salih, “Başınıza gelenler Allah katındandır. Doğrusu siz imtihana çekilen bir topluluksunuz” dedi."
+    },
+    {
+      "id": 48,
+      "text": "",
+      "translation": "O şehirde dokuz elebaşı vardı; bunlar yeryüzünde bozgunculuk yapıyor, iyileştirme ve düzeltme cihetine gitmiyorlardı."
+    },
+    {
+      "id": 49,
+      "text": "",
+      "translation": "Allah’a and içerek aralarında şöyle konuştular: “Gece baskınıyla onu ve ailesini öldürelim, sonra velisine, ‘Biz Salih ailesinin öldürülmesi sırasında orada değildik, gerçekten doğru söylüyoruz’ diyelim.”"
+    },
+    {
+      "id": 50,
+      "text": "",
+      "translation": "Onlar böyle bir tuzak kurdular, biz de kendileri farkında olmadan bir plan kurduk."
+    },
+    {
+      "id": 51,
+      "text": "",
+      "translation": "Bak işte tuzaklarının sonu ne oldu: Onları da kavimlerini de (nasıl) toptan helak ettik!"
+    },
+    {
+      "id": 52,
+      "text": "",
+      "translation": "İşte haksızlıkları yüzünden çökmüş evleri! Anlayan bir kavim için elbette bunda ibret vardır."
+    },
+    {
+      "id": 53,
+      "text": "",
+      "translation": "İman edip Allah’a karşı gelmekten sakınanları ise o felaketten kurtardık."
+    },
+    {
+      "id": 54,
+      "text": "",
+      "translation": "Lut’u da hatırla! O kavmine, “Göz göre göre hala o hayasızlığı yapacak mısınız? Gerçekten siz kadınları bırakıp da şehvetle erkeklere mi yöneliyorsunuz? Doğrusu siz değerleri bilmeyen bir topluluksunuz” demişti."
+    },
+    {
+      "id": 55,
+      "text": "",
+      "translation": "Lut’u da hatırla! O kavmine, \"\"Göz göre göre hala o hayasızlığı yapacak mısınız? Gerçekten siz kadınları bırakıp da şehvetle erkeklere mi yöneliyorsunuz? Doğrusu siz değerleri bilmeyen bir topluluksunuz\"\" demişti."
+    },
+    {
+      "id": 56,
+      "text": "",
+      "translation": "Fakat kavminin cevabı, “Lut ailesini ülkenizden çıkarın; kuşkusuz onlar (ahlakça) temizlik taslayan kimselermiş!” demekten ibaret oldu."
+    },
+    {
+      "id": 57,
+      "text": "",
+      "translation": "Bunun üzerine onu ve karısı dışında kalan ailesini kurtardık. Karısının geride kalanlardan olmasını takdir ettik."
+    },
+    {
+      "id": 58,
+      "text": "",
+      "translation": "Onların üzerine müthiş bir yağmur indirdik; önceden uyarılmış olanların yağmuru ne korkunç oldu!"
+    },
+    {
+      "id": 59,
+      "text": "",
+      "translation": "De ki: “Hamdolsun Allah’a, selam olsun seçkin kıldığı kullarına. Allah mı daha hayırlı yoksa O’na koştukları ortaklar mı?"
+    },
+    {
+      "id": 60,
+      "text": "",
+      "translation": "Peki gökleri ve yeri yaratan, gökten size su indiren kim? Biz o suyla, sizin bir tek ağacını bile bitiremeyeceğiniz güzel güzel bahçeler, bağlar yetiştirmekteyiz. Allah’tan başka tanrı mı! Doğrusu onlar yoldan sapmış kimselerdir."
+    },
+    {
+      "id": 61,
+      "text": "",
+      "translation": "Peki yeryüzünü yerleşmeye elverişli kılan, vadilerinden nehirler akıtan, yerde sarsılmaz dağlar yaratan, iki deniz arasına engel koyan kim? Allah’tan başka bir tanrı mı? Doğrusu onların çoğu gerçeği bilmiyorlar."
+    },
+    {
+      "id": 62,
+      "text": "",
+      "translation": "Peki darda kalan kendisine yalvardığı zaman imdadına yetişen, sıkıntısını gideren ve sizi yeryüzünün yöneticileri yapan kim? Allah’tan başka bir tanrı mı? Ne kadar da kıt düşünüyorsunuz!"
+    },
+    {
+      "id": 63,
+      "text": "",
+      "translation": "Peki karaların ve denizlerin karanlıkları içinde yol bulmanızı sağlayan kim? Rüzgarları rahmetinin önünde müjdeci olarak gönderen kim? Allah’tan başka bir tanrı mı? Allah, onların ortak koştuklarından çok yücedir, münezzehtir."
+    },
+    {
+      "id": 64,
+      "text": "",
+      "translation": "Peki ilk baştan yaratan, sonra yaratmayı (durmaksızın) tekrar eden kim? Size hem gökten hem yerden rızık veren kim? Allah’tan başka bir tanrı mı? De ki: “Eğer doğru söylüyorsanız kesin delilinizi getirin bakalım!”"
+    },
+    {
+      "id": 65,
+      "text": "",
+      "translation": "De ki: “Allah’tan başka göklerde olsun yerde olsun hiç kimse gaybı bilemez.” Onlar ne zaman diriltileceklerini de bilmezler."
+    },
+    {
+      "id": 66,
+      "text": "",
+      "translation": "Hayır, onların ahiret hakkındaki bilgileri yetersiz kalmıştır; dahası, bu hususta şüphe içindedirler; bunun da ötesinde onlar ahiretten yana kördürler."
+    },
+    {
+      "id": 67,
+      "text": "",
+      "translation": "İnkarcılar dediler ki: “Sahi, biz ve atalarımız toprak olunca mı diriltilip (hayat alanına) çıkarılacak mışız?"
+    },
+    {
+      "id": 68,
+      "text": "",
+      "translation": "Doğrusu bu tehdit bize yapıldığı gibi daha önce atalarımıza da yapılmıştı. Ama bu, eskilerin masallarından başka bir şey değildir.”"
+    },
+    {
+      "id": 69,
+      "text": "",
+      "translation": "De ki: “Yeryüzünde dolaşın da günahkarların sonu nice oldu, görün!”"
+    },
+    {
+      "id": 70,
+      "text": "",
+      "translation": "Sen de onların yüzünden üzülme, tuzak kurmalarından dolayı da canını sıkma."
+    },
+    {
+      "id": 71,
+      "text": "",
+      "translation": "“Eğer doğru söylüyorsanız bu tehdit ne zaman gerçekleşecek?” diye soruyorlar."
+    },
+    {
+      "id": 72,
+      "text": "",
+      "translation": "De ki: “Çabucak gelmesini istediğiniz azabın bir kısmı belki de tepenize inmek üzeredir.”"
+    },
+    {
+      "id": 73,
+      "text": "",
+      "translation": "Şüphesiz rabbin insanlara karşı lutuf sahibidir; fakat onların çoğu şükretmezler."
+    },
+    {
+      "id": 74,
+      "text": "",
+      "translation": "Rabbin onların kalplerinde gizlediklerini de açığa vurduklarını da elbette bilir."
+    },
+    {
+      "id": 75,
+      "text": "",
+      "translation": "Gökte ve yerde gözlerden gizli hiçbir şey yoktur ki apaçık bir kitapta yer almasın."
+    },
+    {
+      "id": 76,
+      "text": "",
+      "translation": "Doğrusu bu Kur’an, İsrailoğulları’na, üzerinde anlaşamadıkları pek çok şeyi ­açıklamaktadır."
+    },
+    {
+      "id": 77,
+      "text": "",
+      "translation": "Şüphesiz o, müminler için bir hidayet rehberi ve bir rahmettir."
+    },
+    {
+      "id": 78,
+      "text": "",
+      "translation": "Gerçek şu ki rabbin onların arasında hükmünü verecektir. O çok güçlüdür, her şeyi bilmektedir."
+    },
+    {
+      "id": 79,
+      "text": "",
+      "translation": "O halde sen Allah’a güvenip dayan. Çünkü sen apaçık hakikat üzeresin."
+    },
+    {
+      "id": 80,
+      "text": "",
+      "translation": "Bil ki sen ölülere işittiremezsin, arkalarını dönüp giderlerken sağırlara da çağrıyı duyuramazsın."
+    },
+    {
+      "id": 81,
+      "text": "",
+      "translation": "Sen körleri yanlış yoldan doğruya yönlendiremezsin. Sen (çağrını) ancak ayetlerimize inanıp teslim olanlara duyurabilirsin."
+    },
+    {
+      "id": 82,
+      "text": "",
+      "translation": "Söylenen (kıyamet) başlarına geldiği zaman, onlara yerden bir yaratık çıkarırız da insanların ayetlerimize kesin bir şekilde iman etmedikleri konusunda onlarla konuşur."
+    },
+    {
+      "id": 83,
+      "text": "",
+      "translation": "O gün her ümmet içinden, ayetlerimizi yalan sayan grupları bir araya getiririz. Onlar düzenli bir şekilde (hesap yerine) sevkedilirler."
+    },
+    {
+      "id": 84,
+      "text": "",
+      "translation": "Nihayet oraya geldikleri zaman Allah buyurur: “Siz benim ayetlerimi, ne olduğunu kavramadan yalan saydınız öyle mi? Değilse yaptığınız neydi?”"
+    },
+    {
+      "id": 85,
+      "text": "",
+      "translation": "Zulme saptıkları için kendileri hakkındaki söz gerçekleşmiştir; artık konuşamazlar."
+    },
+    {
+      "id": 86,
+      "text": "",
+      "translation": "Dinlensinler diye geceyi yarattığımızı, gündüzü de aydınlık kıldığımızı görmediler mi? İman eden bir kavim için elbette bunda ibretler vardır."
+    },
+    {
+      "id": 87,
+      "text": "",
+      "translation": "Surun üflendiği gün, Allah’ın diledikleri dışında, göklerde ve yerde bulunanlar dehşete kapılır, hepsi boyunları bükük olarak O’na gelirler."
+    },
+    {
+      "id": 88,
+      "text": "",
+      "translation": "Dağları görür, onların durduğunu sanırsın; oysa bulutlar gibi hareket ederler. Bu, her şeyi sapasağlam yapan Allah’ın sanatıdır. Şüphesiz ki O, yaptıklarınızdan tamamıyla haberdardır."
+    },
+    {
+      "id": 89,
+      "text": "",
+      "translation": "Kim (ilahi huzura) iyilikle gelirse ona daha iyisi verilir; o gün onlar kıyamet dehşetinden de etkilenmezler."
+    },
+    {
+      "id": 90,
+      "text": "",
+      "translation": "Ama kimler de kötülükle gelirse işte onlar yüzüstü cehenneme atılırlar. Yaptıklarınızın karşılığından başkasını mı göreceksiniz?"
+    },
+    {
+      "id": 91,
+      "text": "",
+      "translation": "De ki: “Bana, dokunulmaz kıldığı bu şehrin rabbine, yalnız O’na kulluk etmem emredildi; zaten her şey O’na aittir. Bir de bana müslümanlardan olmam ve Kur’an’ı okumam emredildi.” Artık kim doğru yola gelirse yalnız kendisi için gelmiş olur; kim de saparsa ona de ki: “Ben sadece uyarıcılardanım.”"
+    },
+    {
+      "id": 92,
+      "text": "",
+      "translation": "De ki: \"\"Bana, dokunulmaz kıldığı bu şehrin rabbine, yalnız O’na kulluk etmem emredildi; zaten her şey O’na aittir. Bir de bana müslümanlardan olmam ve Kur’an’ı okumam emredildi.\"\" Artık kim doğru yola gelirse yalnız kendisi için gelmiş olur; kim de saparsa ona de ki: \"\"Ben sadece uyarıcılardanım.\"\""
+    },
+    {
+      "id": 93,
+      "text": "",
+      "translation": "Ve şunu da söyle: “Hamd Allah’a mahsustur. O, işaretlerini size gösterecek, siz de onları görüp tanıyacaksınız. Rabbin yaptıklarınızdan habersiz değildir."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

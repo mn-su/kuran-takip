@@ -1,0 +1,36 @@
+{
+  "id": 103,
+  "name": "العصر",
+  "translation": "Asr",
+  "transliteration": "asr",
+  "nuzul": 13,
+  "description": "Mekke döneminde inmiştir. 3 âyettir. Asr, çağ, ikindi vakti, uzun zaman demektir.",
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Asra yemin ederim ki,"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "İnsan gerçekten ziyandadır."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Ancak iman edip dünya ve ahiret için yararlı işler yapanlar, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler başkadır."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

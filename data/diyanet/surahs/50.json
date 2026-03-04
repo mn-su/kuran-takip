@@ -1,0 +1,246 @@
+{
+  "id": 50,
+  "name": "قۤ",
+  "translation": "Kâf",
+  "transliteration": "kaf",
+  "nuzul": 34,
+  "description": "Mekke döneminde inmiştir. 45 âyettir. Sûre, adını başındaki “Kâf ” harfindenalmıştır. Sûrede başlıca İslâm inancının temel esasları çerçevesinde, Allah’ın birliğinin delilleri, Peygamberlik, öldükten sonra dirilme ve geçmişteki inkârcı milletlerin başlarına gelen felaketler, uğradıkları azaplar konu edilmektedir.",
+  "total_verses": 45,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Kaf. Şanı yüce Kur’an’a yemin olsun!"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Kafirler, içlerinden bir uyarıcının gelmesine şaştılar da, “Bu tuhaf bir şey, öldükten ve toprak olduktan sonra mı (dirileceğiz)? Bu olmayacak bir dönüş!” dediler."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Kafirler, içlerinden bir uyarıcının gelmesine şaştılar da, “Bu tuhaf bir şey, öldükten ve toprak olduktan sonra mı (dirileceğiz)? Bu olmayacak bir dönüş!” dediler."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Yerin onlardan neyi eksilttiğini (çürüttüğünü) bilmekteyiz; bizde her şeyi saklayan bir kayıt vardır."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Ayrıca bunlar gerçeği kendilerine geldiğinde hemen yalanladılar; tam bir tutarsızlık içindeler."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Üstlerindeki göğe bakmıyorlar mı? Hiçbir kusuru olmaksızın onu nasıl kurduk, nasıl süsledik."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Yeryüzünü de düzledik, üzerine sarsılmaz dağlar yerleştirdik, orada her türden güzel bitkiler yetiştirdik;"
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Bize yönelen her kula aydınlatıcı ve hatırlatıcı olsun diye."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Gökten bereketli yağmurlar indirdik, onunla nice bahçeler ve hasat edilen tahıllar yetiştirdik."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Bir de salkım salkım meyvesiyle göğe uzanan hurma ağaçları..."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Hepsi kullara rızık olsun diye. O yağmurla ölü toprağa can verdik. İşte insanların mezardan çıkışları da böyle olacak."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Bunlardan önce Nuh kavmi, Ress ve Semud halkı,"
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Ad, Firavun ve Lut’un kardeşleri,"
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Eykeliler ve Tübba‘ kavmi de yalanlamışlar, hepsi peygamberleri yalancılıkla suçlamıştı; sonunda onları uyardığım şey başlarına geldi."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Düşünseler ya, ilk yaratışta acze düştük mü? Buna rağmen onlar yeni bir yaratma konusunda şüphe içindeler."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "İnsanı biz yarattık ve elbette içinden geçenleri biliriz; sağında solunda oturmuş iki alıcı (yaptıklarını) alıp kaydederken biz ona şah damarından daha yakınız."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "İnsanı biz yarattık ve elbette içinden geçenleri biliriz; sağında solunda oturmuş iki alıcı (yaptığını) alıp kaydederken biz ona şah damarından daha yakınız."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "O hiçbir söz söylemez ki yanında çok dikkatli bir gözetleyici olmasın!"
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Bu durumda iken ölüm sarhoşluğu kaçınılamaz bir gerçek olarak çöküverir. (Ona şöyle denir:) “İşte bu, senin kendisinden kaçıp durduğun şeydir!”"
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Derken sura üfürülür; işte bu, ceza uyarısı yapılmış olan gündür."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Her şahıs, yanında bir sürüp götüren görevli, bir de tanıkla gelir."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "(Ona şöyle seslenilir:) “Sen bu konuda tam bir gaflet içindeydin, artık gözünden perdeni kaldırdık, şimdi gözün keskindir.”"
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Arkadaşı (melek), “İşte hep beraber olduğum şahıs burada” der."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "(Ve şu emir gelir:) “Atın cehenneme her inatçı kafiri! İyiliği engelleyen, hak tanımayan, insanları şüpheye düşüren, Allah’ın yanına başka bir tanrı daha koyan kimseyi, atın onu dayanılmaz azaba!”"
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "(Ve şu emir gelir:) “Atın cehenneme her inatçı kafiri! İyiliği engelleyen, hak tanımayan, insanları şüpheye düşüren, Allah’ın yanına başka bir tanrı daha koyan kimseyi, atın onu dayanılmaz azaba!”"
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "(Ve şu emir gelir:) “Atın cehenneme her inatçı kafiri! İyiliği engelleyen, hak tanımayan, insanları şüpheye düşüren, Allah’ın yanına başka bir tanrı daha koyan kimseyi, atın onu dayanılmaz azaba!”"
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Yandaşı (şeytan), “Rabbim! Onu ben azdırmadım, o kendisi apaçık bir sapkınlık içinde idi” der."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Allah şöyle buyurur: “Huzurumda tartışmayın, sizi daha önce uyarmıştım."
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Bende söz değişmez ve ben asla kullara zulmetmem.”"
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "O gün cehenneme “Doldun mu?” diyeceğiz; cevap verecek: “Daha yok mu?”"
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Allah’a itaatsizlikten sakınanlar için de cennet, iyice yakınlarına getirilecek."
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Ve kendilerine şöyle denecektir: “İşte sizlere; daima Allah’a yönelen, O’nu aklından çıkarmayan, görmediği halde Rahman’dan çekinip korkan ve samimi bir kalp ile gelen kimseye vaad edilen cennet!"
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Ve kendilerine şöyle denecektir: \"\"İşte sizlere; daima Allah’a yönelen, O’nu aklından çıkarmayan, görmediği halde rahmandan çekinen ve tamamen rabbine dönük bir kalp ile gelen kimseye vaad edilen cennet!"
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Oraya esenlikle girin, bu sonsuza kadar sürecek gündür.”"
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Orada istedikleri her şey onlarındır, üstelik katımızda fazlası da vardır."
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "Kendilerinden önce, onlardan daha güçlü olup yeryüzünde şehirler kurarak aralarında gidip gelen nice toplulukları yok ettik. Kurtuluş var mı?"
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Aklı olan veya şuurlu olarak söze kulak veren kimse için bunda büyük ibret vardır."
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Gökleri, yeri ve ikisi arasında bulunanları altı günde yarattık da en küçük bir yorgunluk çekmedik."
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Resulüm! Sen onların söylediklerini sabırla karşıla; güneş doğmadan ve batmadan önce rabbini övgü ve tesbih ile an."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Gecenin bir kısmında ve secdelerin ardından da O’nu yücelterek an."
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Seslenenin, yakın bir yerden seslendiği gün için dinlemede ol."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "O dirilten sesi gerçekten işittikleri gün, işte o (ebedi hayata) çıkış günüdür."
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "Biz, ancak biz hayat verir ve öldürürüz, dönüş de elbet bizedir."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Yerküre kendilerinden ayrılıp paramparça olduğu gün göz açıp kapayıncaya kadar (o seslenene yöneleceklerdir); bu bizim için çok kolay bir toplamadır."
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Onların ne dediklerini biz daha iyi biliyoruz. Sen onları zorlamakla görevli değilsin, uyarımızı ciddiye alanlara Kur’an’ı durmadan oku!"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

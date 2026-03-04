@@ -1,0 +1,81 @@
+{
+  "id": 66,
+  "name": "التحريم",
+  "translation": "Tahrîm",
+  "transliteration": "tahrim",
+  "nuzul": 107,
+  "description": "Medine döneminde inmiştir. 12 âyettir. Sûre, adını Hz. Peygamber’in, helâlolan bir şeyi kendisine haram kıldığından söz eden ve “Tahrîm Âyeti” diyeadlandırılan birinci âyetten almıştır. Tahrîm, haram kılmak demektir. Sûredebaşlıca, Hz. Peygamber’in eşleriyle olan bazı münasebetleri ile, mutlu bir aileyuvasının oluşturulmasının temel prensipleri konu edilmektedir.",
+  "total_verses": 12,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Ey peygamber! Allah’ın sana helal kıldığını, eşlerini hoşnut etmek arzusuyla niçin kendine haram kılıyorsun? Bununla beraber Allah bağışlayıcıdır, merhametlidir."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Allah size (belli durumlarda) yeminlerinizi çözmeyi meşru kılmıştır. Allah sizin yardımcınızdır; O bilendir, hikmet sahibidir."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Hani peygamber, eşlerinden birine gizli bir şey söylemişti. Eşi bunu başkalarına aktarıp Allah da durumu peygambere açıklayınca peygamber bunun bir kısmını anlattı, bir kısmından vazgeçti. Eşine konuyu anlatınca o, “Bunu sana kim haber verdi?” diye sordu. “Her şeyi bilen, her şeyden haberdar olan Allah bana bildirdi” diye cevap verdi."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "İkiniz de Allah’a tövbe ederseniz (çok iyi olur), çünkü kalpleriniz eğrilmişti. Ama peygambere karşı bir dayanışma içine girecek olursanız bilin ki herkesten önce Allah onun dostu ve koruyucusudur, sonra da Cebrail ve iyi müminler. Melekler de bunların ardından onun yardımcısıdır."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Eğer sizi boşayacak olursa rabbi ona, sizin yerinize sizden daha iyi olan, Allah’a teslimiyet gösteren, yürekten inanan, içtenlikle itaat eden, tövbe eden, kulluk eden, dünyada yolcu gibi yaşayan, dul ve bakire eşler verebilir."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Ey iman edenler! Kendinizi ve ailenizi yakıtı insanlar ve taşlar olan ateşten koruyun. Onun başında, acımasız, güçlü, Allah’ın kendilerine buyurduğuna karşı gelmeyen ve kendilerine emredileni yerine getiren melekler vardır."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Ey inkar edenler! Bugün bahane üretmeyin! Sadece yapmış olduklarınızın cezasını çekiyorsunuz."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Ey iman edenler! İçtenlikle ve kararlılık içinde Allah’a tövbe edin. Umulur ki rabbiniz kötülüklerinizi örter ve sizi altından ırmaklar akan cennetlerine koyar. O gün Allah, peygamberi ve onunla aynı imanı paylaşanları utandırmaz. Onların nuru önlerinde ve sağ yanlarında ilerleyerek yollarını aydınlatırken şöyle derler: “Rabbimiz! Nurumuzu arttır eksiltme ve bizi bağışla. Şüphesiz senin her şeye gücün yeter.”"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Ey peygamber! Kafirlere ve münafıklara karşı cihad et, onlara sert davran. Onların varacağı yer cehennemdir ve bu ne kötü bir sondur!"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Allah, inkar edenlere Nuh’un karısı ile Lut’un karısını misal vermektedir: Onlar kullarımızdan iki erdemli kişinin nikahı altındaydılar ama onlara ihanet ettiler. Dolayısıyla kocaları da Allah’tan gelen cezaya karşı onları koruyamadı ve kendilerine, “Haydi, diğer girenlerle birlikte girin bakalım ateşe!” dendi."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Allah iman edenlere de Firavun’un karısını misal vermektedir: O, “Rabbim!” demişti, “Yüce katında, cennette benim için bir ev yap; beni Firavun’dan ve yaptıklarından kurtar ve beni bu zalimler topluluğundan da selamete çıkar!”"
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "İmran kızı Meryem’i de (misal vermiştir): O iffetini çok iyi korumuştu, biz de ona ruhumuzdan üfledik; o, rabbinin sözlerini ve kitaplarını hep tasdik etti ve o içtenlikle itaat edenlerdendi."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

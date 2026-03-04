@@ -1,0 +1,61 @@
+{
+  "id": 95,
+  "name": "التين",
+  "translation": "Tîn",
+  "transliteration": "tin",
+  "nuzul": 28,
+  "description": "Mekke döneminde inmiştir. 8 âyettir. Tîn, incir demektir",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Yemin olsun incire ve zeytine;"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Sina dağına;"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Ve şu güvenli beldeye!"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Şüphesiz biz insanı en güzel biçimde yaratmışızdır."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Sonra onu aşağıların aşağısına indirdik."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Ancak iman edip dünya ve ahiret için yararlı işler yapanlar başka; onlar için kesintisiz bir ödül vardır."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Artık bu kanıtlardan sonra (ey insan!) sana dini inkar ettiren şey nedir?"
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Allah hüküm verenlerin en adili değil midir?"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

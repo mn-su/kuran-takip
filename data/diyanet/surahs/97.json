@@ -1,0 +1,46 @@
+{
+  "id": 97,
+  "name": "القدر",
+  "translation": "Kadir",
+  "transliteration": "kadr",
+  "nuzul": 25,
+  "description": "Mekke döneminde inmiştir. 5 âyettir. Sûre, Kadir gecesini anlattığı için bu adıalmıştır. Kadr, azamet ve şeref demektir.",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Biz onu (Kur’an’ı) Kadir gecesinde indirdik."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Bilir misin nedir Kadir gecesi?"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Kadir gecesi bin aydan hayırlıdır."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "O gece melekler ve ruh, rablerinin izniyle her bir iş için iner dururlar."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "O gece tan yeri ağarıncaya kadar esenlik doludur."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 112,
+  "name": "الإخلاص",
+  "translation": "İhlâs",
+  "transliteration": "ihlas",
+  "nuzul": 22,
+  "description": "Mekke döneminde inmiştir. 4 âyettir. İhlâs, samimi olmak, dine içtenliklebağlanmak demektir. Allah’a bu sûrede anlatıldığı şekilde inanan, tevhit inancınıtam anlamıyla benimsemiş ihlâslı bir mü’min olacağı için sûre bu adlaanılmaktadır.",
+  "total_verses": 4,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "De ki: \"O, Allah'tır, tektir."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Allah sameddir."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Doğurmamış ve doğmamıştır."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "O'nun hiçbir dengi yoktur.\""
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

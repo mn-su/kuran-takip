@@ -1,0 +1,36 @@
+{
+  "id": 110,
+  "name": "النصر",
+  "translation": "Nasr",
+  "transliteration": "nasr",
+  "nuzul": 114,
+  "description": "Medine döneminde inmiştir. 3 âyettir. Nasr, yardım demektir.",
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Allah'ın yardımı gelip fetih gerçekleştiğinde;"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Ve insanların akın akın Allah'ın dinine girdiğini gördüğünde;"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Rabbine hamdederek şanının yüceliğini dile getir ve O'ndan af dile; şüphesiz O, tövbeleri çok kabul edendir."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

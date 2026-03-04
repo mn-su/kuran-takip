@@ -1,0 +1,621 @@
+{
+  "id": 5,
+  "name": "المائدة",
+  "translation": "Mâide",
+  "transliteration": "maide",
+  "nuzul": 112,
+  "description": "Medine döneminde inmiştir. 120 âyettir. Sûre, adını 112. ve 114. âyetlerde yer alan “mâide” (sofra) kelimesinden almıştır. Sûrede başlıca  verilen sözlerin yerine getirilmesi, İsrailoğullarının sözlerinde durmamaları, Hıristiyanların yanlış inançları, dünyaya düşkünlükleri ve yolsuzlukları, müslümanlar için bazı talimat, uyarı ve dinî hükümler konu edilmektedir.",
+  "total_verses": 120,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Ey iman edenler! Sözleşmeleri yerine getirin. İhramda bulunduğunuz sırada avlanmayı helal saymamanız şartıyla, size bildirilecek olanlar dışındaki “en‘am” denen hayvanlar sizin için helal kılınmıştır. Şüphesiz Allah dilediği gibi hükmeder."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’ın işaretlerine, haram aya, boyunları bağsız ve bağlı kurbanlıklara, rablerinin lütuf ve rızasını dileyerek Beytülharam’a yönelmiş kimselere sakın saygısızlık etmeyin. İhramdan çıkınca avlanabilirsiniz. Mescid-i Haram’a girmenizi engellediler diye bir topluma karşı duyduğunuz kin, sakın aşırı gitmenize sebep olmasın. İyilik ve takva hususunda yardımlaşın, günah ve haksızlık yolunda yardımlaşmayın. Allah’tan korkun, çünkü Allah’ın cezası çetindir."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Murdar hayvan, kan, domuz eti, Allah’tan başkası adına kesilmiş, boğulmuş, vurularak öldürülmüş, yuvarlanıp ölmüş, boynuzlanarak öldürülmüş hayvanlarla -henüz canı çıkmadan yetişip kestiklerinizin dışında- yırtıcıların yediği hayvanlar, dikili taşlar önünde (sunaklarda) boğazlanmış hayvanlar ve fal oklarıyla paylaşmanız size haram kılındı. Çünkü bunlar doğru yoldan sapmaktır. Bugün, kafirler dininize karşı (mücadelede) ümitlerini yitirmişlerdir. Onlardan korkmayın, benden korkun. Bugün sizin için dininizi kemale erdirdim, size nimetimi tamamladım, sizin için din olarak İslamiyet’i beğendim. Kim açlıktan bunalıp çaresiz kalırsa, günah sınırına varmaksızın yiyebilir. Şüphesiz ki Allah çok bağışlayıcı ve esirgeyicidir."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Sana, kendileri için nelerin helal kılındığını soruyorlar. De ki: “İyi ve temiz olanlar size helal kılınmıştır.” Yırtıcı hayvanlardan olup Allah’ın size öğrettiği ile eğiterek avcı hale getirdiğiniz hayvanların sizin için yakaladıklarından da yiyin; (hayvanı ava salarken besmele çekerek) üzerine Allah’ın adını da anın. Allah’tan korkun, şüphesiz Allah’ın hesabı pek çabuktur."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Bugün size iyi ve temiz nimetler helal kılınmıştır. Kendilerine kitap verilenlerin yiyeceği size helaldir; sizin yiyeceğiniz de onlara helaldir. Gayri meşru ilişkide bulunmak veya gizli dost tutmak şeklinde değil de meşru bir nikahla evlenmek şartıyla mümin kadınlardan iffetli olanlar ile sizden önce kendilerine kitap verilenlerden iffetli kadınlar -mehirlerini verdiğiniz takdirde- size helaldir. Kim inanmayı reddederse ameli kesinlikle boşa gider. O, ahirette de hüsrana uğrayanlardandır."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Ey iman edenler! Namaz kılmaya kalkacağınız zaman yüzlerinizi, dirseklere kadar ellerinizi yıkayın; başlarınızı meshedin, ayaklarınızı da topuk kemiklerine kadar yıkayın. Eğer cünüp olursanız temizlenin. Şayet hasta veya yolculuk halinde bulunursanız veya içinizden biri ayak yolundan gelirse yahut kadınlarla cinsel ilişkide bulunursa, bu hallerde su bulamadığınız takdirde temiz bir toprağa yönelin (teyemmüm edin), yüzünüzü ve ellerinizi onunla meshedin. Allah size herhangi bir güçlük çıkarmak istemez, fakat O sizi tertemiz kılmak ve üzerinizdeki nimetini tamamlamak ister ki şükredesiniz."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Allah’ın üzerinizdeki nimetini, sizden aldığı sağlam ahdini hatırlayın; o zaman, “İşittik ve itaat ettik” demiştiniz. Allah’tan korkun; şüphesiz Allah kalplerin içindekini bilmektedir."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Ey iman edenler! Allah için hakkı ayakta tutun, adaletle şahitlik eden kimseler olun. Herhangi bir topluluğa duyduğunuz kin, sizi adaletsiz davranmaya itmesin. Adaletli olun; bu, takvaya daha uygundur. Allah’tan korkun. Şüphesiz Allah yaptıklarınızdan haberdardır."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Allah, iman edip dünya ve ahiret için yararlı işler yapanlara söz vermiştir; onlar için bağışlama ve büyük bir mükafat vardır."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "İnkar edenlere ve ayetlerimizi yalanlayanlara gelince işte onlar cehennemliklerdir."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’ın üzerinizdeki nimetini hatırlayın; hani bir kavim size el uzatmaya yeltenmişti de Allah onların ellerini sizden çekmişti. Allah’tan korkun! Müminler yalnız Allah’a dayansınlar."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Andolsun ki Allah İsrailoğulları’ndan söz almıştı. Onlardan on iki de nakib (temsilci) göndermiştik. Allah onlara şöyle demişti: “Ben sizinle beraberim. Eğer namazı dosdoğru kılarsanız, zekatı verirseniz, peygamberlerime iman eder ve onları desteklerseniz, bir de Allah rızası için borç verirseniz andolsun ki sizin günahlarınızı örterim ve sizi mutlaka altından ırmaklar akan cennetlere koyarım. Artık bundan sonra içinizden kim inkar ederse kesinlikle doğru yoldan sapmış olur.”"
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Ahidlerini bozdukları için onları lanetledik ve kalplerini katılaştırdık. Onlar kelimelerin yerlerini değiştiriyorlar. Kendilerine bildirilenlerden (Tevrat) önemli bir kısmını da unuttular. İçlerinden pek azı hariç olmak üzere onlardan daima bir hainlik görürsün. Sen yine de onları affet, hoş gör. Çünkü Allah iyilik edenleri sever."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "“Biz hıristiyanız” diyenlerden de sağlam ahidlerini almıştık, ama onlar da kendilerine bildirilenlerden (İncil) önemli bir kısmını unuttular. Bu sebeple aralarına kıyamet gününe kadar sürüp gidecek olan düşmanlığı ve kini soktuk. Allah onlara yapıp ettiklerini ileride haber verecektir."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Ey Ehl-i kitap! Resulümüz kitapta bulunup da gizlemekte olduğunuz birçok şeyi size açıklamak üzere geldi; birçoğunu da açığa vurmuyor. Şüphe yok ki size Allah’tan bir ışık, apaçık bir kitap geldi."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Allah, kendisinin izniyle rızasını arayanları o kitapla kurtuluş yollarına erdirir, onları karanlıklardan aydınlığa çıkarır, onları dosdoğru bir yola iletir."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "“Allah, Meryem oğlu Mesih’in kendisidir” diyenler hiç şüphesiz hakikati inkar etmiş olurlar. De ki: “Eğer Allah, Meryem oğlu Mesih’i, annesini ve yeryüzünde bulunanların tamamını helak etmek isterse, kim Allah’ın gücüne karşı durabilir!” Göklerin, yerin ve ikisi arasındakilerin hükümranlığı Allah’a aittir. O dilediğini yaratır. Allah her şeye kadirdir."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Yahudiler ve hıristiyanlar, “Biz Allah’ın oğulları ve sevgili kullarıyız” dediler. De ki: “Öyleyse Allah günahlarınızdan dolayı sizi niçin cezalandırıyor? Doğrusu siz de O’nun yarattığı sıradan insanlarsınız. O, dilediğini bağışlar, dilediğini de cezalandırır. Göklerin, yerin ve ikisi arasındakilerin mülkiyeti Allah’a aittir. Dönüş de yalnız O’nadır.”"
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Ey Ehl-i kitap! “Bize ne bir müjdeleyici ne de bir uyarıcı geldi” demeyesiniz diye peygamberlerin arası kesildiği bir dönemde size gerçekleri açıklamak üzere elçimiz gelmişti. İşte size müjdeleyici de uyarıcı da geldi. Allah her şeye kadirdir."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Bir zamanlar Musa kavmine şöyle demişti: “Ey kavmim! Allah’ın size lütfettiği nimeti hatırlayın. Zira O, içinizden peygamberler çıkardı, sizi hükümdarlar yaptı ve alemlerde hiç kimseye vermediğini size verdi."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Ey kavmim! Allah’ın sizin için (vatan olarak) yazdığı kutsal topraklara girin, sakın geri dönmeyin, sonra kaybedenler siz olursunuz.”"
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Dediler ki: “Ey Musa! Orada zorba bir topluluk var, onlar oradan çıkmadıkça biz oraya asla giremeyiz. Ama oradan çıkarlarsa biz hemen gireriz.”"
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Korkanlar arasından Allah’ın kendilerine lütufta bulunduğu iki (yiğit) adam şöyle dedi: “Kapıdan üzerlerine hücum edin; oraya girdiğiniz an artık kesinlikle siz galipsiniz. Eğer müminler iseniz ancak Allah’a güvenin.”"
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "İsrailoğulları, “Ey Musa! Onlar orada bulundukları sürece biz oraya asla girmeyeceğiz. Sen ve rabbin gidin savaşın; biz burada oturacağız!” dediler."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Musa, “Rabbim! Ben kendimden ve kardeşimden başkasına söz geçiremiyorum. Artık bizimle bu yoldan çıkmış kavim arasında sen hükmet” dedi."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Allah buyurdu ki: “Öyleyse onlar yeryüzünde şaşkın şaşkın dolaşmak üzere oradan (kutsal topraklar) kırk yıl mahrum bırakılmışlardır. Artık sen yoldan çıkmış toplum için üzülme!”"
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Onlara Adem’in iki oğlunun haberini gerçeğe uygun olarak anlat: Hani ikisi de birer kurban sunmuşlar, birininki kabul edilmiş, diğerininki kabul edilmemişti. Kurbanı kabul edilmeyen, diğerine, “Andolsun seni öldüreceğim!” dedi. O da dedi ki: “Allah ancak takva sahiplerinden kabul eder."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Andolsun ki sen öldürmek için bana el uzatsan bile, ben öldürmek için sana elimi kaldıracak değilim! Zira ben alemlerin rabbi olan Allah’tan korkarım."
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Ben diliyorum ki sen hem benim günahımı hem de kendi günahını yüklenesin, cehennemliklerden olasın! Zalimlerin cezası işte budur.”"
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Sonunda içindeki duygular onu kardeşini öldürmeye itti; onu öldürdü ve böylece hüsrana uğrayanlardan oldu."
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Ardından Allah, kardeşinin cesedini nasıl gömeceğini ona göstermek için yeri eşeleyen bir karga gönderdi. “Yazıklar olsun bana! Şu karga kadar olup da kardeşimin cesedini gömmekten aciz miyim?” dedi, ettiğine de pişman oldu."
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "İşte bundan dolayı İsrailoğulları’na şöyle yazmıştık: “Bir cana kıymaya veya yeryüzünde fesat çıkarmaya karşılık olması dışında, kim bir kimseyi öldürürse bütün insanları öldürmüş gibi olur. Kim de bir can kurtarırsa bütün insanların hayatını kurtarmış gibi olur.” Şüphesiz peygamberlerimiz onlara apaçık deliller getirdiler. Ama bundan sonra da onların çoğu yeryüzünde taşkınlık göstermektedirler."
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Allah’a ve peygamberine karşı savaşanların ve yeryüzünde bozgunculuk çıkarmaya çalışanların cezası ancak ya öldürülmeleri veya asılmaları yahut el ve ayaklarının çapraz olarak kesilmesi ya da bulundukları yerden sürgün edilmeleridir. Bu, onların dünyada uğradıkları aşağılayıcı cezadır. Ahirette ise onlar için büyük bir azap vardır."
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Ancak onları yenip ele geçirmenizden önce tövbe edenler müstesna! Biliniz ki Allah çok bağışlayıcı, çok esirgeyicidir."
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’tan korkun, O’na yaklaşmaya vesile arayın ve O’nun yolunda çaba harcayın ki kurtuluşa eresiniz."
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "Kafir olanlar var ya, yeryüzünde olan her şey, bunun yanında bir o kadarı daha onların olsa ve kıyamet gününün azabından kurtulmak için onu kurtuluş fidyesi olarak verseler, onlardan asla kabul edilmez; onlar için elem verici bir azap vardır."
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Onlar ateşten çıkmak isterler, fakat oradan çıkamayacaklardır. Onlar için sürekli bir azap vardır."
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Hırsızlık eden erkek ve hırsızlık eden kadının yaptıklarına karşılık bir ceza, Allah’tan bir ibret olarak ellerini kesin. Allah güçlüdür, hikmet sahibidir."
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Kim bu haksız davranışından sonra tövbe eder ve halini düzeltirse bilsin ki Allah onun tövbesini kabul eder. Şüphe yok ki Allah çok bağışlayıcı, çok esirgeyicidir."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Bilmez misin ki göklerin ve yerin mülkiyeti Allah’a aittir. O, dilediğine azap eder, dilediğini de bağışlar. Allah her şeye kadirdir."
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Ey peygamber! Kalpleri inanmadığı halde ağızlarıyla “iman ettik” diyenlerden ve yahudilerden küfürde yarışanlar seni üzmesin. Onlar hep yalana kulak verirler, sana gelmeyen başka bir kesimi dinler dururlar; kelimeleri konulduğu anlamlarından kaydırıp değiştirirler. “Eğer size şu verilirse hemen alın, eğer o verilmezse uzak durun” derler. Allah bir kimseyi fitneye düşürmek isterse elbette Allah’ın iradesine karşı senin elinden hiçbir şey gelmez. İşte onlar Allah’ın, kalplerini temizlemek istemediği kimselerdir. Onların dünyadaki hakkı büyük bir rezilliktir. Ahirette de onlar için büyük bir azap vardır."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Onlar, hep yalana kulak veren ve durmadan haram yiyen kimselerdir. Sana gelirlerse aralarında hüküm ver veya onlardan yüz çevir. Onlardan yüz çevirirsen sana hiçbir zarar veremezler. Eğer hüküm verirsen aralarında adaletle hükmet. Şüphesiz Allah adil olanları sever."
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "İçinde Allah’ın hükmü bulunan Tevrat yanlarında olduğu halde seni nasıl hakem tayin ediyorlar; bunun ardından da yüz çevirip gidiyorlar. Onlar asla inanmış değildirler."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Kendilerini Allah’a vermiş olan peygamberlerin ve -Allah’ın kitabını korumaları kendilerinden istendiği için- rablerine teslim olmuş zahidlerin, bilginlerin yahudiler arasında kendisiyle hükmettikleri, içinde hidayet ve nur bulunan Tevrat’ı elbette biz indirdik. Hepsi onun (hak olduğunun) şahitleri idi. O halde insanlardan korkmayın, benden korkun da ayetlerimi az bir bedel karşılığında satmayın. Kim Allah’ın indirdiği ile hükmetmezse işte onlar kafirlerin ta kendileridir."
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Tevrat’ta İsrailoğulları’na, “Cana can, göze göz, buruna burun, kulağa kulak, dişe diş... Yaralamalarda da kısas vardır. Kim kısası bağışlarsa bu kendisi için bir kefaret olur. Ve her kim Allah’ın indirdiği ile hükmetmezse işte onlar zalimlerin ta kendileridir” diye yazdık."
+    },
+    {
+      "id": 46,
+      "text": "",
+      "translation": "Ardından o peygamberlerin yolu üzere, kendinden önce gelmiş olan Tevrat’ı tasdik edici olarak Meryem oğlu İsa’yı gönderdik. Ona da içinde hidayet ve nur bulunan, kendinden önce gelmiş olan Tevrat’ı tasdik edici, takva sahipleri için bir yol gösterici ve bir öğüt olarak İncil’i verdik."
+    },
+    {
+      "id": 47,
+      "text": "",
+      "translation": "İncil’e tabi olanlar da Allah’ın onda indirdikleriyle hükmetsinler. Kim Allah’ın indirdiği ile hükmetmezse işte onlar fasıkların kendi­leridir."
+    },
+    {
+      "id": 48,
+      "text": "",
+      "translation": "(Resulüm!) Sana da kendisinden önceki kitapları tasdik edici ve onları denetleyici olarak bu kitabı hak ile indirdik. Artık aralarında Allah’ın indirdiği ile hükmet. Sana gelen bu gerçeği bırakıp da onların isteklerine uyma. Her birinize bir şeriat ve bir yol yöntem verdik. Allah dileseydi sizi tek bir ümmet yapardı. Fakat size verdikleriyle sizi denemek istedi. Öyleyse hayırlı işlerde birbirinizle yarışın. Hepinizin dönüşü Allah’adır. Allah size hakkında ayrılığa düştüğünüz şeyleri haber verecektir."
+    },
+    {
+      "id": 49,
+      "text": "",
+      "translation": "Aralarında Allah’ın indirdiği ile hükmet, onların arzularına uyma, Allah’ın sana indirdiği hükümlerin bir kısmından seni saptırmamaları için onlardan sakın (diye onu indirdik). Eğer yüz çevirirlerse bil ki Allah, (öyle istedikleri, bunu hak ettikleri için) onların bazı günahları sebebiyle başlarına bir bela getirmek istiyordur. İnsanların birçoğu gerçekten Allah’ın yolundan çıkmışlardır."
+    },
+    {
+      "id": 50,
+      "text": "",
+      "translation": "Yoksa Cahiliye devrinin hükmünü mü istiyorlar? Gerçeği kesin olarak bilip kabul eden kimseler için Allah’tan daha güzel hüküm sahibi kim olabilir?"
+    },
+    {
+      "id": 51,
+      "text": "",
+      "translation": "Ey iman edenler! Yahudileri ve hıristiyanları veli edinmeyin. Onlar birbirlerinin velileridir. Sizden kim onları dost edinirse şüphesiz o da onlardandır. Allah zalimler topluluğunu hidayete erdirmez."
+    },
+    {
+      "id": 52,
+      "text": "",
+      "translation": "Kalplerinde hastalık bulunanların “Başımıza bir felaketin gelmesinden korkuyoruz” diyerek onların dostluklarını kazanmaya çalıştıklarını görürsün. Belki de Allah müminlere katından bir fetih veya başka bir başarı getirir de onlar içlerinde gizledikleri şeyden dolayı pişman olurlar."
+    },
+    {
+      "id": 53,
+      "text": "",
+      "translation": "İman edenler de “Sizinle beraber olduklarına dair bütün güçleriyle Allah’a yemin edenler bunlar mıydı?” derler. Onların bütün yaptıkları boşa gitmiş, sonuçta hüsrana uğramışlardır."
+    },
+    {
+      "id": 54,
+      "text": "",
+      "translation": "Ey iman edenler! Sizden kim dininden dönerse bilsin ki Allah öyle bir kavim getirecektir ki Allah onları sever, onlar da Allah’ı severler; müminlere karşı alçak gönüllü, kafirlere karşı vakarlıdırlar; Allah yolunda cihad ederler ve hiç kimsenin kınamasından korkmazlar. İşte bu Allah’ın dilediğine verdiği bir lütfudur. Allah’ın lütfu geniştir; O, her şeyi bilir."
+    },
+    {
+      "id": 55,
+      "text": "",
+      "translation": "Sizin veliniz ancak Allah’tır, peygamberidir, bir de Allah’ın emrine boyun eğerek namazı dosdoğru kılan, zekatı veren müminlerdir."
+    },
+    {
+      "id": 56,
+      "text": "",
+      "translation": "Kim Allah’ı, peygamberini ve iman edenleri veli edinirse bilsin ki Allah’tan yana olanlar mutlaka galip geleceklerdir."
+    },
+    {
+      "id": 57,
+      "text": "",
+      "translation": "Ey iman edenler! Sizden önce kendilerine kitap verilenlerden dininizi alay ve eğlence konusu edinenleri ve kafirleri dost edinmeyin. Eğer müminseniz Allah’tan korkun."
+    },
+    {
+      "id": 58,
+      "text": "",
+      "translation": "Namaza çağırdığınız zaman onu alay ve eğlence konusu yaparlar. Bu, onların aklını kullanmaz bir topluluk olmalarındandır."
+    },
+    {
+      "id": 59,
+      "text": "",
+      "translation": "De ki: “Ey Ehl-i kitap! Biz yalnız Allah’a, bize indirilene ve daha önce indirilene iman ettiğimiz için mi bizden hoşlanmıyorsunuz? Oysa sizin çoğunuz yoldan çıkmış kimselersiniz.”"
+    },
+    {
+      "id": 60,
+      "text": "",
+      "translation": "De ki: “Allah katında cezası bundan daha kötü olanı size haber vereyim mi? Onlar, Allah’ın lanetlediği ve gazap ettiği, bir kısmını maymunlara ve domuzlara çevirdiği, taguta tapan kimselerdir. İşte bunlar, yeri daha kötü olanlar ve doğru yoldan daha fazla sapmış bulunan­lardır.”"
+    },
+    {
+      "id": 61,
+      "text": "",
+      "translation": "Size geldiklerinde “İman ettik” derler. Oysa onlar inkarla girmiş, yine onunla çıkmışlardır. Allah onların neler gizlemiş olduklarını daha iyi bilir."
+    },
+    {
+      "id": 62,
+      "text": "",
+      "translation": "Onlardan birçoğunun günaha girmede, haksızlık etmede ve haram yemede birbirleriyle yarıştıklarını görürsün. Yapmakta oldukları şey ne kötüdür!"
+    },
+    {
+      "id": 63,
+      "text": "",
+      "translation": "Bari din adamları ve alimleri onları yalan söylemekten ve haram yemekten menetselerdi. Bu yaptıkları ne kötüdür!"
+    },
+    {
+      "id": 64,
+      "text": "",
+      "translation": "Yahudiler “Allah’ın eli bağlanmış!” dediler. Asıl kendi elleri bağlanmıştır ve söyledikleri yüzünden lanetlenmişlerdir. Aksine O’nun iki eli de açıktır, dilediği gibi verir. Rabbinden sana indirilen, onlardan birçoğunun azgınlığını ve inkarcılığını kuşkusuz arttıracaktır. Onların arasına kıyamete kadar sürecek düşmanlığı ve kini saldık. Ne zaman savaş ateşini tutuşturmuşlarsa Allah onu söndürmüştür. Onlar yeryüzünde bozgunculuk için çaba harcarlar; Allah ise bozguncuları sevmez."
+    },
+    {
+      "id": 65,
+      "text": "",
+      "translation": "Şayet Ehl-i kitap iman edip günahtan sakınma çabası göstermiş olsalardı, kuşkusuz biz de kötülüklerini yüzlerine vurmaz ve onları nimeti bol cennetlere koyardık."
+    },
+    {
+      "id": 66,
+      "text": "",
+      "translation": "Şayet onlar Tevrat’ı, İncil’i ve rableri tarafından onlara indirileni doğru dürüst uygulamış olsalardı göğün ve yerin türlü türlü nimetlerinden yararlanırlardı. İçlerinde aşırılığa kaçmayan bir zümre var; onlardan bir çoğunun yaptıkları işler ise pek kötüdür."
+    },
+    {
+      "id": 67,
+      "text": "",
+      "translation": "Ey peygamber! Rabbinden sana indirileni tebliğ et! Eğer bunu yapmazsan O’nun mesajını iletmemiş olursun. Allah seni insanlardan koruyacaktır. Şüphe yok ki Allah kafirler topluluğunu hidayete erdirmez."
+    },
+    {
+      "id": 68,
+      "text": "",
+      "translation": "De ki: “Ey Ehl-i kitap! Siz Tevrat’ı, İncil’i ve rabbinizden size indirileni (Kur’an’ı) doğru dürüst uygulamadıkça tuttuğunuz yol yol değildir.” Rabbinden sana indirilen, onlardan birçoğunun azgınlığını ve inkarcılığını kuşkusuz arttıracaktır. Kafirler topluluğu yüzünden üzülme."
+    },
+    {
+      "id": 69,
+      "text": "",
+      "translation": "İman edenler, yahudiler, Sabiler ve hıristiyanlar, (bunlardan) Allah’a ve ahiret gününe inanıp dünyaya ve ahirete yararlı işler yapanlara korku yoktur ve onlar üzülecek de değillerdir."
+    },
+    {
+      "id": 70,
+      "text": "",
+      "translation": "Andolsun biz İsrailoğulları’ndan kesin söz almış ve onlara peygamberler göndermiştik. Ne zaman bir peygamber onlara nefislerinin hoşlanmadığı bir şey getirdiyse, bir kısmına yalancı dediler, bir kısmını da öldürdüler."
+    },
+    {
+      "id": 71,
+      "text": "",
+      "translation": "Başlarına bir felaketin gelmeyeceğini sanıp kör ve sağır kesildiler. Sonra Allah tövbelerini kabul buyurdu. Sonra içlerinden birçoğu yine görmezden ve duymazdan geldiler. Allah onların yaptıklarını görmektedir."
+    },
+    {
+      "id": 72,
+      "text": "",
+      "translation": "“Allah, Meryem oğlu Mesih’in kendisidir” diyenler, hiç şüphesiz hakikati inkar etmişlerdir. Oysa Mesih, “Ey İsrailoğulları! Benim de rabbim sizin de rabbiniz olan Allah’a kulluk edin” demişti. Bilinmeli ki her kim Allah’a ortak koşarsa Allah ona cennet yüzü göstermeyecek ve onun varacağı yer cehennem olacaktır. Zalimlerin yardımcıları da olmayacaktır."
+    },
+    {
+      "id": 73,
+      "text": "",
+      "translation": "Andolsun ki “Allah üç unsurdan biridir” diyenler de kafir olmuşlardır. Halbuki bir tek Tanrı’nın dışında hiçbir ilah yoktur. Şayet bu dediklerinden vazgeçmezlerse, böylece kafir olanları elem verici bir azaba çarptırılacaklardır."
+    },
+    {
+      "id": 74,
+      "text": "",
+      "translation": "Hala Allah’a tövbe edip O’nun bağışlamasını dilemeyecekler mi? Allah çok bağışlamakta, çok esirgemektedir."
+    },
+    {
+      "id": 75,
+      "text": "",
+      "translation": "Meryem oğlu Mesih sadece bir peygamberdir. Ondan önce de peygamberler gelip geçmiştir. Onun annesi dürüst ve inançlı bir kadındır. İkisi de yiyip içen birer insandı. Bak, ayetleri onlara nasıl açıklıyoruz, sonra bak nasıl saptırılıyorlar!"
+    },
+    {
+      "id": 76,
+      "text": "",
+      "translation": "De ki: “Allah’ı bırakıp da size zarar da veremeyen yarar da sağlayamayan varlıklara mı kulluk ediyorsunuz! Allah her şeyi işitmekte ve bilmektedir.”"
+    },
+    {
+      "id": 77,
+      "text": "",
+      "translation": "De ki: “Ey Ehl-i kitap! Hakkın sınırlarını aşarak dininizde aşırılığa gitmeyin. Daha önce kendileri saptığı gibi birçoklarını da saptıran ve yolun doğrusundan uzaklaşan bir topluluğun keyfi istek ve arzularına uymayın.”"
+    },
+    {
+      "id": 78,
+      "text": "",
+      "translation": "İsrailoğulları’ndan kafir olanlar, Davud ve Meryem oğlu İsa diliyle lanetlenmişlerdir. Çünkü onlar isyan etmişlerdi ve sınırı aşıyorlardı."
+    },
+    {
+      "id": 79,
+      "text": "",
+      "translation": "İşledikleri kötülükten birbirlerini vazgeçirmeye çalışmıyorlardı. Yaptıkları ne fena idi!"
+    },
+    {
+      "id": 80,
+      "text": "",
+      "translation": "Onlardan birçoğunun inkarcıları dost edindiklerini görürsün. Onların önceden kendileri için hazırladığı şey, yani Allah’ın onlara gazap etmesi ne kötü bir sonuçtur! Hem de onlar azapta sürekli kalacaklardır."
+    },
+    {
+      "id": 81,
+      "text": "",
+      "translation": "Eğer onlar Allah’a, peygambere ve ona indirilene iman ediyor olsalardı o inkarcıları dost edinmezlerdi; fakat onların birçoğu yoldan çıkmışlardır."
+    },
+    {
+      "id": 82,
+      "text": "",
+      "translation": "Kuşku yok ki iman edenlerin, insanlar içinde en amansız düşmanlarının yahudiler ve şirk koşanlar olduğunu göreceksin. Yine, onlar arasında iman edenlere sevgi bakımından en yakın olanların da, “Biz hıristiyanız” diyenler olduğunu göreceksin. Çünkü bunların içinde (insaflı) keşişler ve rahipler vardır ve onlar büyüklük taslamazlar."
+    },
+    {
+      "id": 83,
+      "text": "",
+      "translation": "Peygamber’e indirileni dinledikleri zaman hakikate dair bilgileri bulunduğundan dolayı gözlerinden yaşlar boşandığını görürsün. Derler ki: “Rabbimiz! İman ettik, bizi hakka şahitlik edenlerle beraber yaz."
+    },
+    {
+      "id": 84,
+      "text": "",
+      "translation": "Bütün emelimiz rabbimizin bizi erdemliler topluluğuna dahil etmesi olduğuna göre, Allah’a ve bize gelen gerçeğe niçin iman etmeyelim?”"
+    },
+    {
+      "id": 85,
+      "text": "",
+      "translation": "Böyle söylemelerine karşılık Allah da onları, içinde ebedi olarak kalmak üzere altından ırmaklar akan cennetlerle ödüllendirdi. İşte iyi davrananların mükafatı budur."
+    },
+    {
+      "id": 86,
+      "text": "",
+      "translation": "İnkar edip ayetlerimizi yalan sayanlar ise cehennemliktir."
+    },
+    {
+      "id": 87,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’ın size helal kıldığı iyi ve güzel şeyleri haram saymayın, sınırı da aşmayın. Allah sınırı aşanları sevmez."
+    },
+    {
+      "id": 88,
+      "text": "",
+      "translation": "Allah’ın size verdiği helal ve temiz rızıklardan yiyin ve iman etmiş olduğunuz Allah’ın yasaklarından sakının."
+    },
+    {
+      "id": 89,
+      "text": "",
+      "translation": "Allah sizi kasıtsız olarak yaptığınız yeminlerden ötürü sorumlu tutmaz, fakat bilerek ettiğiniz yeminlerden dolayı sizi sorumlu tutar. Bunun da kefareti, ailenize yedirdiğinizin ortalama seviyesinden on fakire yedirmek yahut onları giydirmek ya da bir köle azat etmektir. Buna imkanı olmayan ise üç gün oruç tutmalıdır. Yemin ettiğinizde (bozarsanız) yeminlerinizin kefareti işte budur. Yeminlerinize bağlı kalın. Allah ayetlerini sizin için bu şekilde açıklıyor ki şükredesiniz."
+    },
+    {
+      "id": 90,
+      "text": "",
+      "translation": "Ey iman edenler! İçki, kumar, dikili taşlar, fal okları şeytan işi iğrenç şeylerden ibarettir. Bunlardan kaçının ki kurtuluşa eresiniz."
+    },
+    {
+      "id": 91,
+      "text": "",
+      "translation": "Şüphesiz şeytan içki ve kumar yoluyla aranıza düşmanlık ve kin sokmak, sizi Allah’ı anmaktan ve namazdan alıkoymak ister. Artık vazgeçtiniz değil mi?"
+    },
+    {
+      "id": 92,
+      "text": "",
+      "translation": "Allah’a itaat edin, peygambere de itaat edin ve tedbirli olun. Eğer yüz çevirirseniz bilin ki elçimizin görevi açık biçimde tebliğ etmekten ibarettir."
+    },
+    {
+      "id": 93,
+      "text": "",
+      "translation": "İman edip dünya ve ahiret için yararlı işler yapanlara, günahlardan sakındıkları ve imanlarını koruyup iyi işler yapmayı sürdürdükleri, sakınmaya devam edip imanlarına bağlı kaldıkları, hem günahlardan sakınıp hem en iyiyi yapmaya çalıştıkları takdirde daha önce yiyip içtiklerinden ötürü bir günah yoktur. Allah, iyi ve güzel davrananları sever."
+    },
+    {
+      "id": 94,
+      "text": "",
+      "translation": "Ey iman edenler! Allah, görmedikleri halde kendisinden korkanları ortaya çıkarmak için ellerinizin ve mızraklarınızın yetişebileceği bir miktar av ile muhakkak ki sizleri sınayacaktır. Bundan sonra kim sınırı aşarsa onun için elem verici bir azap vardır."
+    },
+    {
+      "id": 95,
+      "text": "",
+      "translation": "Ey iman edenler! İhramda iken av hayvanlarını öldürmeyin. Sizden kim böyle bir hayvanı kasten öldürürse öldürdüğüne denk bir evcil hayvanı ceza olarak öder. Bunu -Kabe’ye ulaştırılacak bir kurbanlık olmak üzere- aranızdan adalet sahibi iki kişi takdir eder. Yahut o kişi, yoksulları doyurarak veya ona denk olacak kadar oruç tutarak bir kefaret öder ki böylece yaptığı fiilin vebalini tatmış olsun. Allah geçmişi affetmiştir. Fakat kim bunu yeniden işlerse Allah onun cezasını verir. Allah suçlunun hakkından gelen mutlak güç sahibidir."
+    },
+    {
+      "id": 96,
+      "text": "",
+      "translation": "Kendinize ve yolculara geçimlik olmak üzere sularda avlanmak ve onu yemek size helal kılındı. Kara avı ise ihramda bulunduğunuz sürece size haram kılındı. Toplanıp huzuruna varacağınız Allah’tan korkun."
+    },
+    {
+      "id": 97,
+      "text": "",
+      "translation": "Allah Kabe’yi, Beytülharam’ı, haram ayı, boyunları bağsız ve bağlı kurbanlıkları insanların maddi ve manevi hayatları için destek kıldı. Bu, Allah’ın göklerde ve yerdeki her şeyden haberdar olduğunu ve Allah’ın her şeyi bildiğini anlamanız içindir."
+    },
+    {
+      "id": 98,
+      "text": "",
+      "translation": "Bilin ki Allah’ın cezalandırması çetindir ve Allah çok bağışlayıcı, çok esirgeyicidir."
+    },
+    {
+      "id": 99,
+      "text": "",
+      "translation": "Peygamberin görevi, tebliğ etmekten ibarettir. Allah ise açıkladığınızı da gizlediğinizi de bilir."
+    },
+    {
+      "id": 100,
+      "text": "",
+      "translation": "De ki: “Kötünün çokluğu sana ilginç gelse de iyi ile kötü bir değildir. O halde ey akıl sahipleri, Allah’a asi olmaktan sakının ki kurtuluşa eresiniz!”"
+    },
+    {
+      "id": 101,
+      "text": "",
+      "translation": "Ey iman edenler! Açıklandığı takdirde sizi sıkıntıya sokacak hususlarda soru sormayın. Kur’an indirilirken böyle sorular sorarsanız size açıklanır. Allah onlardan sizi muaf tutmuştur. Allah çok bağışlayıcıdır, halimdir."
+    },
+    {
+      "id": 102,
+      "text": "",
+      "translation": "Bu tür soruları sizden önce de bir topluluk sormuş, fakat sonunda bunları inkar eder olmuşlardı."
+    },
+    {
+      "id": 103,
+      "text": "",
+      "translation": "Allah bahire, saibe, vasile ve ham ile (diye bazı hayvanların işaretlenip kullanımdan alıkonması) ilgili bir buyruk koymamıştır. Fakat inkarcılar kendi uydurdukları yalanları Allah’a yakıştırmaya çalışıyorlar; onların çoğu akıllarını ­kullanmıyorlar."
+    },
+    {
+      "id": 104,
+      "text": "",
+      "translation": "Onlara “Allah’ın indirdiğine ve peygambere gelin” dendiğinde, “Atalarımızı üzerinde bulduğumuz (yol) bize yeter” derler. Ataları bir şey bilmeyen ve doğru yolda gitmeyen kimseler olsa da mı?"
+    },
+    {
+      "id": 105,
+      "text": "",
+      "translation": "Ey iman edenler! Siz kendi sorumluluklarınıza dikkat edin. Siz doğru gittiğiniz takdirde yanlış yola sapanlar size zarar veremez. Hepinizin dönüşü Allah’adır ve yapmakta olduğunuz her şeyi o zaman Allah size bildirecektir."
+    },
+    {
+      "id": 106,
+      "text": "",
+      "translation": "Ey iman edenler! Birinize ölüm gelip çatınca vasiyet esnasında içinizden iki adil kişi, şayet seyahatte iken başınıza ölüm musibeti gelmişse sizden olmayan başka iki kişi aranızda (konu hakkında) şahitlik etsin. Eğer (vasiyeti uygularken) içinize bir şüphe düşerse, bu iki şahidi namazdan sonra alıkorsunuz; “Bunu yakınımız hatırına da olsa hiçbir bedel karşılığında satmayız ve Allah’ın buyruğu olan bu tanıklığı asla gizlemeyiz, aksi halde apaçık günahkarlardan olacağımızda kuşku yoktur” diye Allah’ın adına yemin ederler."
+    },
+    {
+      "id": 107,
+      "text": "",
+      "translation": "Şayet bu ikisinin günah işledikleri (yeminlerinin gerçeği yansıtmadığı) ortaya çıkarsa, bunların haklarını gasbettiği kimselerden iki kişi onların yerini alır ve “Kesinlikle bizim şahitliğimiz onların şahitliğinden daha doğrudur ve biz hak tecavüzünde bulunmadık, aksi halde biz de zalimlerden oluruz” diye Allah’ın adına yemin ederler."
+    },
+    {
+      "id": 108,
+      "text": "",
+      "translation": "İşte bu, şahitliği gereğince yapmalarını sağlayacak veya yemin etmelerinden sonra yeminlerin reddedilmesinden korkmalarını önleyecek en uygun usuldür. Allah’a asi olmaktan sakının ve iyi dinleyin. Allah yoldan çıkmış topluluğu doğruya eriştirmez."
+    },
+    {
+      "id": 109,
+      "text": "",
+      "translation": "Allah’ın peygamberleri toplayıp da onlara “Size ne cevap verildi?” diye soracağı gün onlar “Bizim bir bilgimiz yok. Bütün gizlileri tam olarak bilen yalnız sensin” diyecekler."
+    },
+    {
+      "id": 110,
+      "text": "",
+      "translation": "İşte o zaman Allah şöyle diyecek: “Ey Meryem oğlu İsa! Sana ve annene lütfettiğim nimetleri hatırla! Seni Ruhulkudüs’le (Cebrail) desteklemiştim de hem beşikte iken hem de yetişkin halinde insanlarla konuşuyordun. Sana yazmayı, hikmeti, Tevrat ve İncil’i öğretmiştim. Benim iznimle çamurdan kuş biçiminde bir şey yapıp ona üflüyordun ve benim iznimle derhal kuş oluyordu. Benim iznimle körü ve cüzzamlıyı iyileştiriyordun. Yine benim iznimle ölüleri diriltiyordun. Onlara açık kanıtlar getirdiğin zaman buna karşı içlerinden inkar edenler ‘Bu düpedüz bir büyü!’ dediklerinde İsrailoğulları’nın sana zarar vermelerini önlemiştim."
+    },
+    {
+      "id": 111,
+      "text": "",
+      "translation": "Havarilere ‘Bana ve peygamberime iman edin’ diye ilham ettiğimde onlar ‘İman ettik, şahit ol ki bizler yürekten teslimiyet içindeyiz’ demişlerdi.”"
+    },
+    {
+      "id": 112,
+      "text": "",
+      "translation": "Havariler “Ey Meryem oğlu İsa! Rabbin bize gökten bir sofra indirebilir mi?” diye sormuşlardı. O şöyle cevap verdi: “Eğer iman etmiş kimseler iseniz Allah’a saygılı olun.”"
+    },
+    {
+      "id": 113,
+      "text": "",
+      "translation": "Onlar “İstiyoruz ki ondan yiyelim, kalplerimiz güvenle dolsun, bize doğru söylediğini bilelim ve buna tanık olalım” dediler."
+    },
+    {
+      "id": 114,
+      "text": "",
+      "translation": "Meryem oğlu İsa şöyle yalvardı: “Allahım! Ey rabbimiz! Bize gökten öyle bir sofra indir ki, ilk gelenimizden son gelenimize kadar bizler için bir şölen ve senden bir işaret olsun. Bizi rızıklandır, sen rızık verenlerin en hayırlısısın."
+    },
+    {
+      "id": 115,
+      "text": "",
+      "translation": "Allah da şöyle buyurdu: “Onu size mutlaka indireceğim; fakat bundan sonra içinizden kim inkar ederse, varlıklar aleminde hiç kimseye etmediğim azabı ona edeceğim.”"
+    },
+    {
+      "id": 116,
+      "text": "",
+      "translation": "Allah, “Ey Meryem oğlu İsa! İnsanlara sen mi ‘Allah’ın dışında beni ve annemi birer tanrı kabul edin’ dedin?” buyurduğu zaman o şu cevabı verir: “Haşa! Seni tenzih ederim. Hakkım olmayan şeyi söylemek bana yakışmaz. Hem ben söyleseydim şüphesiz sen onu bilirdin. Sen benim içimdekini bilirsin, ama ben senin zatında olanı bilmem. Gizlileri tam olarak bilen yalnız sensin.”"
+    },
+    {
+      "id": 117,
+      "text": "",
+      "translation": "“Ben onlara ancak senin bana emrettiklerini söyledim; ‘Benim de rabbim sizin de rabbiniz olan Allah’a kulluk edin’ dedim. İçlerinde bulunduğum sürece onların yaptıklarına tanık idim. Fakat sen beni vefat ettirdikten sonra onların halini bilip gören sadece sensin. Sen her şeye şahitsin."
+    },
+    {
+      "id": 118,
+      "text": "",
+      "translation": "Şayet onlara azap edersen, şüphesiz onlar senin kullarındır. Eğer onları affedersen, hiç kuşku yok sen hem izzet hem hikmet sahibisin.”"
+    },
+    {
+      "id": 119,
+      "text": "",
+      "translation": "Allah şöyle buyurur: “Bugün doğrulara doğruluklarının fayda vereceği gündür. Onlar için, ebedi kalacakları ve altından ırmaklar akan cennetler vardır. Allah onlardan hoşnuttur, onlar da O’nun rızasını kazanmaktan ötürü mutludurlar. İşte büyük kurtuluş budur."
+    },
+    {
+      "id": 120,
+      "text": "",
+      "translation": "Göklerin, yerin ve içlerindeki her şeyin hükümranlığı Allah’a aittir. O her şeye kadirdir.”"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

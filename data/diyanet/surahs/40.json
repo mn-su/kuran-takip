@@ -1,0 +1,446 @@
+{
+  "id": 40,
+  "name": "الْمُؤْمِن",
+  "translation": "Mü'min",
+  "transliteration": "mumin",
+  "nuzul": 60,
+  "description": "56 ve 57. âyetler hariç Mekke döneminde inmiştir. 85 âyettir. Sûre, adını 28.âyette geçen “mü’min” kelimesinden almıştır. Mü’min inanan kimse demektir. Âyette sözü edilen mü’min, Firavun ailesinin  gizlice iman eden ve çevresindekileri hakka yönlendirmeye çalışan bir ferdidir. Ayrıca sûre, Allah’ın sıfatlarından biri olan ve 3. âyette geçen “ğâfir” kelimesinden dolayı “Ğâfîr sûresi” diye de anılmaktadır. “Ğâfir”, bağışlayan demektir. Sûrede başlıca, Allah’ın birliğini gösteren bazı delillere yer verilerek kıyametle ilgili tasvirler yapılmaktadır.",
+  "total_verses": 85,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Ha-mim."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Kitabın indirilişi aziz ve alim olan, günahı bağışlayan, tövbeyi kabul eden, hem cezalandırması şiddetli hem lutfu bol olan Allah’ın katındandır. O’ndan başka tanrı yoktur, dönüş yalnız O’nadır."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Kitabın indirilişi aziz ve alim olan, günahı bağışlayan, tövbeyi kabul eden, hem cezalandırması şiddetli hem lutfu bol olan Allah’ın katındandır. O’ndan başka tanrı yoktur, dönüş yalnız O’nadır."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "İnkara sapanlardan başkası Allah’ın ayetleri hakkında tartışmaya girişmez. Onların şehirden şehre rahat rahat dolaşabilmesi seni yanıltmasın."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Bunlardan önce Nuh’un kavmi, onların ardından da çeşitli topluluklar ilahi gerçeği yalanlamış, her topluluk kendi peygamberlerini yakalayıp etkisiz hale getirmeye kalkışmış, asılsız iddialarla gerçeği ortadan kaldırmak için mücadele vermişlerdi; sonunda onların yakalarına yapıştım. Nasılmış benim cezalandırmam, gördüler!"
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Böylece (kavminden) inkara sapanlar hakkında rabbinin verdiği, “Onlar artık cehennemliktir” şeklindeki hüküm gerçekleşmiş olacak."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Arşı yüklenenler ile onun çevresinde bulunanlar rablerini hamd ile tesbih ederler, O’na iman ederler ve müminlerin bağışlanmasını dilerler: “Ey rabbimiz! Sen, rahmetin ve ilminle her şeyi kuşattın. Tövbe edenleri ve yolundan gidenleri bağışla, onları cehennem azabından koru!”"
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "“Rabbimiz! Onları ve atalarından, eşlerinden ve nesillerinden olup da iyi yolda bulunanları kendilerine vaad ettiğin adn cennetlerine kabul buyur. Kuşkusuz sen sınırsız izzet ve hikmet sahibisin.”"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "“Onları kötü sonuçlardan koru. O gün sen kimi kötü sonuçlardan korumuşsan onu rahmetine mazhar kılmışsın demektir. İşte en büyük kurtuluş da budur.”"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "İnkara sapanlara (ahirette) şöyle seslenilecek: “Siz inanmaya çağırıldığınızda inkar ederken Allah’ın size öfkesi şimdi sizin kendinize öfkenizden elbette daha ­şiddetlidir.”"
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "“Ey rabbimiz!” diyecekler, “Bizi iki defa öldürdün, iki defa dirilttin. Şimdi günahımızı itiraf etmiş bulunuyoruz, bir çıkış yolu yok mu?”"
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Bu duruma düşmenizin sebebi şudur: Allah’ın ismi tek başına anıldığı zaman inkara sapardınız, ama O’na ortak koşulduğunda buna inanırdınız. Artık hüküm, yüce ve ulu olan Allah’ındır."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Size işaretlerini gösteren, sizin için gökten rızık (yağmur) indiren O’dur. Ama Allah’a yönelenden başkası (bundan) ders çıkarmaz."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Haydi, inkarcıların hoşlarına gitmese de içten bir dindarlıkla yalnız Allah’a bağlanarak O’na dua edin."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "O’nun dereceleri yüksektir, arşın sahibidir; buluşma günü hakkında uyarıda bulunması için kullarından dilediğine iradesiyle vahyi indirir."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "O gün onlar, Allah’a gizli kalan hiçbir şeyleri olmaksızın (kabirlerinden) çıkarlar. Bugün hükümranlık kimindir? Elbette tek ve mutlak hükümran olan Allah’ındır!"
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "O gün herkes yaptığının karşılığını bulur. O gün hiçbir haksızlık olmayacaktır; kuşkusuz Allah’ın hesabı çok hızlıdır."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Yaklaşan gün konusunda onları uyar; çünkü dehşet içinde yutkunurlarken yürekleri ağızlarına gelmiş olacak; zalimlerin ne bir dostu, ne de sözü dinlenir bir şefaatçisi olacaktır."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Allah, gözlerin kötü niyetli bakışını ve kalplerin sakladıklarını bilir."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Ve Allah adaletle hüküm verir; onların Allah’tan başka taptıkları ise hiçbir şeye hükmedemezler. Kuşkusuz Allah her şeyi en iyi işiten ve en iyi görendir."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Yeryüzünde dolaşıp da kendilerinden öncekilerin akıbetlerinin nice olduğunu görmediler mi? Onlar, güçleri ve yeryüzünde bıraktıkları eserler itibariyle bunlardan daha üstün idiler. Böyleyken Allah onları günahları yüzünden yakalayıp cezalandırdı; kendilerini Allah’a karşı koruyan da olmadı."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Bunun sebebi, peygamberleri onlara açık seçik kanıtlar getirdiklerinde bunları inkar etmeleriydi. İşte bunun için Allah onları yakalayıp cezalandırdı. Çünkü O güçlüdür, cezası çok çetindir."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Andolsun biz Musa’yı ayetlerimizle ve apaçık bir kanıtla Firavun, Haman ve Karun’a gönderdik; ama onlar, “O bir yalancı, bir sihirbaz!” dediler."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Andolsun biz Musa’yı ayetlerimizle ve apaçık bir kanıtla Firavun, Haman ve Karun’a gönderdik; ama onlar, \"\"O bir yalancı, bir sihirbaz!\"\" dediler."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Musa, katımızdan verilmiş hakikati onlara getirdiğinde, “Onunla birlikte olan inanmış kişilerin oğullarını öldürün, kızlarını diri bırakın!” dediler. Oysa inkarcıların tuzağı hep boşa çıkmıştır."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Firavun, “Bırakın beni de şu Musa’yı öldüreyim! Tanrısına yalvarsın bakalım (kurtulabilecek mi)! Çünkü onun, dininizi değiştirmesinden yahut ülkede huzursuzluk çıkarmasından kaygı duyuyorum” dedi."
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Musa ise, “Hesap gününe inanmayan her kibirli kişinin şerrinden, benim ve sizin rabbiniz olan Allah’a sığındım!” dedi."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Firavun ailesinden olup imanını gizleyen bir mümin kişi şöyle dedi: “Adamı, ‘Rabbim Allah’tır’ dediği için öldürecek misiniz? Oysa o size rabbinizden ayetler getirmiştir. Eğer yalancı biriyse yalanı kendi zararınadır; ama eğer doğru söylüyorsa size bildirip uyardığı şeyin bir kısmı başınıza gelecektir. Hiç kuşku yok ki Allah, aşırılığa sapmış, yalancı kimseyi doğru yola ulaştırmaz."
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Ey benim kavmim! Bugün ülkede hakimiyeti elinde bulunduran bir toplum olarak hükümranlık sizindir. Ama eğer Allah’ın cezası başımıza gelirse O’na karşı bize kim yardım edebilir?” Firavun ise, “Ben sadece kendi bilip gördüğümü size gösteriyorum ve sizi yalnızca doğru yola yönlendiriyorum” dedi."
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "İnanan kişi de şöyle dedi: “Ey kavmim! Doğrusu vaktiyle (peygamberlerine karşı) gruplar oluşturmuş eski toplulukların yaşadıkları felaketlerin benzerinin sizin de başınıza gelmesinden korkuyorum."
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Nuh kavminin, Ad, Semud ve onlardan sonrakilerin durumu gibi. Allah asla kulları için zulmü istemez."
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Ey kavmim! İnsanların çığrışacağı günde başınıza gelecek olanlardan korkuyorum."
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Öyle bir gün ki, arkanızı dönüp kaçarsınız ama sizi Allah’tan kurtaracak hiçbir güç bulamazsınız! Allah kimi şaşırtırsa artık onu doğru yola yönlendirebilecek bir güç yoktur."
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Daha önce Yusuf da size açık kanıtlar getirmişti; ama onun size getirdikleri hakkında da hep kuşku içinde oldunuz. Nihayet o vefat edince ‘Artık Allah ondan sonra kesinlikle hiçbir elçi göndermeyecek’ dediniz. Aşırılığa sapmış, kuşkulara boğulmuş kişiyi Allah işte böyle şaşırtır."
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Onlar, kendilerine ulaşmış kesin bir kanıt olmadan Allah’ın ayetleri hakkında tartışmaya girişirler. Bu tutum, gerek Allah yanında gerekse inananlar yanında büyük bir nefrete sebep olur. Allah, kendini beğenmiş her zorbanın kalbini işte böyle mühürler.”"
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "Firavun, “Ey Haman!” dedi, “Bana yüksek bir kule inşa et; belki bazı yollara, göklerin yollarına ulaşırım da bu sayede Musa’nın ilahını görebilirim! Doğrusu onun bir yalancı olduğunu düşünüyorum.” İşte böylece, yaptığı çirkin iş Firavun’a güzel göründü ve doğru yolu bulması engellendi. Firavun’un tuzağı hüsrandan başka bir sonuç doğurmadı."
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Firavun, \"\"Ey Haman!\"\" dedi, \"\"Bana yüksek bir kule inşa et; belki bazı yollara, göklerin yollarına ulaşırım da bu sayede Musa’nın ilahını görebilirim! Doğrusu onun bir yalancı olduğunu düşünüyorum.\"\" İşte böylece, yaptığı çirkin iş Firavun’a güzel göründü ve doğru yolu bulması engellendi. Firavun’un tuzağı hüsrandan başka bir sonuç doğurmadı."
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Mümin kişi sözlerine şöyle devam etti: “Ey kavmim! Bana uyun, sizi doğru yola götüreceğim."
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Ey kavmim! Bu dünya hayatı bir sürelik yararlanmadan ibarettir; ahirete gelince, ebedîlik yurdu işte orasıdır."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Kim bir kötülük yapmışsa sadece o kötülüğünün miktarınca ceza görecektir; kim de -erkek olsun kadın olsun- inanmış bir kişi olarak dünya ve ahirete yararlı iş yapmışsa işte böyleleri de cennete girecekler, orada kendilerine hesapsız nimetler verilecektir.”"
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "“Ey kavmim! Nedir bu hal? Ben sizi kurtuluşa çağırıyorum, siz ise beni ateşe çağırıyorsunuz!"
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Siz bana Allah’ı inkar etmem ve hakkında hiçbir bilgiye sahip olmadığım şeyleri O’na ortak koşmam için çağrıda bulunuyorsunuz; ben ise sizi izzet sahibi, çok bağışlayıcı olan Allah’a davet ediyorum."
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "Gerçek şu ki, siz beni, bu dünyada da öteki dünyada da çağrılmaya değer olmayan bir şeye davet ediyorsunuz. Kuşku yok ki dönüşümüz Allah’adır ve hakikat çizgisinden sapanlar, işte onlar cehennemliktir."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Size söylediklerimi yakında hatırlayıp anlayacaksınız. Ben durumumu Allah’a havale ediyorum; kuşkusuz Allah kullarını çok iyi görmektedir.”"
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Nihayet Allah, onların kurdukları kötü tuzaklardan bu kişiyi korudu; Firavun ailesini ise şiddetli bir azap kuşatıp yok etti."
+    },
+    {
+      "id": 46,
+      "text": "",
+      "translation": "Bu azap, onların sabah akşam sokulacakları ateştir. Kıyamet koptuğunda, “Firavun ailesini en şiddetli azabın içine atın!” denilecek."
+    },
+    {
+      "id": 47,
+      "text": "",
+      "translation": "Ateşin içinde birbirleriyle çekişirken zayıflar, büyüklük taslamış olanlara, “Vaktiyle biz size uymuştuk, şimdi bu ateşin hiç olmazsa bir kısmından bizi kurtarabilir misiniz?” dediklerinde;"
+    },
+    {
+      "id": 48,
+      "text": "",
+      "translation": "Büyüklük taslayanlar şöyle cevap verirler: “Doğrusu hepimiz onun içindeyiz; artık Allah, kulları arasında hükmünü vermiştir.”"
+    },
+    {
+      "id": 49,
+      "text": "",
+      "translation": "Ateşte bulunanlar cehennemdeki görevlilere, “Rabbinize dua edin de bir günlüğüne olsun azabımızı hafifletsin!” diye seslenirler."
+    },
+    {
+      "id": 50,
+      "text": "",
+      "translation": "Görevliler, “Peygamberleriniz size açık kanıtlar getirmemiş miydi?” diye sorarlar. “Evet, getirmişlerdi” cevabını verirler. O zaman görevliler, “Yalvarın durun şimdi; ama inkarcıların yalvarmaları boşunadır” derler."
+    },
+    {
+      "id": 51,
+      "text": "",
+      "translation": "Elbette biz, hem dünya hayatında hem de şahitlerin hazır bulunacağı günde elçilerimize ve inanmış kişilere yardım ederiz."
+    },
+    {
+      "id": 52,
+      "text": "",
+      "translation": "O gün zalimlere mazeretlerinin hiçbir faydası olmaz. Lanet onlaradır, kalınacak yerin en kötüsü de onlar içindir."
+    },
+    {
+      "id": 53,
+      "text": "",
+      "translation": "Andolsun biz Musa’ya hidayet vermiş; İsrailoğulları’nı da akıl iz‘an sahipleri için bir yol gösterici ve hatırlatıcı olmak üzere (gelen) kitaba mirasçı kılmıştık."
+    },
+    {
+      "id": 54,
+      "text": "",
+      "translation": "Andolsun biz Musa’ya hidayet vermiş; İsrailoğulları’nı da akıl iz‘an sahipleri için bir yol gösterici ve hatırlatıcı olmak üzere (gelen) kitaba mirasçı kılmıştık."
+    },
+    {
+      "id": 55,
+      "text": "",
+      "translation": "(Resulüm!) Sen şimdi sabret, çünkü Allah’ın vaadi mutlaka gerçekleşir; günahının bağışlanmasını iste ve sabah akşam rabbini hamd ile tesbih et."
+    },
+    {
+      "id": 56,
+      "text": "",
+      "translation": "Ellerinde hiçbir kesin delil olmadan Allah’ın ayetlerini tartışmaya kalkışanlara gelince, onların içlerindeki, hedefine asla ulaştıramayacakları bir büyüklenme duygusundan başka bir şey değildir. Öyleyse sen Allah’a sığın; kuşkusuz her şeyi işiten, gören yalnız O’dur."
+    },
+    {
+      "id": 57,
+      "text": "",
+      "translation": "Göklerin ve yerin yaratılması elbette ki insanların yaratılmasından daha büyük bir olaydır ama insanların çoğu bunu bilmez."
+    },
+    {
+      "id": 58,
+      "text": "",
+      "translation": "Görenle görmeyen bir olmaz, iman edip dünya ve ahiret için yararlı işler yapan ile kötülük yapan da bir değildir. Ne kadar kıt düşünüyorsunuz!"
+    },
+    {
+      "id": 59,
+      "text": "",
+      "translation": "Kıyametin vakti mutlaka gelecek, bunda kuşku yok! Ama insanların çoğu buna inanmıyor."
+    },
+    {
+      "id": 60,
+      "text": "",
+      "translation": "Rabbiniz şöyle buyurdu: Bana dua edin, duanızı kabul edeyim. Bana kulluk etmeyi kibirlerine yediremeyenler, aşağılanmış olarak cehenneme gireceklerdir!"
+    },
+    {
+      "id": 61,
+      "text": "",
+      "translation": "İçinde dinlenesiniz diye geceyi, aydınlatsın diye gündüzü yaratan Allah’tır. Şüphesiz Allah insanlara karşı lutufkardır, ama insanların çoğu şükretmez."
+    },
+    {
+      "id": 62,
+      "text": "",
+      "translation": "İşte rabbiniz olan Allah; her şeyin yaratıcısı olan O’dur. O’ndan başka tanrı yok. Öyleyse nasıl olup da saptırılıyorsunuz?"
+    },
+    {
+      "id": 63,
+      "text": "",
+      "translation": "Allah’ın ayetlerini inatla inkar edenler işte böyle saptırılmaktadır."
+    },
+    {
+      "id": 64,
+      "text": "",
+      "translation": "Yeryüzünü sizin için yerleşim alanı yapan, göğü de (üstünüze) bina eden, size şekil veren, şeklinizi de güzel yapan ve sizi temiz nimetlerle rızıklandıran Allah’tır. İşte rabbiniz olan Allah; alemlerin rabbi olan Allah yüceler yücesidir."
+    },
+    {
+      "id": 65,
+      "text": "",
+      "translation": "O diridir, O’ndan başka tanrı yoktur. Şu halde içten bir dindarlık ve bağlılıkla O’na dua edin. Hamd, alemlerin rabbi olan Allah’a mahsustur."
+    },
+    {
+      "id": 66,
+      "text": "",
+      "translation": "De ki: “Rabbimden bana açık kanıtlar gelince, sizin Allah’ın dışında dua ettiğiniz şeylere tapmam bana yasaklanmış oldu ve kendimi alemlerin rabbine teslim etmem emredildi.”"
+    },
+    {
+      "id": 67,
+      "text": "",
+      "translation": "Sizi toprak, sonra nutfe, sonra alaka aşamalarından geçirerek yaratan O’dur. Sonra O sizi bir bebek olarak hayat alanına çıkarır; ardından güçlü çağınıza ulaşıncaya, sonra da yaşlılar haline gelinceye kadar sizi yaşatır; içinizden bazıları bundan önce vefat eder. Sonuçta belli bir vakte kadar yaşamaktasınız. Umulur ki (bunlar üzerine) akıl yorarsınız."
+    },
+    {
+      "id": 68,
+      "text": "",
+      "translation": "Yaşatan da öldüren de O’dur. Bir işe hükmettiğinde o konuda sadece “ol!” der, o da oluverir."
+    },
+    {
+      "id": 69,
+      "text": "",
+      "translation": "Görmez misin, Allah’ın ayetlerini tartışmaya kalkışanları; gerçeklerden nasıl da uzaklaştırılıyorlar!"
+    },
+    {
+      "id": 70,
+      "text": "",
+      "translation": "Kitabın ve elçilerimize gönderdiklerimizin asılsız olduğunu savunanlar, evet onlar ileride gerçeği anlayacaklar!"
+    },
+    {
+      "id": 71,
+      "text": "",
+      "translation": "O zaman boyunlarında halkalar ve zincirlerle şiddetli ateşe sürüklenirler; ardından da ateşte yakılırlar."
+    },
+    {
+      "id": 72,
+      "text": "",
+      "translation": "O zaman boyunlarında halkalar ve zincirlerle şiddetli ateşe sürüklenirler; ardından da ateşte yakılırlar."
+    },
+    {
+      "id": 73,
+      "text": "",
+      "translation": "Sonra onlara, “Vaktiyle Allah’ın dışında ilahî nitelikler yüklediğiniz şeyler şimdi nerede?” denir. “Bizi bırakıp kayboldular. Meğer vaktiyle gerçek bir varlığa tapmıyormuşuz” derler. İşte Allah inkarcıları böyle şaşkın ve çaresiz bırakır."
+    },
+    {
+      "id": 74,
+      "text": "",
+      "translation": "Sonra onlara, \"\"Vaktiyle Allah’ın dışında ilahi nitelikler yüklediğiniz şeyler şimdi nerede?\"\" denir. \"\"Bizi bırakıp kayboldular. Meğer vaktiyle gerçek bir varlığa tapmıyormuşuz\"\" derler. İşte Allah inkarcıları böyle şaşkın ve çaresiz bırakır."
+    },
+    {
+      "id": 75,
+      "text": "",
+      "translation": "“Bu duruma düşmenizin sebebi, dünyadayken haksız olarak böbürlenmeniz ve şımarmanızdır."
+    },
+    {
+      "id": 76,
+      "text": "",
+      "translation": "İçinde ebedi kalmak üzere cehennem kapılarından girin içeri!” Büyüklük taslayanların kalacakları yer ne kötü!"
+    },
+    {
+      "id": 77,
+      "text": "",
+      "translation": "Sen şimdi sabret; Allah’ın vaadi mutlaka gerçekleşecek. Muhakkak ki biz, onlara vaktiyle bildirip uyarıda bulunduğumuz şeylerin bir kısmını (ölmeden) sana göstereceğiz, (bir kısmını da görmeden) seni vefat ettireceğiz; ama onlar da sonunda bize dönecekler!"
+    },
+    {
+      "id": 78,
+      "text": "",
+      "translation": "Senden önce de elçiler gönderdik; onlardan sana hayat hikayelerini anlattıklarımız var, anlatmadıklarımız var. Allah’ın izni olmadıkça hiçbir elçi ayet getiremez. Allah’ın buyruğu geldiğinde artık hak yerini bulmuştur ve ilahi hakikatleri yok etmeye kalkışanlar hüsrana uğramışlardır."
+    },
+    {
+      "id": 79,
+      "text": "",
+      "translation": "Kimine binesiniz, kiminden yiyecek elde edesiniz diye sizin için hayvanları yaratan Allah’tır."
+    },
+    {
+      "id": 80,
+      "text": "",
+      "translation": "Onlarda sizin için daha nice faydalar vardır; gönüllerinizdeki bir ihtiyaca onlar üzerinde ulaşırsınız; onlarla ve gemilerle taşınırsınız."
+    },
+    {
+      "id": 81,
+      "text": "",
+      "translation": "Allah size kanıtlarını gösteriyor. Allah’ın kanıtlarının hangisini inkar edebilirsiniz?"
+    },
+    {
+      "id": 82,
+      "text": "",
+      "translation": "Yeryüzünde gezip de kendilerinden önce yaşamış olanların akıbetlerini görmezler mi? Onların sayısı bunlardan daha çoktu, daha güçlülerdi, yeryüzündeki eserleri de daha sağlamdı. Ne var ki, kazandıkları onları kurtaramadı."
+    },
+    {
+      "id": 83,
+      "text": "",
+      "translation": "Elçileri onlara açık seçik kanıtlar getirdiklerinde, sahip oldukları bilgileriyle böbürlendiler. Ama alay ettikleri şey onları kuşatıverdi!"
+    },
+    {
+      "id": 84,
+      "text": "",
+      "translation": "Dehşetli cezamızı gördüklerinde, “Allah’ın birliğine inandık, O’na ortak koştuğumuz şeyleri de şimdi reddetmekteyiz” derler."
+    },
+    {
+      "id": 85,
+      "text": "",
+      "translation": "Ama azabımızı gördüklerinde artık inanmaları kendilerine fayda vermeyecektir; Allah’ın, kulları hakkında öteden beri uygulanan yasası böyledir. İşte o zaman artık inkarcılar hüsrana uğramışlardır."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

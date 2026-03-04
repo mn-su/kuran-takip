@@ -1,0 +1,161 @@
+{
+  "id": 71,
+  "name": "نوح",
+  "translation": "Nûh",
+  "transliteration": "nuh",
+  "nuzul": 71,
+  "description": "Mekke döneminde inmiştir. 28 âyettir. Sûrede başlıca, Nûh peygamberin mücadeleleri ve Nûh Tufanı konu edilmektedir. Sûre, adını konusundan almıştır.",
+  "total_verses": 28,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Biz Nuh’u, “Kendilerine can yakıcı bir azap gelmeden önce halkını uyar” diyerek kavmine gönderdik."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Şöyle dedi: “Ey kavmim! Şüphesiz ben size gönderilmiş apaçık bir uyarıcıyım."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Allah’a kulluk edin; O’na karşı gelmekten sakının ve bana itaat edin;"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Ki Allah bir kısım günahlarınızı bağışlasın ve size belirli bir vadeye kadar süre tanısın. Şüphesiz Allah’ın belirlediği vade geldiğinde artık ertelenmez. Keşke ­bilseydiniz!”"
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Nuh, “Rabbim” dedi, “Doğrusu ben kavmimi gece gündüz hakka çağırdım;"
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Fakat benim çağrım sadece kaçışlarını arttırdı."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Kendilerini bağışlaman için ben onları ne zaman çağırdıysam, parmaklarını kulaklarına tıkadılar; elbiselerini başlarına bürüdüler, ayak dirediler, kibirlendikçe kibirlendiler."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Yine de ben onları açıkça çağırmaya devam ettim."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Onlara açık da söyledim, yerine göre gizli de söyledim.”"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Dedim ki: “Rabbinizden bağışlanmanızı dileyin; O, çok bağışlayıcıdır."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "(Dileyin ki) üzerinize gökten bol bol yağmur indirsin."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Mallar ve oğullar vererek sizi desteklesin, size bahçeler versin ve sizin için ırmaklar akıtsın."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Ne oluyor size de Allah’ın büyüklüğünü hesaba katmıyorsunuz?"
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Oysa O sizi türlü evrelerden geçirerek yaratmıştır."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Görmüyor musunuz Allah yedi göğü birbiriyle nasıl uyumlu yaratmıştır?"
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Onların içinde ayı bir ışık, güneşi ışık kaynağı yapmıştır."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Allah sizi yerden bitirip yetiştirmiştir."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Sonra sizi yine oraya döndürecek ve yeniden çıkaracaktır."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Allah yeryüzünü sizin için sergi gibi döşemiştir ki onda geniş yollar edinip dolaşabilesiniz.”"
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Allah yeryüzünü sizin için sergi gibi döşemiştir ki onda geniş yollar edinip dolaşabilesiniz.\"\""
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Nuh, “Rabbim, dedi, doğrusu bunlar beni dinlemediler, malı ve çocuğu kendi ziyanını arttırmaktan başka bir şeye yaramayan kimseye uydular."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Onlar çok büyük tuzaklar kurdular."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "İnsanlara dediler ki: Sakın ilahlarınızı bırakmayın; hele Ved’den, Suva’dan, Yegus’tan, Yeuk’tan ve Nesr’den asla vazgeçmeyin!"
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Gerçekten de birçoklarını saptırdılar; (Rabbim!) sen de artık bu zalimlerin şaşkınlıklarını arttır!”"
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Sonunda günahları yüzünden tufanda boğuldular, ardından ateşe atıldılar, kendilerine Allah’tan başka yardımcılar da bulamadılar."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Nuh “Rabbim” dedi, “Yeryüzünde inkarcılardan hiç kimseyi sağ bırakma!"
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Sen onları bırakırsan kullarını saptırırlar ve sadece günahkar nankör nesiller yetiştirirler."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Rabbim! Beni, annemi babamı, inanmış olarak evime girenleri, mümin erkekleri ve mümin kadınları bağışla, zalimleri ise daima helak et.”"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

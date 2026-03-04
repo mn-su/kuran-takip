@@ -1,0 +1,386 @@
+{
+  "id": 33,
+  "name": "الأحزاب",
+  "translation": "Ahzâb",
+  "transliteration": "ahzab",
+  "nuzul": 90,
+  "description": "Medine döneminde inmiştir. 73 âyettir. Sûre, adını 20 ve 22. âyetlerde geçen “el-Ahzâb” kelimesinden almıştır. Ahzâb, gruplar, demektir. Sûrede başlıca Hendek ve Benî Kureyza savaşları ile aile hayatına dair bazı hükümler konu edilmektedir.",
+  "total_verses": 73,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Ey peygamber! Allah’a itaatsizlikten sakın, açık ve gizli inkarcıların sözünü dinleme, Allah her şeyi bilmekte ve hikmetle yönetmektedir."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Rabbinden sana vahyedilene uy. Allah bütün yaptıklarınızdan haberdardır."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Allah’a güven; güvenip dayanmak için Allah yeter."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Allah bir kişinin göğüs boşluğunda iki kalp yaratmamıştır, annelerinize benzeterek haram olsun dediğiniz eşlerinizi anneleriniz kılmamış, evlatlıklarınızı da gerçek oğullarınız yapmamıştır. Bunlar sizin kendi iddianızdır; hak ve hakikati Allah söyler, doğru yolu da O gösterir."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Evlatlıklarınızı babalarının soy adlarıyla anın. Bu Allah katında adalete daha uygun bir davranıştır. Eğer onların babalarını bilmiyorsanız o zaman kendileri sizin din kardeşleriniz ve dostlarınızdır. Yanıldığınız hususta size günah yoktur, fakat bilinçli ve kasıtlı olarak yaptıklarınızdan sorumlusunuz. Allah çok bağışlayıcı ve ziyadesiyle esirgeyicidir."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Peygamber müminlere kendilerinden daha yakındır, eşleri de onların anneleridir. Aralarında kan bağı bulunanlar Allah’ın kitabında (mirasçılık bakımından) birbirlerine, diğer müminlerden ve muhacirlerden daha yakındırlar; dostlarınıza lutufta bulunmanız başkadır. Bu hüküm kitapta kayıt altına alınmıştır."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Hani bütün peygamberlerden; senden, Nuh’tan, İbrahim’den, Musa’dan, Meryem oğlu İsa'dan sadakat sözü almıştık, onlardan ağır sorumluluk taşıyan bir söz ­almıştık."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "(Allah bu sözü aldı) ki, bu sadık kulları sadakatleri konusunda sorumlu kılsın. O, inkar yolunu seçenlere de acı veren bir azap hazırlamıştır."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’ın size şu lütfunu hatırlayın: Üzerinize düşman ordusu gelmişti de onların üzerine şiddetli bir fırtına ve göremediğiniz bir ordu göndermiştik. Allah bütün yaptıklarınızı görmekte idi."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Yukarınızdan ve sizden aşağıda bulunan bölgeden üzerinize gelmişlerdi; korkudan gözler kaymış, yürekler ağızlara gelmişti; bu esnada Allah hakkında olmadık zanlara kapılmakta idiniz."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "İşte o zaman müminler büyük bir imtihan geçirdiler ve adamakıllı sarsıldılar."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Yine o zaman münafıklar ve kalplerinde bozukluk bulunanlar, “Allah ve resulünün vaadleri bizleri aldatmaktan ibaretmiş!” demişlerdi."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Onlardan bir grup, “Ey Medineliler! Sizin işiniz burada durmak değildir, hemen dönün” diyorlardı. Onlardan bir bölük de, aslında açıkta olmadığı halde, “Evlerimiz açıkta ve korumasız” diyerek peygamberden izin istiyorlardı; bunların istediği kaçmaktan başka bir şey değildi."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Medine’nin her tarafından saldırıya uğrasalardı da kendilerinden bozgunculuk yapmaları istenseydi (evlerini düşünmez) hiç vakit geçirmeden hemen ona koşarlardı."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Halbuki bunlar daha önce ayrılıp dönmeyeceklerine dair yeminle Allah’a söz vermişlerdi ve Allah’a verilen sözün yerine getirilmesi gerekirdi."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Onlara şunu söyle: “Ölümden veya öldürülmekten kaçsanız bile bu kaçış size bir fayda vermeyecektir. Kaçıp kurtulmanız halinde de bundan çok az ­faydalanabileceksiniz.”"
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Şunu da söyle: “Allah sizin için bir kötülük dilese Allah’a karşı sizi kim koruyabilecektir? Veya hakkınızda bir rahmet murat etse (kim engelleyecektir)?” Bu durumda Allah’tan başka kendilerine ne bir veli ne de bir yardımcı bulabileceklerdir."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "İçinizden engelleyicileri ve size karşı nekeslik (cimrilik) içinde arkadaşlarına, “Bize katılın” diyenleri Allah çok iyi bilmektedir. Zaten bunların pek azı savaşa gelir. Tehlike yaklaştığında ölümden dolayı kendinden geçip gözü kaymış kimse gibi sana baktıklarını görürsün, tehlike geçince de hayra karşı nekeslik içinde size sivri dillerini uzatırlar. Bunlar gerçekte iman etmemişlerdir, Allah da onların yaptıklarını geçersiz saymıştır. Bunu yapmak Allah için çok kolaydır."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "İçinizden engelleyicileri ve size karşı nekeslik içinde arkadaşlarına, \"\"Bize katılın\"\" diyenleri Allah çok iyi bilmektedir. Zaten bunların pek azı savaşa gelir. Tehlike yaklaştığında ölümden dolayı kendinden geçip gözü kaymış kimse gibi sana baktıklarını görürsün, tehlike geçince de hayra karşı nekeslik içinde size sivri dillerini uzatırlar. Bunlar gerçekte iman etmemişlerdir, Allah da onların yaptıklarını geçersiz saymıştır. Bunu yapmak Allah için çok kolaydır."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Düşman birliklerinin hala çekip gitmediklerini zannederler. Düşman bir daha geldiğinde ise size ait haberleri uzaktan almak üzere çöllerde dağınık yaşayan bedevîlerin arasında bulunmayı arzularlar. Zaten aranızda da bulunsalardı savaşa çok az katılırlardı."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "İçinizden Allah’ın lutfuna ve ahiret gününe umut bağlayanlar, Allah’ı çokça ananlar için hiç şüphe yok ki, Resulullah’ta güzel bir örneklik vardır."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Müminler düşman kuvvetlerini karşılarında görünce, “Bu, Allah’ın ve resulünün bize vaad ettiği durumdur, Allah ve resulü hep doğru söyler” dediler; bu onların ancak imanlarını ve teslimiyet duygularını ­arttırdı."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Müminlerden bazı kimseler Allah’a verdikleri sözü yerine getirdiler, kimileri onun yolunda can verdiler, kimileri de ecellerini bekliyorlar; (vaadlerini) asla ­değiştirmediler."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "(Böyle oldu ki) Allah, sözünde duranları sadakatleri sebebiyle ödüllendirsin, münafıkları da dilerse cezalandırsın, dilerse bağışlasın! Allah çok bağışlayıcı, ziyadesiyle esirgeyicidir."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Allah inkarcıları, hiçbir şey elde edemeden, kin ve öfkeleri ile geri çevirdi. Allah’ın desteği müminler için yeterlidir. Allah güçlüdür, üstündür."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Allah, Ehl-i kitap’tan onlara destek verenleri kalelerinden indirdi, kalplerine korku saldı; artık onların bir kısmını öldürüyorsunuz, bir kısmını da esir alıyorsunuz."
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Onların topraklarını, evlerini, mallarını, o zamana kadar ayak basmadığınız bir toprağı size Allah miras bıraktı. Allah her şeye kadirdir."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Ey peygamber! Eşlerine şöyle de: “Dünya hayatını ve güzelliklerini istiyorsanız gelin size bir şeyler vereyim sonra da güzellikle sizi serbest bırakayım."
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Yok eğer Allah’ı, resulünü ve ahiret yurdunu istiyorsanız şunu bilin ki Allah, içinizden güzel davrananlara büyük bir ödül hazırlamıştır.”"
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Ey peygamber hanımları! Sizden kim açık bir hayasızlık yaparsa onun cezası ikiye katlanır, bu Allah için kolay bir şeydir."
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Sizden kim de Allah’a ve resulüne itaat eder, güzel işler yaparsa ona hak ettiği karşılığı iki kere veririz, ayrıca onun için değerli bir nasip de hazırladık."
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Ey peygamber hanımları! Siz herhangi bir kadın gibi değilsiniz. Eğer günahtan sakınmak istiyorsanız sözü edalı bir tavırla söylemeyin ki, kalbinde çürüklük olan kimse ümide kapılmasın. Ayrıca düzgün söz söyleyin."
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Evlerinizde oturun ve daha önce Cahiliye döneminde olduğu gibi açılıp saçılmayın, namazı güzelce kılın, zekatı verin, Allah’a ve resulüne itaat edin. Ey peygamber ailesi! Allah sizi sadece günah kirlerinden arındırmak ve sizi tertemiz yapmak istiyor."
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Hanelerinizde okunan Allah’ın ayetlerini ve hikmeti dilinizden düşürmeyin. Allah bütün incelikleri ve gizlilikleri bilir, her şeyden haberdardır."
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Müslüman erkekler, müslüman kadınlar; mümin erkekler, mümin kadınlar; ibadet ve itaat eden erkekler, ibadet ve itaat eden kadınlar; özü sözü doğru erkekler, özü sözü doğru kadınlar; sabreden erkekler, sabreden kadınlar; gönlünü ibadete vermiş erkekler, gönlünü ibadete vermiş kadınlar; (Allah için) yardım yapan erkekler, yardım yapan kadınlar; oruç tutan erkekler, oruç tutan kadınlar; iffetlerini koruyan erkekler, iffetlerini koruyan kadınlar; Allah’ı çokça anan erkekler, çokça anan kadınlar; işte bunlar için Allah büyük bir ödül hazırlamıştır."
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "Allah ve resulü herhangi bir konuda hüküm verdiklerinde artık mümin bir erkek veya kadın için işlerinde tercih hakları yoktur. Allah’ın ve resulünün emrine itaat etmeyenler doğru yoldan açıkça sapmışlardır."
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Bir zaman, Allah’ın kendisine lutufta bulunduğu, senin de lutufkar davrandığın kişiye, “Eşinle evlilik bağını koru, Allah’tan kork” demiştin. Bunu derken Allah’ın ileride açıklayacağı bir şeyi içinde saklıyordun; öncelikle çekinmen gereken Allah olduğu halde sen halktan çekiniyordun. Zeyd onunla evlenip ayrıldıktan sonra müminlere, evlatlıklarının -kendileriyle beraber olup ayrıldıkları- eşleriyle evlenmeleri hususunda bir sıkıntı gelmesin diye seni o kadınla evlendirdik. Allah’ın emri elbet yerine getirilecektir."
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Allah’ın, kendisi için takdir ve emrettiği bir şeyi yerine getirme hususunda peygamber için bir sıkıntı ve sakınca olamaz. Allah’ın hükmü değişmez kaderdir. Daha önce gelip geçen, Allah’ın vahyini insanlara ulaştıran, O’ndan çekinen, Allah’tan başka hiçbir kimseden çekinmeyen peygamberler hakkında da Allah’ın kanunu böyledir. Hesap sorucu olarak Allah kafidir."
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Allah’ın, kendisi için takdir ve emrettiği bir şeyi yerine getirme hususunda peygamber için bir sıkıntı ve sakınca olamaz. Allah’ın hükmü değişmez kaderdir. Daha önce gelip geçen, Allah’ın vahyini insanlara ulaştıran, O’ndan çekinen, Allah’tan başka hiçbir kimseden çekinmeyen peygamberler hakkında da Allah’ın kanunu böyledir. Hesap sorucu olarak Allah kafidir."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Muhammed sizin adamlarınızdan hiçbirinin babası değildir, fakat o Allah’ın elçisidir ve peygamberlerin sonuncusudur. Allah her şeyi bilmektedir."
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’ı çok çok anın."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Sabah akşam O’nun yücelik ve eşsizliğini dile getirin."
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "Sizi karanlıklardan aydınlığa çıkarmak için O size rahmetiyle lutufta bulunuyor, melekleri de dua ediyor. O, müminlere karşı çok merhametlidir."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Kendisine kavuştukları gün onları esenlik dileyerek selamlayacaktır ve onlar için değerli bir ödül hazırlamıştır."
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Ey peygamber! Seni tanık, müjdeci, uyarıcı, izniyle Allah’a çağırıcı ve etrafını aydınlatan bir ışık olarak gönderdik."
+    },
+    {
+      "id": 46,
+      "text": "",
+      "translation": "Ey peygamber! Seni tanık, müjdeci, uyarıcı, izniyle Allah’a çağırıcı ve etrafını aydınlatan bir ışık olarak gönderdik."
+    },
+    {
+      "id": 47,
+      "text": "",
+      "translation": "Kendileri için Allah’ın büyük bir lutfunun bulunduğunu müminlere müjdele!"
+    },
+    {
+      "id": 48,
+      "text": "",
+      "translation": "İnkarcılara ve iki yüzlülere kulak asma, onların sana verdikleri eziyete aldırma. Allah’a dayan ve güven, güvenmek için Allah yeter."
+    },
+    {
+      "id": 49,
+      "text": "",
+      "translation": "Ey iman edenler! Mümin kadınlarla evlenme akdi yapıp da sonra, birleşmeden onları boşadığınızda onlar üzerinde, hesaplayıp bekleteceğiniz bir iddet hakkınız yoktur. Onları bir şeyler vererek memnun ediniz ve güzellikle boşayınız."
+    },
+    {
+      "id": 50,
+      "text": "",
+      "translation": "Ey peygamber! Mehirlerini verdiğin eşlerini, Allah’ın sana ganimet olarak verdiği cariyelerini, seninle birlikte hicret eden amca kızlarını, hala kızlarını, dayı kızlarını, teyze kızlarını sana helal kıldık. Ayrıca mümin bir kadın kendini peygambere mehirsiz olarak bağışlar, peygamber de onunla evlenmek isterse, diğer müminlere değil, sırf sana mahsus olmak üzere, onu da sana helal kıldık. Müminlere eşleri ve sahip oldukları cariyeleri hakkında hangi kuralları geçerli kıldığımızı biliyoruz. Sana mahsus olanı güçlük çekmeyesin diye meşru kıldık. Allah çok bağışlayıcı, pek esirgeyicidir."
+    },
+    {
+      "id": 51,
+      "text": "",
+      "translation": "Onlardan dilediğinin beraberliğini erteler, dilediğini yanına alırsın. Uzaklaştırdıklarından birini tekrar istemende senin için bir sakınca yoktur. Bu hüküm onların mutlu olmaları, üzülmemeleri ve hepsinin senin verdiğine razı olmaları için en uygun olanıdır. Allah gönüllerinizdekini bilir, Allah ilim ve hilim sahibidir."
+    },
+    {
+      "id": 52,
+      "text": "",
+      "translation": "Artık bundan sonra sana kadınlar helal olmaz; sahip olduğun cariyeler dışında kadınlarını, güzellikleri hoşuna gitse bile başka eşlerle değiştirmen de helal olmaz. Allah her şeyi görüp gözetmektedir."
+    },
+    {
+      "id": 53,
+      "text": "",
+      "translation": "Ey iman edenler! Size izin verilmedikçe Peygamberin evlerine girip de yemeğin hazırlanmasını beklemeyin; fakat yemeye çağırıldığınızda girin; yemeğinizi yiyince de hemen dağılın, söze dalıp oturmayın. Bu davranışınız peygamberi rahatsız ediyor, size söylemeye çekiniyor, oysa Allah hak olanı açıklamaktan çekinmez. Peygamber hanımlarından bir şey istediğinizde, onlar perde arkasında iken isteyin; bu sizin kalplerinizin de onların kalplerinin de temiz kalması için en uygunudur. Resulullah’ı üzmeye hakkınız yoktur, kendisinden sonra ebedi olarak eşleriyle de evlenemezsiniz, sizin bunu yapmanız Allah katında büyük bir günahtır."
+    },
+    {
+      "id": 54,
+      "text": "",
+      "translation": "Siz bir şeyi açığa vursanız da gizleseniz de şurası muhakkak ki Allah her şeyi bilmektedir."
+    },
+    {
+      "id": 55,
+      "text": "",
+      "translation": "Peygamber hanımlarına babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, kadınları ve sahip bulundukları hizmetçileri hakkında (perdesiz görüşmede) bir günah yoktur. Allah’a itaatsizlikten sakının. Kuşkusuz Allah her şeye tanıktır."
+    },
+    {
+      "id": 56,
+      "text": "",
+      "translation": "Allah ve melekler peygambere salat ediyorlar; ey iman edenler, siz de ona salat ve selam okuyun."
+    },
+    {
+      "id": 57,
+      "text": "",
+      "translation": "Allah’ı ve resulünü incitenleri Allah, dünyada ve ahirette lanetlemiş ve onlar için alçaltıcı bir ceza hazırlamıştır."
+    },
+    {
+      "id": 58,
+      "text": "",
+      "translation": "Hak etmedikleri halde mümin erkek ve mümin kadınları incitenler apaçık bir büh­­tan ve günah yüklenmiş olmaktadırlar."
+    },
+    {
+      "id": 59,
+      "text": "",
+      "translation": "Ey peygamber! Eşlerine, kızlarına ve müminlerin kadınlarına söyle, dış giysilerini üzerlerine bürünsünler. Bu, tanınıp rahatsız edilmemeleri için en uygun olanıdır. Allah ziyadesiyle bağışlamakta ve çok esirgemektedir."
+    },
+    {
+      "id": 60,
+      "text": "",
+      "translation": "Münafıklar, kalplerinde çürüklük bulunanlar ve Medine’de asılsız haber yayanlar yaptıklarına son vermezlerse seni onların üzerine sevkedeceğiz; o zaman seninle beraber orada fazla oturamayacaklar, Allah’ın rahmetinden uzaklaşmış olarak nerede bulunsalar yakalanıp öldürülecekler."
+    },
+    {
+      "id": 61,
+      "text": "",
+      "translation": "Münafıklar, kalplerinde çürüklük bulunanlar ve Medine’de asılsız haber yayanlar yaptıklarına son vermezlerse seni onların üzerine sevkedeceğiz; o zaman seninle beraber orada fazla oturamayacaklar, Allah’ın rahmetinden uzaklaşmış olarak nerede bulunsalar yakalanıp öldürülecekler."
+    },
+    {
+      "id": 62,
+      "text": "",
+      "translation": "Bu, Allah’ın daha önce gelip geçenler hakkında koyduğu kanundur; Allah’ın kanununda asla bir değişme bulamayacaksın."
+    },
+    {
+      "id": 63,
+      "text": "",
+      "translation": "İnsanlar senden kıyametin ne zaman kopacağını soruyorlar. “Bunun bilgisi yalnızca Allah katındadır” de. Nereden bileceksin, belki de kıyamet yakında olacak."
+    },
+    {
+      "id": 64,
+      "text": "",
+      "translation": "Allah inkarcıları lanetlemiş, onlara çok yakıcı bir ateş hazırlamıştır."
+    },
+    {
+      "id": 65,
+      "text": "",
+      "translation": "Orada hiçbir koruyucu ve yardımcı bulamadan ebedi olarak kalacaklardır."
+    },
+    {
+      "id": 66,
+      "text": "",
+      "translation": "Yüzleri ateşe çevrildiği gün, “Keşke Allah’a itaat etseydik, resulü dinleseydik” diyecekler."
+    },
+    {
+      "id": 67,
+      "text": "",
+      "translation": "Ve ekleyecekler: “Rabbimiz! Biz efendilerimizi ve büyüklerimizi dinledik, onlar da bizi yoldan saptırdılar."
+    },
+    {
+      "id": 68,
+      "text": "",
+      "translation": "Rabbimiz! Onlara iki kat azap ver ve onları ağır bir şekilde lanetle!”"
+    },
+    {
+      "id": 69,
+      "text": "",
+      "translation": "Ey iman edenler! Musa’yı incitenler gibi olmayın. Allah onun, hakkında söylediklerinden uzak, tertemiz biri olduğunu ortaya koymuştu. Gerçekten o, Allah katında itibarlı idi."
+    },
+    {
+      "id": 70,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’a itaatsizlikten sakının ve doğru söz söyleyin ki, Allah sizin işlerinizi düzeltsin, günahlarınızı bağışlasın. Kim Allah’a ve resulüne itaat ederse gerçekten büyük bir kazanç elde eder."
+    },
+    {
+      "id": 71,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’a itaatsizlikten sakının ve doğru söz söyleyin ki, Allah sizin işlerinizi düzeltsin, günahlarınızı bağışlasın. Kim Allah’a ve resulüne itaat ederse gerçekten büyük bir kazanç elde eder."
+    },
+    {
+      "id": 72,
+      "text": "",
+      "translation": "Biz emaneti göklere, yerküreye ve dağlara teklif ettik, ama onlar bunu yüklenmek istemediler, ondan korktular ve onu insan yüklendi. Kuşkusuz insan çok zalim, çok bilgisizdir."
+    },
+    {
+      "id": 73,
+      "text": "",
+      "translation": "Böyle yaptı ki Allah, münafık erkekleri ve münafık kadınları, müşrik erkekleri ve müşrik kadınları cezalandırsın, mümin erkeklerin ve mümin kadınların da tövbelerini kabul buyursun. Allah çok bağışlayıcı, ziyadesiyle esirgeyicidir."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

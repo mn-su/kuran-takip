@@ -1,0 +1,241 @@
+{
+  "id": 70,
+  "name": "المعارج",
+  "translation": "Meâric",
+  "transliteration": "mearic",
+  "nuzul": 79,
+  "description": "Mekke döneminde inmiştir. 44 âyettir. Sûre, adını üçüncü âyetteki “elMe’âric”kelimesinden almıştır. Me’âric, yükselme yolları demektir. Sûredebaşlıca, Mekke müşriklerinin inkâr, inat ve azgınlıkları, insan tabiatının bazıyönleri, ölüm ötesi hayatın gerçekliği konu edilmektedir",
+  "total_verses": 44,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Birisi, huzuruna yükselmenin birçok yolu bulunan Allah katından inkarcılar için gelecek olan ve hiç kimsenin savamayacağı azabın gelmesini istedi."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Birisi, huzuruna yükselmenin birçok yolu bulunan Allah katından inkarcılar için gelecek olan ve hiç kimsenin savamayacağı azabın gelmesini istedi."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Birisi, huzuruna yükselmenin birçok yolu bulunan Allah katından inkarcılar için gelecek olan ve hiç kimsenin savamayacağı azabın gelmesini istedi."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Melekler ve ruh O’na, miktarı elli bin yıl olan bir günde yükselip çıkar."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Şimdi sen güzelce sabret."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Doğrusu onlar o azabı ihtimalden uzak görüyorlar."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Biz ise onu yakın görmekteyiz."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "O gün gökyüzü erimiş maden gibi olur."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Dağlar da atılmış renkli yüne döner."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Dost dostunun halini sormaz olur."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Halbuki birbirlerine gösterilirler. Günahkar kişi, o günün azabı karşısında ister ki oğullarını, karısını, kardeşini, kendisini koruyup barındıran bütün ailesini ve yeryüzünde kim varsa herkesi fidye olarak versin de kendisini kurtarsın!"
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Halbuki birbirlerine gösterilirler. Günahkar kişi, o günün azabı karşısında ister ki oğullarını, karısını, kardeşini, kendisini koruyup barındıran bütün ailesini ve yeryüzünde kim varsa herkesi fidye olarak versin de kendisini kurtarsın!"
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Halbuki birbirlerine gösterilirler. Günahkar kişi, o günün azabı karşısında ister ki oğullarını, karısını, kardeşini, kendisini koruyup barındıran bütün ailesini ve yeryüzünde kim varsa herkesi fidye olarak versin de kendisini kurtarsın!"
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Halbuki birbirlerine gösterilirler. Günahkar kişi, o günün azabı karşısında ister ki oğullarını, karısını, kardeşini, kendisini koruyup barındıran bütün ailesini ve yeryüzünde kim varsa herkesi fidye olarak versin de kendisini kurtarsın!"
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Fakat ne mümkün! Bilinmeli ki o (cehennem) alev alev yanan, derileri kavurup soyan bir ateştir."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Fakat ne mümkün! Bilinmeli ki o (cehennem) alev alev yanan, derileri kavurup soyan bir ateştir."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Haktan yüz çevirip uzaklaşmak isteyeni ve mal toplayıp üstüne oturanı kendine çağırır."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Haktan yüz çevirip uzaklaşmak isteyeni ve mal toplayıp üstüne oturanı kendine çağırır."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Gerçekten insan pek tahammülsüz bir tabiatta yaratılmıştır."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Başına bir fenalık geldi mi sızlanır durur."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Ama ona bir nimet nasip olursa kendisinden başkasını yararlandırmaz."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Ancak namaz kılanlar başka;"
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Namazlarını devamlı kılanlar;"
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "İsteyene ve yoksun kalmışa mallarından belli bir hak tanıyanlar;"
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "İsteyene ve yoksun kalmışa mallarından belli bir hak tanıyanlar;"
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Hesap gününün doğruluğuna inananlar;"
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Rablerinin azabından çekinenler -ki rablerinin azabı karşısında asla güven içinde olunamaz-;"
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Rablerinin azabından çekinenler -ki rablerinin azabı karşısında asla güven içinde olunamaz-;"
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "İffetlerini koruyanlar -ki eşleri ve cariyeleri bunun dışında olup bundan dolayı kınanmazlar; ama kim bunun ötesine geçmeye kalkışırsa böyleleri sınırı aşanların ta kendileridir-;"
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "İffetlerini koruyanlar -ki eşleri ve cariyeleri bunun dışında olup bundan dolayı kınanmazlar; ama kim bunun ötesine geçmeye kalkışırsa böyleleri sınırı aşanların ta kendileridir-;"
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "İffetlerini koruyanlar -ki eşİffetlerini koruyanlar -ki eşleri ve cariyeleri bunun dışında olup bundan dolayı kınanmazlar; ama kim bunun ötesine geçmeye kalkışırsa böyleleri sınırı aşanların ta kendileridir-;"
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Emanetlerine ve ahidlerine riayet edenler;"
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Şahitliklerini dosdoğru yapanlar;"
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Namazlarının gereklerini titizlikle yerine getirenler;"
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "İşte bunlar cennetlerde ağırlanırlar."
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "O inkarcılara ne oluyor ki (inkar veya alay etmek için) grup grup sağdan soldan sana doğru koşuyorlar."
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "O inkarcılara ne oluyor ki (inkar veya alay etmek için) grup grup sağdan soldan sana doğru koşuyorlar."
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Üstelik bir de onlardan her biri nimetler cennetine yerleştirileceğini mi umuyor?"
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Asla! Biz onları, şu bildikleri şeyden yaratmışızdır."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Doğuların ve batıların rabbine yemin ederim ki, onların yerine daha iyilerini getirmeye bizim gücümüz yeter, kimse bizim önümüze geçemez."
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Doğuların ve batıların rabbine yemin ederim ki, onların yerine daha iyilerini getirmeye bizim gücümüz yeter, kimse bizim önümüze geçemez."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Bırak onları, kendilerine geleceği hususunda uyarıldıkları güne ulaşıncaya kadar boş şeylere dalıp oyalanadursunlar!"
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "O gün onlar, bir hedefe çabucak varmak istercesine süratle kabirlerinden çıkarlar."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "O sırada gözlerine korku çökmüş, perişan olmuşlardır. İşte başlarına geleceği konusunda uyarıldıkları gün o gündür."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

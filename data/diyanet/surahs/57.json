@@ -1,0 +1,166 @@
+{
+  "id": 57,
+  "name": "الحديد",
+  "translation": "Hadîd",
+  "transliteration": "hadid",
+  "nuzul": 94,
+  "description": "Medine döneminde inmiştir. 29 âyettir. Sûre, adını 25. âyette geçen “elHadîd” kelimesinden almıştır. Hadîd, demir demektir. Sûrede başlıca, tüm kâinatın Allah’a ait olduğu ve kâinatta dilediği gibi tasarruf edeceği, Allah’ın dinini yüceltmek için can ve mal ile mücadelenin gerekliliği, dünya hayatının geçiciliği ve aldatıcılığı konu edilmektedir.",
+  "total_verses": 29,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Göklerde ve yerde bulunanlar Allah’ı tesbih etmektedir. O üstündür, her yaptığında hikmet vardır."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Göklerin ve yerin hükümranlığı yalnız O’nundur. Hem hayat verir hem öldürür. O’nun her şeye gücü yeter."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "O, evvel ve ahir, zahir ve batındır. O her şeyi bilir."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Gökleri ve yeri altı günde yaratan, sonra arşa istiva eden O’dur. Toprağa giren ve ondan çıkan, gökten inen ve ona yükselen her şeyi bilir. Nerede olursanız olun O sizinle beraberdir. Allah yaptıklarınızı görmektedir."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Göklerin ve yerin hükümranlığı yalnız O’nundur ve bütün işlerin dönüp varacağı merci ancak Allah’tır."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Geceyi gündüze katar, gündüzü de geceye katar. O kalplerde olanı çok iyi bilir."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Allah’a ve resulüne iman edin; O’nun size emanet olarak verdiklerinden, başkaları için de harcayın. İçinizden iman edip böyle harcamada bulunanlara büyük mükafat vardır."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Peygamber rabbinize iman etmeniz için çağrıda bulunup dururken, O da sizden kesin söz almışken -bir şeye inanmaktaysanız- ne diye O’na iman etmezsiniz?"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Sizi karanlıklardan aydınlığa çıkarmak üzere kuluna apaçık ayetler indiren O’dur. Kuşkusuz Allah size karşı çok şefkatli, çok merhametlidir."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Göklerin ve yerin tamamı zaten Allah’a ait olduğu halde ne diye hala Allah yolunda harcama yapmıyorsunuz? İçinizden fetihten önce harcayan ve savaşanlar ötekilerle bir değildir. Onların derecesi, daha sonra harcayan ve savaşanlardan üstündür. Bununla birlikte Allah her birine en güzel olanı vaad etmiştir. Allah, yaptıklarınızdan tamamen haberdardır."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Kim Allah’a güzel bir borç verirse Allah bunu fazlasıyla öder. Ayrıca ona pek değerli bir ödül de vardır."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "O gün mümin erkeklerin ve mümin kadınların ışıklarının önlerini ve çevrelerini aydınlattığını görürsün. “Bugün size müjde var; altından ırmaklar akan cennetlerde ebedi kalacaksınız” (denir). İşte en büyük murada ermek budur."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "O gün münafık erkekler ve münafık kadınlar iman edenlere şöyle diyecekler: “Bizi bekleyin de yetişip nurunuzdan bir parça alalım.” Şöyle denecek: “Geriye dönün de başka bir nur arayın!” Ve hemen aralarına kapısı da olan bir duvar çekilir; duvarın iç tarafında rahmet, kendilerine bakan dış tarafında ise azap vardır."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Münafıklar onlara, “Sizinle beraber değil miydik?” diye seslenirler. Onlar, “Evet öyleydi” derler, ama siz başınızı belaya kendiniz soktunuz, fırsat kolladınız, hep şüphe içinde oldunuz ve Allah’ın emri gelip çatıncaya kadar geleceğe yönelik kuruntularınız sizi oyaladı; bundan ötürü o aldatan (şeytan) da Allah hakkında sizi kandırıp durdu."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Bugün artık ne sizden ne de açıkça inkar edenlerden bir fidye kabul edilir. Varacağınız yer ateştir. Size yaraşan odur. Ne kötü bir gidiş!"
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "İman edenlerin, Allah’ı anmak ve vahyedilen gerçeği düşünmekten dolayı kalplerinin heyecanla ürperme zamanı gelmedi mi? Onlar daha önce kendilerine kitap verilmiş ve üzerlerinden uzun zaman geçip kalpleri katılaşmış kimseler gibi olmasınlar. Onlardan birçoğu yoldan çıkmışlardır."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Bilin ki Allah, ölmüş toprağa yeniden hayat verir. Şüphesiz biz, düşünesiniz diye delilleri bir bir açıklamışızdır."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Karşılıksız yardım eden erkeklere, karşılıksız yardım eden kadınlara ve Allah’a (O’nun muhtaç kullarına) güzel bir ödünç verenlere bu fazlasıyla ödenecektir. Ayrıca onlara pek değerli bir ödül de vardır."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Allah’a ve peygamberlerine (böyle) iman edenler var ya, işte onlar rableri katında sıddıklar ve şehidler mertebesindedirler. Mükafatları ve nurları (ahirette) onları beklemektedir. İnkar edip ayetlerimizi yalan sayanlar ise cehennemliktirler."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Bilin ki dünya hayatı, bir oyun, bir eğlence, bir gösteriş, aranızda bir övünme, mal ve evlatta bir çokluk yarışından ibarettir. Tıpkı bir yağmur gibi ki bitirdikleri çiftçileri imrendirir, sonra kurumaya yüz tutar, bir de bakarsın ki sararmıştır, ardından da çerçöp haline gelmiştir. Ahirette ise ya çetin bir azap yahut Allah’ın bağışlaması ve hoşnutluğu vardır. Dünya hayatı sadece aldatıcı bir yararlanmadan başka bir şey değildir."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Genişliği gökle yerin genişliği gibi olup Allah’a ve peygamberlerine iman edenler için hazırlanmış bulunan cennete ve rabbinizin bağışlamasına erişebilmek için yarışın. Bu, Allah’ın lutfudur ki onu dilediğine verir. Allah büyük lutuf sahibidir."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Yeryüzünde vuku bulan veya başınıza gelen hiçbir musibet yoktur ki, biz onu yaratmadan önce bir kitapta yazılı olmasın. Kuşkusuz bu Allah’a göre kolaydır."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Kaybettiklerinize üzülmeyesiniz ve O’nun size verdikleriyle şımarmayasınız diye (böyle yapmıştır). Allah kendini beğenen, böbürlenen hiç kimseyi sevmez."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Onlar kendileri cimrilik yaptıkları gibi insanlara da cimrilik telkin ederler. Kim yüz çevirirse bilsin ki Allah’ın hiçbir şeye ihtiyacı yoktur, O her türlü övgüye layıktır."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Andolsun biz peygamberlerimizi açık kanıtlarla gönderdik, beraberlerinde kitap ve adalet terazisini de indirdik ki insanlar hakkaniyete uygun davransınlar. Bir de demiri indirdik ki onda büyük bir güç ve insanlar için yararlar vardır. Böylece Allah, görmeden iman ederek kendisine ve peygamberlerine yardım edecekleri ortaya çıkaracaktır. Şüphesiz Allah güçlüdür, üstündür."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Andolsun Nuh’u ve İbrahim’i elçi olarak gönderdik, onların soyundan gelenlere de peygamberlik ve kitap verdik. Onlardan doğru yolu bulanlar olduğu gibi birçoğu da yoldan çıkmış kimselerdir."
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Sonra onların izinden peygamberlerimizi peş peşe gönderdik. Arkalarından Meryem oğlu İsa’yı da gönderdik, ona İncil’i verdik, ona uyanların kalplerine şefkat ve merhamet yerleştirdik. Kendilerinin icat ettikleri ruhbanlığa gelince, biz onlara bunu emretmemiştik; sırf Allah’ın hoşnutluğunu kazanmak için yapmışlardı, ama buna hakkıyla riayet etmediler. Biz de içlerinden iman edenlere mükafatlarını verdik, ama çokları yoldan çıkmışlardır."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’a saygısızlıktan sakının ve resulüne iman edin ki size rahmetinden iki kat versin, aydınlığında yürüyeceğiniz bir nur lutfetsin ve sizi bağışlasın. Allah çok bağışlayıcıdır, çok merhametlidir."
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Böylece Ehl-i kitap’tan olanlar, Allah’ın lütfu üzerinde hiçbir güçlerinin bulunmadığını ve bütün lütfun Allah’ın elinde olup onu dilediğine verdiğini bilsinler. Allah büyük lutuf sahibidir."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

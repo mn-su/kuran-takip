@@ -1,0 +1,636 @@
+{
+  "id": 11,
+  "name": "هود",
+  "translation": "Hûd",
+  "transliteration": "hud",
+  "nuzul": 52,
+  "description": "Mekke döneminde inmiştir. 123 âyettir. Sûre, adını içinde söz konusu edilen Hûd peygamberden almıştır. Sûre de başlıca tevhit, peygamberlik, öldükten sonra dirilme ve ceza konuları ele alınmakta ve bunlar bazı peygamberlerin kıssalarıyla desteklenmektedir.",
+  "total_verses": 123,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Elif-lam-ra. Bu, hikmet sahibi ve her şeyden haberdar olan Allah tarafından ayetleri sağlam kılınmış, sonra da şu şekilde açıklanmış bir kitaptır:"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Allah’tan başkasına ibadet etmeyin. -Kuşkusuz ben de O’nun tarafından size gönderilmiş bir uyarıcı ve müjdeleyiciyim.-"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Rabbinizden mağfiret dileyin, sonra O’na tövbe edin. Allah da sizi belirlenmiş bir süreye kadar dünya nimetlerinden güzelce yararlandırsın, fazlasını yapan herkese de iyiliğinin karşılığını versin. Eğer yüz çevirirseniz, ben sizin başınıza gelecek o dehşetli günün azabından korkarım."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Dönüşünüz yalnız Allah’a olacaktır; O her şeye kadirdir."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Bakınız! O inkarcılar içlerindekini O’ndan gizlemek için sırtlarını dönerler. Bilesiniz ki elbiselerine büründükleri zaman dahi Allah onların gizlediklerini de açığa çıkardıklarını da bilir; çünkü O kalplerin içini bilendir."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Yeryüzünde kımıldayan hiçbir canlı yoktur ki rızkı Allah’ın üzerine olmasın. Allah onların halen bulunduğu yeri de emanet olarak konulacağı yeri de bilir; hepsi apaçık kitapta vardır."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Arşı, su üzerinde iken hanginizin daha güzel davranacağını denemek için gökleri ve yeri altı günde yaratan O’dur. Eğer sen, “Öldükten sonra mutlaka diriltileceksiniz” desen kafirler derhal, “Bu büyü gibi bir düzmecedir” derler."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Andolsun, eğer biz onlardan azabı belirli bir süreye kadar ertelesek mutlaka, “Onu engelleyen nedir?” derler. Bilesiniz ki onlara azap geldiği gün artık ondan kurtulmaları mümkün değildir. Alay etmekte oldukları şey kendilerini çepeçevre kuşatacaktır."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Eğer insana tarafımızdan bir nimet tattırır da sonra ondan çekip alırsak tamamen ümitsizliğe düşer, nankörleşir."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Eğer başına gelen bir sıkıntıdan sonra ona bir nimet tattırırsak, “Kötü durumlar benden uzaklaşıp gitti” der. Artık onun bütün yaptığı sevinmek ve övünmektir."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Ancak sabredip, dünya ve ahiret için yararlı işler yapanlar böyle değildir. İşte onlar için bir bağış ve büyük bir mükafat vardır."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "“Ona bir hazine indirilse veya onunla beraber bir melek gelse ya!” demelerinden dolayı canın sıkılarak sana vahyedilen ayetlerin bir kısmının tebliğini terkedecek değilsin ya! Sen ancak bir uyarıcısın. Allah her şeye vekildir."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Yoksa “Kur’an’ı kendisi uydurdu” mu diyorlar? De ki: “Eğer doğru söylüyorsanız Allah’tan başka çağırabildiğiniz herkesi yardıma çağırın da, siz de onun gibi uydurulmuş on sure getirin!”"
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Eğer size cevap veremezlerse, bilin ki Kur’an ancak Allah’ın ilminin eseri olarak indirilmiştir ve O’ndan başka tanrı yoktur; hala teslim olmayacak mısınız?"
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Kim dünya hayatı ve onun ziynetini istiyorsa, orada onlara işlerinin karşılığını eksiksiz veririz; orada onlar hiçbir zarara uğratılmazlar."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Onlar, ahirette paylarına ateşten başka bir şey düşmeyen kimselerdir. Dünyada ürettikleri boşa gitmiştir; yapıp ettikleri de geçersizdir."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Rabbinden gelmiş açık bir delile dayanan kimse (hiç ötekiler gibi olur mu)? Bu delili de rabbinden gelen bir şahit izliyor; ayrıca ondan önce de bir önder ve rahmet olarak Musa’nın kitabı var. İşte bunlar ona inanırlar; çeşitli gruplardan onu inkar edenlerin varacağı yer ise cehennem ateşidir. Bundan şüpheniz olmasın; bu rabbin tarafından bildirilmiş bir gerçektir; fakat insanların çoğu inanmazlar."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Allah hakkında yalan yanlış şeyler uydurandan daha zalim kim vardır! Onlar (kıyamet gününde) rablerinin huzuruna çıkarılacaklar, şahitler de “İşte bunlar rablerine asılsız şeyler isnat edenlerdir” diyecekler. Bilin ki, Allah’ın laneti zalimlerin üzerine olacaktır!"
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "O zalimler, Allah yolundan alıkoyan ve onu eğri göstermeye çalışanlardır; ahireti inkar edenler de işte bunlardır."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Onlar yeryüzünde (Allah’ı) aciz bırakacak değillerdir; kendilerini Allah’ın azabından koruyabilecek yardımcıları da yoktur; cezaları kat kat olacaktır. Çünkü onlar (hakikati) ne görebiliyorlar ne de işitebiliyorlardı."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "İşte kendilerine yazık edenler bunlardır; uydurdukları (tanrılar) da yanlarından kaybolup gitti."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Şüphesiz bunlar, ahirette en çok ziyana uğrayanlardır."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "İman edip dünya ve ahiret için yararlı işler yapan ve rablerine gönül huzuruyla teslim olanlara gelince, işte onlar cennetliklerdir. Onlar orada ebedi kalacaklardır."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Bu iki grubun durumu, kör ve sağır olan kimse ile gören ve işiten kimsenin durumuna benzer. Bunlar eşit olur mu? Hala ibret almıyor musunuz?"
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Gerçek şu ki biz Nuh’u kavmine elçi olarak gönderdik; şöyle dedi: “Allah’tan başkasına tapmayın!” diye size gönderilmiş açık bir uyarıcıyım. Doğrusu ben, başınıza gelecek can yakıcı bir günün azabından korkuyorum” dedi."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Gerçek şu ki biz Nuh’u kavmine elçi olarak gönderdik; şöyle dedi: \"\"Allah’tan başkasına tapmayın!\"\" diye size gönderilmiş açık bir uyarıcıyım. Doğrusu ben, başınıza gelecek can yakıcı bir günün azabından korkuyorum\"\" dedi."
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Kavminin ileri gelen inkarcıları, “Biz seni sadece bizim gibi bir insan olarak görüyoruz. Sana sığ görüşlü ayak takımımızdan başkasının uyduğunu da görmüyoruz. Sizin bize karşı bir üstünlüğünüzü de kabul etmiyoruz, bilakis sizin yalancı olduğunuz kanaatini taşıyoruz” dediler."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Nuh şöyle dedi: “Ey kavmim! Bir de şöyle düşünün: Ya benim, rabbimden gelmiş açık bir delilim varsa ve O kendi katından bana rahmet vermiş de siz bunu anlamamışsanız! Siz rahmeti istemediğiniz halde biz sizi ona zorlayabilir miyiz?"
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Ey kavmim! Buna karşılık sizden herhangi bir mal istemiyorum. Benim ecrim sadece Allah’a aittir. (Siz istiyorsunuz diye) ben iman edenleri kovacak değilim; onlar (imanları sayesinde) rablerine kavuşacaklardır. Fakat ben sizi bilgisizliğe gömülmüş bir topluluk olarak görüyorum."
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Ey kavmim! Onları kovarsam, beni Allah’a karşı kim koruyabilir? Düşünmüyor musunuz?"
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Size, ‘Allah’ın hazineleri benim yanımdadır’ demiyorum, gaybı da bilmem, melek olduğumu da söylemiyorum. Sizin hor gördüğünüz kimseler için, ‘Allah onlara faydalı şeyler vermeyecektir’ diyemem. Onların içlerinde olan şeyi Allah daha iyi bilir. Bunları yaparsam gerçekten zalimlerden olurum!”"
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Dediler ki: “Ey Nuh! Gerçekten bizimle tartıştın ve bizimle çok fazla mücadele ettin. Eğer doğrulardan isen, bizi tehdit ettiğin azabı başımıza getir!”"
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Nuh dedi ki: “Onu size ancak dilerse Allah getirir. Siz (O’nu) aciz bırakamazsınız."
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Eğer Allah sizi azgınlığınızın içinde bırakmayı dilemişse, ben size öğüt vermek istesem de öğüdüm size fayda vermez. O sizin rabbinizdir ve O’na döndürüleceksiniz.”"
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Yoksa, “Bunu o kendisi uydurdu” mu diyorlar? De ki: “Eğer onu uydurduysam sorumluluğu bana aittir. Fakat benim sizin işlediğiniz günahtan sorumluluğum yoktur.”"
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "Nuh’a vahyolundu ki: “Kavminden daha önce iman etmiş olanlardan başkası artık inanmayacak. Sakın onların yaptıklarına üzülme!"
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Bizim gözetimimiz altında ve öğrettiğimiz şekilde gemiyi yap, haktan sapanlar için bana başvuruda bulunma! Onlar boğulacaklar!”"
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Nuh gemiyi yaparken, kavminin ileri gelenleri yanına uğradıkça onunla alay ediyorlardı. Dedi ki: “Bizimle alay ediyorsanız edin bakalım! Ama bilin ki sizin alay ettiğiniz gibi (günü gelecek) biz de sizinle öyle alay edeceğiz!"
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Rezil edecek bir cezaya kimin çarptırılacağını, sürekli azabın kimin başına geleceğini yakında göreceksiniz!”"
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Nihayet emrimiz geldi ve sular coşup yükseldi. Nuh’a dedik ki: “Her türden (hayvan) birer çift ile -daha önce haklarında hüküm verilmiş olanlar dışında- aileni ve iman edenleri gemiye bindir!” Zaten onunla birlikte pek azı iman etmişti."
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Nuh, “Haydi gemiye binin! Yüzerken de dururken de Allah’ın adını anın. Şüphesiz ki rabbim çok bağışlayan, pek esirgeyendir” dedi."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Derken gemi onları, dağlar gibi dalgalar arasında götürmeye başladı. Nuh, uzak duran oğluna, “Haydi yavrum gel, sen de bizimle birlikte gemiye bin, kafirlerle beraber olma!” diye seslendi."
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "Oğlu, “Beni sudan koruyacak bir dağa sığınacağım” diye cevap verdi. Nuh dedi ki: “Bugün Allah’ın hükmünden ancak O’nun esirgedikleri kurtulacaktır” derken aralarına dalga giriverdi, böylece o da boğulanlardan oldu."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "(Sonra) “Ey toprak suyunu yut! Ey gök sen de tut!” denildi. Su çekildi; hüküm yerini buldu; gemi Cudi’nin üzerine oturdu; “Zalimlerin topunun canı cehenneme!” denildi."
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Nuh rabbine şöyle seslendi: “Ey rabbim! Şüphesiz oğlum da ailemdendir. Senin vaadin elbette haktır. Sen hakimlerin en adilisin” dedi."
+    },
+    {
+      "id": 46,
+      "text": "",
+      "translation": "Allah buyurdu ki: “Ey Nuh! O senin ailenden değildir. Çünkü onun yaptığı iyi olmayan bir iştir. Sakın hakkında bilgi sahibi olmadığın bir şeyi benden isteme! Ben cahillerden olmayasın diye sana öğüt veriyorum.”"
+    },
+    {
+      "id": 47,
+      "text": "",
+      "translation": "Nuh dedi ki: “Ey rabbim! Ben, senden hakkında bilgi sahibi olmadığım bir şeyi istemekten yine sana sığınırım. Eğer beni bağışlamaz ve esirgemezsen, kaybedenlerden olurum!”"
+    },
+    {
+      "id": 48,
+      "text": "",
+      "translation": "Denildi ki: “Ey Nuh! Sana ve seninle beraber olan gruplar üzerine bizden selam ve bereketlerle gemiden in! İleride, bir süre faydalandıracağımız, sonra tarafımızdan can yakıcı bir azapla cezalandırılacak topluluklar da olacaktır."
+    },
+    {
+      "id": 49,
+      "text": "",
+      "translation": "(Ey peygamber!) İşte bu anlatılanlar sana vahyettiğimiz gayb haberlerindendir. Bundan önce onları ne sen biliyordun ne de kavmin! Sabret, çünkü iyi son günahtan sakınanlarındır."
+    },
+    {
+      "id": 50,
+      "text": "",
+      "translation": "Ad kavmine de kardeşleri Hud’u gönderdik. Dedi ki: “Ey kavmim! Allah’a kulluk edin; O’ndan başka tanrınız yoktur; siz sadece uydurmaktasınız."
+    },
+    {
+      "id": 51,
+      "text": "",
+      "translation": "Ey kavmim! Bunun karşılığında ben sizden bir ücret istemiyorum; benim hizmetimin karşılığı ancak beni yaratana aittir. Hala aklınızı kullanmıyor musunuz?"
+    },
+    {
+      "id": 52,
+      "text": "",
+      "translation": "Ey kavmim! Rabbinizden bağışlanmayı dileyin, sonra O’na tövbe edin ki üzerinize bolca yağmur göndersin ve kuvvetinize kuvvet katsın; sakın günahkarlar olup Allah’tan yüz çevirmeyin!”"
+    },
+    {
+      "id": 53,
+      "text": "",
+      "translation": "Dediler ki: “Ey Hud! Bize açık bir mucize getirmedin; biz senin sözünle tanrılarımızı bırakacak değiliz; biz sana iman edecek de değiliz."
+    },
+    {
+      "id": 54,
+      "text": "",
+      "translation": "‘Tanrılarımızdan biri senin aklını almış!’ demekten başka söyleyeceğimiz söz yok!” Hud dedi ki: “Ben Allah’ı şahit tutuyorum; siz de şahit olun ki sizin Allah’ı bırakıp da O’na ortak koştuklarınızdan uzağım. Haydi hepiniz bana tuzak kurun, bana aman vermeyin!"
+    },
+    {
+      "id": 55,
+      "text": "",
+      "translation": "‘Tanrılarımızdan biri senin aklını almış!’ demekten başka söyleyeceğimiz söz yok!\"\" Hud dedi ki: \"\"Ben Allah’ı şahit tutuyorum; siz de şahit olun ki sizin Allah’ı bırakıp da O’na ortak koştuklarınızdan uzağım. Haydi hepiniz bana tuzak kurun, bana aman vermeyin!"
+    },
+    {
+      "id": 56,
+      "text": "",
+      "translation": "Ben, benim de rabbim, sizin de rabbiniz olan Allah’a dayandım. Çünkü her canlının kontrolü O’nun elindedir. Şüphesiz rabbimin yolu dosdoğru yoldur."
+    },
+    {
+      "id": 57,
+      "text": "",
+      "translation": "Eğer sırt çevirirseniz bilin ki size ulaştırmakla görevli olduğum şeyi size bildirdim. Rabbim yerinize başka bir kavmi getirebilir. Siz O’na hiçbir engel çıkaramazsınız. Şüphesiz rabbim her şeyi gözetendir.”"
+    },
+    {
+      "id": 58,
+      "text": "",
+      "translation": "Emrimiz gelince, Hud’u ve onunla beraber iman edenleri katımızdan bir rahmetle kurtardık, böylece onları ağır bir azaptan da kurtardık."
+    },
+    {
+      "id": 59,
+      "text": "",
+      "translation": "İşte Ad! Rablerinin ayetlerini inkar ettiler; O’nun peygamberlerine asi oldular ve her inatçı zorbanın emrine uydular."
+    },
+    {
+      "id": 60,
+      "text": "",
+      "translation": "Onlar hem bu dünyada hem de kıyamet gününde lanete uğradılar. Evet Ad rabbini inkar etti. Hud’un kavmi Ad’ın canı cehenneme!"
+    },
+    {
+      "id": 61,
+      "text": "",
+      "translation": "Semud kavmine de kardeşleri Salih’i gönderdik. Dedi ki: “Ey kavmim! Allah’a kulluk edin; sizin O’ndan başka tanrınız yoktur. O sizi yerden var etti ve size orayı mamur hale getirme görevi verdi. O halde O’ndan mağfiret isteyin; sonra O’na tövbe edin. Şüphesiz rabbim yakındır, duaları kabul eder.”"
+    },
+    {
+      "id": 62,
+      "text": "",
+      "translation": "Dediler ki: “Ey Salih! Sen bundan önce aramızda kendinden iyi şeyler beklenen biriydin. Şimdi babalarımızın taptığı şeylere tapmaktan bizi engellemeye mi kalkışıyorsun? Doğrusu bizi çağırdığın din konusunda şüphelerimiz var!”"
+    },
+    {
+      "id": 63,
+      "text": "",
+      "translation": "Salih dedi ki: “Ey kavmim! Bir de şöyle düşünün: Ya ben rabbimden verilmiş apaçık bir delile dayanıyorsam ve O bana kendinden bir lutufta bulunmuşsa! Bu durum karşısında O’na asi olursam beni Allah’a karşı kim korur? (Size uyarsam) benim ancak zararımı arttırırsınız."
+    },
+    {
+      "id": 64,
+      "text": "",
+      "translation": "Ey kavmim! İşte size mucize olarak Allah’ın gönderdiği dişi deve. Onu bırakın Allah’ın mülkünde otlasın. Ona kötülük etmeyin; sonra sizi, yaklaşan bir azap yakalar.”"
+    },
+    {
+      "id": 65,
+      "text": "",
+      "translation": "Buna rağmen o deveyi kestiler. Salih de, “Yurdunuzda üç gün daha yaşayın!” dedi. Bu, asılsız çıkmayacak bir tehdit idi."
+    },
+    {
+      "id": 66,
+      "text": "",
+      "translation": "Emrimiz gelince Salih’i ve onunla beraber iman edenleri, bizden bir rahmet olarak, helak olmaktan ve o günün zilletinden kurtardık. Şüphesiz rabbin kuvvetlidir, üstündür."
+    },
+    {
+      "id": 67,
+      "text": "",
+      "translation": "Zulmedenleri de o korkunç ses yakaladı, yurtlarında diz üstü çöküp kaldılar."
+    },
+    {
+      "id": 68,
+      "text": "",
+      "translation": "Sanki orada hiç oturmamışlardı. İşte böyle, Semud kavmi rablerini inkar etti. Vay Semud’un haline!"
+    },
+    {
+      "id": 69,
+      "text": "",
+      "translation": "Elçilerimiz İbrahim’e müjdeyi getirip selam vermişlerdi. O da “selam” dedi, çok geçmeden (konuklarına) kızartılmış bir buzağı getirdi."
+    },
+    {
+      "id": 70,
+      "text": "",
+      "translation": "Ona el uzatmadıklarını görünce, onları yadırgadı ve onlardan dolayı içine bir korku düştü. “Korkma! Biz Lut kavmine gönderildik” dediler."
+    },
+    {
+      "id": 71,
+      "text": "",
+      "translation": "Ayakta bekleyen karısı rahatlayıp güldü; bu sırada ona İshak’ın, İshak’ın ardından da Ya‘kub’un doğacağını müjdeledik."
+    },
+    {
+      "id": 72,
+      "text": "",
+      "translation": "“Aman ya rabbi! Ben mi doğuracağım: Ben yaşlı bir kadın, şu da ihtiyar kocam! Doğrusu şaşılacak bir şey!” dedi."
+    },
+    {
+      "id": 73,
+      "text": "",
+      "translation": "Elçiler de “Allah’ın işine mi şaşıyorsun? Allah’ın rahmet ve bereketi üzerinizdedir, ey hane halkı! Şüphesiz ki O, övülmeye layıktır, şanı yücedir” dediler."
+    },
+    {
+      "id": 74,
+      "text": "",
+      "translation": "İbrahim’in korkusu geçip kendisine müjde de gelince Lut kavmi hakkında bizimle tartışmaya başladı."
+    },
+    {
+      "id": 75,
+      "text": "",
+      "translation": "İbrahim cidden ağır başlı, hassas ruhlu, kendini Allah’a vermiş biriydi."
+    },
+    {
+      "id": 76,
+      "text": "",
+      "translation": "“İbrahim, bundan vazgeç; çünkü rabbinin emri gelmiştir. Onlara, geri çevrilmez bir azap mutlaka gelecektir” dediler."
+    },
+    {
+      "id": 77,
+      "text": "",
+      "translation": "Elçilerimiz Lut’a geldiğinde, Lut onlardan dolayı huzursuz oldu, onlara karşı çaresizlik hissetti. “Zor bir gün!” dedi."
+    },
+    {
+      "id": 78,
+      "text": "",
+      "translation": "Lut’un kavmi koşarak ona geldi. Daha önce de o çirkin işleri yapıyorlardı. Lut, “Ey kavmim! Şunlar kızlarım; sizin için en nezih olanı onlarla evlenmektir. Allah’tan korkun ve misafirlerimin önünde beni rezil etmeyin! İçinizde aklı başında bir adam yok mu!” dedi."
+    },
+    {
+      "id": 79,
+      "text": "",
+      "translation": "“Sen de biliyorsun ki bizim senin kızlarında gözümüz yok. Bizim ne istediğimizi pekala biliyorsun” dediler."
+    },
+    {
+      "id": 80,
+      "text": "",
+      "translation": "Lut, “Keşke benim size karşı koyacak bir gücüm olsaydı veya güçlü bir desteğe dayanabilseydim!” dedi."
+    },
+    {
+      "id": 81,
+      "text": "",
+      "translation": "Elçiler “Ey Lut! Biz rabbinin elçileriyiz. Onlar sana asla dokunamayacaklar. Sen gecenin bir vaktinde ailenle birlikte yola çık. Eşin hariç, sizden hiç kimse geride kalmasın. Çünkü onların başına gelecek olan, şüphesiz onun başına da gelecektir. Onlar için belirlenen zaman, sabah vaktidir. Sabah da yakın, değil mi?” dediler."
+    },
+    {
+      "id": 82,
+      "text": "",
+      "translation": "Emrimiz gelince oranın altını üstüne getirdik ve üzerlerine sağanak halinde, rabbin katında işaretlenmiş taşlar yağdırdık. Böyle cezalar zalimlerin başından hiç eksik olmaz."
+    },
+    {
+      "id": 83,
+      "text": "",
+      "translation": "Emrimiz gelince oranın altını üstüne getirdik ve üzerlerine sağanak halinde, rabbin katında işaretlenmiş taşlar yağdırdık. Böyle cezalar zalimlerin başından hiç eksik olmaz."
+    },
+    {
+      "id": 84,
+      "text": "",
+      "translation": "Medyen’e de kardeşleri Şuayb’ı gönderdik. Onlara şöyle dedi: “Ey kavmim! Allah’a kulluk edin, O’ndan başka tanrınız yoktur. Ölçüyü, tartıyı eksik tutmayın. Ben sizi maddi bakımdan iyi bir durumda görüyorum; ama doğrusu hakkınızda kuşatıcı bir azap gününden de korkuyorum."
+    },
+    {
+      "id": 85,
+      "text": "",
+      "translation": "Ey kavmim! Ölçüyü, tartıyı adaletle tam yapın; insanların mallarının değerini düşürmeyin, yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın."
+    },
+    {
+      "id": 86,
+      "text": "",
+      "translation": "Eğer müminseniz Allah’ın bıraktığı (meşru) kazanç sizin için daha hayırlıdır. Ben üzerinize bir bekçi değilim.”"
+    },
+    {
+      "id": 87,
+      "text": "",
+      "translation": "Kavmi ise, “Ey Şuayb! Atalarımızın taptığı şeylerden yahut mallarımız hususunda dilediğimizi yapmaktan vazgeçmemizi sana ibadetin (dinin) mi emrediyor? Oysa sen uyumlu ve akıllı birisin!” dediler."
+    },
+    {
+      "id": 88,
+      "text": "",
+      "translation": "Şuayb de şöyle dedi: “Ey kavmim! Bir de şöyle düşünün: Ya benim, rabbimden açık bir delilim varsa ve O bana tarafından güzel bir nasip vermişse! Size yasakladığımı kendim yapmak niyetinde değilim. Ben sadece gücümün yettiği kadar ıslah etmek istiyorum. Fakat başarmam Allah’ın yardımına bağlıdır. Yalnız O’na dayanıyor ve O’na yöneliyorum."
+    },
+    {
+      "id": 89,
+      "text": "",
+      "translation": "Ey kavmim! Sakın bana karşı muhalefetiniz sizi, Nuh kavminin veya Hud kavminin yahut Salih kavminin başlarına gelenlerin benzeri bir musibetin başınıza gelmesine sebep olacak günahlar işlemeye sürüklemesin! Lut kavmi zaten sizden uzak değildir."
+    },
+    {
+      "id": 90,
+      "text": "",
+      "translation": "Rabbinizden bağışlanmayı dileyin, sonra O’na tövbe edin. Muhakkak ki rabbimin merhameti ve sevgisi boldur” dedi."
+    },
+    {
+      "id": 91,
+      "text": "",
+      "translation": "Medyenliler, “Ey Şuayb! Söylediklerinin çoğunu anlamıyoruz, ayrıca aramızda seni zayıf görüyoruz! Eğer kabilen olmasaydı, seni mutlaka taşlayarak öldürürdük. Bizim karşımızda sen güçlü biri değilsin” dediler."
+    },
+    {
+      "id": 92,
+      "text": "",
+      "translation": "Şuayb da, “Ey kavmim! Size göre benim kabilem Allah’tan daha mı hatırlı ki O’nu arkanıza atıp unuttunuz. Şüphesiz ki rabbim yaptıklarınızı kuşatmıştır."
+    },
+    {
+      "id": 93,
+      "text": "",
+      "translation": "Ey kavmim! Elinizden geleni yapın! Ben de yapacağım! Kimin başına aşağılayıcı bir azap geleceğini ve (böylece) yalancının kim olduğunu yakında öğreneceksiniz! Bekleyin! Ben de sizinle beraber beklemekteyim” dedi."
+    },
+    {
+      "id": 94,
+      "text": "",
+      "translation": "Emrimiz gelince, Şuayb’ı ve onunla beraber iman edenleri tarafımızdan bir rahmetle kurtardık; haksızlık edenleri de korkunç bir gürültü yakaladı, yurtlarında diz üstü çöküp kaldılar."
+    },
+    {
+      "id": 95,
+      "text": "",
+      "translation": "Sanki orada hiç oturmamışlardı! İşte böyle, Semud’un yıkıldığı gibi Medyen de yıkılıp gitti!"
+    },
+    {
+      "id": 96,
+      "text": "",
+      "translation": "Gerçekten Musa’yı da mucizelerimizle ve apaçık bir delille Firavun’a ve onun adamlarına gönderdik; fakat onlar (Musa’ya değil) Firavun’un emrine uydular; oysa Firavun’un emri isabetli değildi."
+    },
+    {
+      "id": 97,
+      "text": "",
+      "translation": "Gerçekten Musa’yı da mucizelerimizle ve apaçık bir delille Firavun’a ve onun adamlarına gönderdik; fakat onlar (Musa’ya değil) Firavun’un emrine uydular; oysa Firavun’un emri isabetli değildi."
+    },
+    {
+      "id": 98,
+      "text": "",
+      "translation": "Firavun, kıyamet gününde kavminin önüne düşecek ve onları ateşe götürecektir. Gidilen o yer ne kötü!"
+    },
+    {
+      "id": 99,
+      "text": "",
+      "translation": "Onların burada da kıyamet gününde de lanet peşlerini bırakmadı; verilen “ödül” ne kötü!"
+    },
+    {
+      "id": 100,
+      "text": "",
+      "translation": "İşte sana anlatmakta olduğumuz eski beldelerin haberleri böyle. Kiminin izleri hala ayakta, kimi de biçilip yere serilmiş."
+    },
+    {
+      "id": 101,
+      "text": "",
+      "translation": "Onlara biz zulmetmedik; onlar kendi kendilerine zulmettiler. Rabbinin hükmü geldiğinde Allah’ı bırakıp da taptıkları tanrıları onlara hiçbir şey sağlamadı; ziyanlarını artırmaktan başka bir işe yaramadı."
+    },
+    {
+      "id": 102,
+      "text": "",
+      "translation": "Rabbin, zulme sapan toplulukları yakaladığında işte böyle yakalar! Şüphesiz onun cezalandırması pek elem vericidir, pek çetindir!"
+    },
+    {
+      "id": 103,
+      "text": "",
+      "translation": "İşte bunda, ahiret azabından korkanlar için elbette bir ibret vardır. O gün bütün insanların bir araya toplandığı gündür ve o gün olup bitenin gözle görüldüğü bir gündür."
+    },
+    {
+      "id": 104,
+      "text": "",
+      "translation": "Biz o günü sadece belli bir süreye kadar erteleriz."
+    },
+    {
+      "id": 105,
+      "text": "",
+      "translation": "O gün geldiğinde Allah’ın izni olmadan hiç kimse konuşamaz. Onlardan kimi bedbahttır, kimi mutlu!"
+    },
+    {
+      "id": 106,
+      "text": "",
+      "translation": "Bedbaht olanlar ateştedirler, orada onlar her nefeste acıdan inleyip feryat ederler."
+    },
+    {
+      "id": 107,
+      "text": "",
+      "translation": "Rabbinin dilediği hariç, onlar gökler ve yer durdukça o ateşte ebedi kalacaklardır. Rabbin gerçekten istediğini yapar."
+    },
+    {
+      "id": 108,
+      "text": "",
+      "translation": "Mutlu olanlara gelince onlar da cennettedirler. Rabbinin dilediği hariç, gökler ve yer durdukça onlar da orada kesintisiz bir lutuf olarak ebedi kalacaklardır."
+    },
+    {
+      "id": 109,
+      "text": "",
+      "translation": "O halde onların taptıklarının boş şeyler olduğundan şüphen olmasın; onlar daha önce babalarının tapındığı gibi tapınmaktan başka bir şey yapmıyorlar. Biz onların hak ettiklerini elbette eksiksiz olarak vereceğiz."
+    },
+    {
+      "id": 110,
+      "text": "",
+      "translation": "Gerçek şu ki biz Musa’ya da kitabı vermiştik; onda da ihtilafa düşüldü. Eğer rabbin tarafından daha önce verilmiş bir söz olmasaydı işleri bitirilirdi. Onlar kitap hakkında derin bir şüphe içindedirler."
+    },
+    {
+      "id": 111,
+      "text": "",
+      "translation": "Şüphesiz rabbin, onların her birine yaptıklarının karşılığını tam olarak verecektir. Rabbin, onların yapmakta olduklarından haberdardır."
+    },
+    {
+      "id": 112,
+      "text": "",
+      "translation": "Senin yanında hak yola dönenlerle birlikte, sana buyurulduğu gibi dosdoğru ol! Siz de azıp sapmayın. Allah, yaptıklarınızı çok iyi görmektedir."
+    },
+    {
+      "id": 113,
+      "text": "",
+      "translation": "Zalimlerin yanında olmayın; sonra ateş sizi de yakar. Allah’tan başka dostlarınız olmadığına göre bir yerden yardım da göremezsiniz!"
+    },
+    {
+      "id": 114,
+      "text": "",
+      "translation": "Gündüzün iki tarafında, gecenin de gündüze yakın saatlerinde namaz kılın. Şüphesiz ki iyilikler kötülükleri yok eder. İşte bu, öğüt almak isteyenler için bir hatırlatmadır."
+    },
+    {
+      "id": 115,
+      "text": "",
+      "translation": "Sabret! Allah güzel davrananların mükafatını zayi etmez."
+    },
+    {
+      "id": 116,
+      "text": "",
+      "translation": "Sizden önceki toplumlar içinde yeryüzünde bozgunculuğu önleyecek birikimli kimseler bulunsaydı ya! Onlardan, kurtuluşa erdirdiğimiz az bir kesim bunu yaptı. Zulmedenlerse içinde şımartıldıkları refahın peşine düşüp günahkar oldular."
+    },
+    {
+      "id": 117,
+      "text": "",
+      "translation": "Rabbin, halkı iyilik peşinde olan ülkeleri haksız yere helak edecek değildir."
+    },
+    {
+      "id": 118,
+      "text": "",
+      "translation": "Rabbin dileseydi insanları elbette tek bir ümmet yapardı. Fakat onlar hep ihtilaf içinde olacaklardır, rabbinin esirgedikleri müstesna; zaten O insanları buna uygun yaratmıştır. Böylece rabbinin, “Andolsun ki cehennemi hem insanlar hem cinlerle dolduracağım” sözü yerini bulmuş oldu."
+    },
+    {
+      "id": 119,
+      "text": "",
+      "translation": "Rabbin dileseydi insanları elbette tek bir ümmet yapardı. Fakat onlar hep ihtilaf içinde olacaklardır, rabbinin esirgedikleri müstesna; zaten O insanları buna uygun yaratmıştır. Böylece rabbinin, \"\"Andolsun ki cehennemi hem insanlar hem cinlerle dolduracağım\"\" sözü yerini bulmuş oldu."
+    },
+    {
+      "id": 120,
+      "text": "",
+      "translation": "Peygamberlerin haberlerinden, senin kalbini kuvvetlendireceğimiz bilgilerin her birini sana anlatıyoruz. Bunlarda sana gerçeğin bilgisi, müminlere de bir öğüt ve bir uyarı ulaşıyor."
+    },
+    {
+      "id": 121,
+      "text": "",
+      "translation": "İman etmeyenlere de ki: “Elinizden geleni yapın! Biz de yapacağız!"
+    },
+    {
+      "id": 122,
+      "text": "",
+      "translation": "Bekleyin! Şüphesiz biz de beklemekteyiz!”"
+    },
+    {
+      "id": 123,
+      "text": "",
+      "translation": "Göklerin ve yerin gizlisi (gaybı) yalnız Allah’a aittir. Her iş O’na döndürülür. Öyleyse O’na kulluk et ve O’na güvenip dayan! Rabbin yapmakta olduklarınızdan habersiz değildir."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

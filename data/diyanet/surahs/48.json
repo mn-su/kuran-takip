@@ -1,0 +1,166 @@
+{
+  "id": 48,
+  "name": "الفتح",
+  "translation": "Fetih",
+  "transliteration": "feth",
+  "nuzul": 111,
+  "description": "Medine döneminde inmiştir. 29 âyettir. Sûre, adını 1, 18 ve 27. âyetlerde geçen “fetih” kelimesinden almıştır. Sûre de başlıca, hicretin altıncı yılında Hz.Peygamber ile Mekke’li müşrikler arasında gerçekleşen Hudeybiye antlaşması, cihad, savaştan geri kalan münafıklar ve Mekke’nin fethedileceği müjdesi konu edilmektedir.",
+  "total_verses": 29,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Senin geçmiş gelecek bütün günahını Allah’ın bağışlaması, sana nimetini eksiksiz vermesi, seni dosdoğru yolda yürütmesi ve Allah’ın sana güçlü bir şekilde yardım etmesi için sana apaçık bir fetih ihsan ettik."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Senin geçmiş gelecek bütün günahını Allah’ın bağışlaması, sana nimetini eksiksiz vermesi, seni dosdoğru yolda yürütmesi ve Allah’ın sana güçlü bir şekilde yardım etmesi için sana apaçık bir fetih ihsan ettik."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Senin geçmiş gelecek bütün günahını Allah’ın bağışlaması, sana nimetini eksiksiz vermesi, seni dosdoğru yolda yürütmesi ve Allah’ın sana güçlü bir şekilde yardım etmesi için sana apaçık bir fetih ihsan ettik."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "İmanlarına iman katsınlar diye müminlerin kalplerine huzur ve güven aşılayan da O’dur. Göklerin ve yerin askerleri yalnız Allah’a aittir ve Allah her şeyi bilmekte, yerinde yapmaktadır."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Böyle yapmıştır ki, mümin erkekleri ve mümin kadınları, orada devamlı kalmak üzere, altından ırmaklar akan cennetlere koysun ve onların kötü fiillerinin üstünü örtsün. Bu Allah katında (onlar için) büyük bir kazançtır."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Erkek olsun, kadın olsun, Allah hakkında kötü zan besleyen münafıkları ve müşrikleri de cezalandırsın. Kötülük ve bela çemberi asıl onların boyunlarına geçmiştir. Allah onlara gazap etmiş, kendilerini lanetlemiş ve onlar için cehennemi hazırlamıştır. Orası ne kötü bir varış yeridir!"
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Göklerin ve yerin askerleri yalnızca Allah’a aittir; O sonsuz güç ve hikmet sahibidir."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Kuşkusuz seni şahit, müjdeci ve uyarıcı olarak gönderdik ki, (ey insanlar) Allah’a ve peygamberine iman edesiniz, O’nu destekleyip büyüklüğü karşısında eğilesiniz ve akşam sabah O’nu tenzih ederek anasınız."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Allah’a ve peygamberine iman edesiniz, O’nu destekleyip büyüklüğü karşısında eğilesiniz ve akşam sabah O’nu tenzih ederek anasınız diye seni, şahit, müjdeci ve uyarıcı olarak göndermişizdir."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Sana yeminle bağlılık sözü verenler gerçekte bu sözü Allah’a vermiş oluyorlar, Allah’ın eli onların elleri üzerindedir. Bu sebeple kim Allah’a verdiği ahdi bozarsa ancak kendi aleyhine bozmuş olur, Allah’a verdiği sözün gereğini yerine getirene ise Allah yakında büyük ödül verecektir."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Arap kabilelerinden savaşa katılmayanlar sana, gönüllerinde olmayanı dillerinin ucuyla söyleyerek, “Bizi mallarımız ve ailelerimiz alıkoydu, bu yüzden Allah’ın bizi bağışlamasını iste” diyecekler. Onlara şöyle de: “Size bir zarar gelmesini isterse veya size iyilik etmeyi murat ederse, sizin için Allah’a karşı herhangi bir şey yapmaya kimin gücü yeter? Hayır! Allah bütün yaptıklarınızı bilmektedir;"
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Tam aksine siz, resulün ve müminlerin artık ailelerine hiç dönemeyeceklerini sandınız, bu gönlünüze hoş geldi. Kötü zanna kapıldınız ve kaybedenler siz oldunuz!”"
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Kim Allah’a ve resulüne iman etmezse bilsin ki biz, kafirler için kavurucu bir ateş hazırladık."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Göklerin ve yerin hükümranlığı Allah’a aittir; dilediğini bağışlar, dilediğine de azap eder. Bununla beraber O, ziyadesiyle bağışlamakta ve çok esirgemektedir."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Ele geçirmek üzere ganimetlere doğru hareket ettiğinizde, savaştan geri duranlar, “Bırakın bizi, size katılalım” diyecekler. Onlar, Allah’ın hükmünü değiştirmek istiyorlar. De ki: “Asla bizim peşimize takılamayacaksınız, Allah sizin için daha önce böyle buyurdu.” Bunun üzerine de “Hayır, bizi kıskanıyorsunuz” diyecekler. Oysa onlar (işin hakikatini) kavramakta güçlük çekiyorlar."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Arkada kalan bu Arap kabilelerine de ki: “Yakında çetin güç sahibi bir topluluğa karşı çağrılacaksınız; ya kendileriyle savaşacaksınız yahut müslüman olacaklar. Bu çağrıya uyarsanız Allah size güzel bir karşılık verecek, daha önce olduğu gibi geri durursanız sizi acı bir şekilde cezalandıracak.”"
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Gözü görmeyene zorlama yoktur, topala zorlama yoktur, hastaya zorlama yoktur. Kim Allah ve resulünün sözlerini dinlerse onları, altından ırmaklar akan cennetlere sokar; kim de yüz çevirirse onu acı bir şekilde cezalandırır."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "O ağacın altında sana bağlılık sözü verdikleri sırada o müminlerden Allah razı olmuştur; gönüllerinde olanı bilmiş, onlara huzur ve güven vermiş, pek yakın bir fetihle ve elde edecekleri birçok ganimetle de kendilerini ödüllendirmiştir. Allah, izzet ve hikmet sahibidir."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "O ağacın altında sana yeminle bağlılık söz verirlerken bu müminlerden Allah razı olmuştur; onların gönüllerinde olanı bilmiş, onlara huzur ve güven vermiş, pek yakın bir fetihle ve elde edecekleri birçok ganimetle de kendilerini ödüllendirmiştir. Allah izzet ve hikmet sahibidir."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Allah elde edeceğiniz birçok ganimeti size vaad etmiş ve başarıyı şimdi vermiş, insanların ellerini de üzerinizden çekmiştir ki, bunlar aynı zamanda iman edenlere bir kanıt olsun ve Allah sizi dosdoğru yola iletsin."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Henüz elde edemediğiniz başkaları da var. Kuşkusuz bunlar Allah’ın bilgisi ve gücü dahilindedir; şüphesiz Allah her şeye kadirdir."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Eğer kafirler size karşı savaşsalardı arkalarını dönüp kaçacaklar, bu durumda bir koruyucu, bir yardımcı da bulamayacaklardı."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Bu Allah’ın öteden beri uygulanıp gelen kanunudur, Allah’ın kanununda bir değişiklik bulamazsın."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Mekke vadisinde size onları yenmeyi nasip ettikten sonra onların ellerini sizin üzerinizden, sizin ellerinizi de onların üzerinden çeken de O’dur. Allah bütün yaptıklarınızı görmektedir."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "İnkâra sapan, sizi Mescid-i Harâm’a sokmayan, (yolda) engellenmiş kurbanları yerine ulaşmaktan alıkoyanlar da başkaları değil, onlardır. Eğer Mekke’de kendilerini henüz tanımadığınız mümin erkekler ve mümin kadınlar olmasaydı, bunları bilmeden ezmeniz ve bu yüzden üzüntü ve zarara uğramanız ihtimali bulunmasaydı (Allah ellerinizi onların üzerinden çekmezdi). Dilediklerini rahmetine daldırmak için Allah böyle yapmıştır. Eğer birbirinden ayrılsalardı, inkâra sapmış olanlarına acı bir şekilde azap edecektik."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "İnkâra sapmış olanlar o zaman kalplerini o gurura, Câhiliye dönemine ait büyüklenme duygusuna kaptırmışlardı, Allah da resulünün ve müminlerin gönüllerine huzur ve güven duygusu verdi, onları takvâ sözüne bağlı kıldı. Zaten onlar bu sözü hak etmişlerdi, onlar buna lâyıktı. Allah her şeyi hakkıyla bilmektedir."
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Allah, resulüne gerçeğe uygun rüyasında doğruyu bildirmiştir. Allah izin verirse hiçbir şeyden korkmaksızın, (umrenizi yaptıktan sonra) ya saçlarınızı kazıtarak veya kısmen kestirerek, güven duygusu içinde Mescid-i Haram’a muhakkak gireceksiniz. Allah sizin bilmediğinizi bilmektedir ve bundan başka hemen gerçekleşecek bir fethi de takdir buyurmuştur."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Bütün dinlerin üzerindeki yerini alsın diye resulünü doğru yol rehberi ve hak din ile gönderen O’dur. Buna tanık olarak da Allah yeter."
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "O, Allah’ın elçisi Muhammed’dir. Onunla beraber olanlar da kafirlere karşı sert, kendi aralarında merhametlidirler. Onları, Allah’ın lutuf ve rızasına talip olarak hep rükuda ve secdede görürsün. Secdenin tesiriyle yüzlerine simaları oturmuştur; Tevrat’ta onlar için yapılan benzetme budur. İncil’deki misalleri ise bir ekindir: Çiftçileri sevindirmek üzere filiz verir, onu güçlendirir, kalınlaşır ve kendi sapları üzerinde durur. Onlar (müminler) yüzünden kafirler öfkeden kahrolsunlar diye (böyle olmuştur). Onlar arasından iman edip dünya ve ahirete yararlı işler yapanlara Allah bir bağışlama ve büyük bir ödül vaad etmektedir."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 100,
+  "name": "العاديات",
+  "translation": "Âdiyât",
+  "transliteration": "adiyat",
+  "nuzul": 14,
+  "description": "Mekke döneminde inmiştir. 11 âyettir. Âdiyât, hızlı koşan atlar demektir.",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Yemin olsun nefes nefese koşanlara;"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Sonra çakarak kıvılcım saçanlara;"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Sabahleyin ansızın baskın yapanlara;"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Derken o sırada tozu dumana katanlara;"
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Peşinden orada bir topluluğun ta ortasına dalanlara ki!"
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "İnsan, rabbine karşı pek nankördür."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Şüphesiz buna kendisi de şahittir;"
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "O, aşırı derecede mal sevgisine kapılmıştır."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "O bilmez mi ki kabirlerde bulunanlar diriltilip dışarı atıldığı zaman;"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Ve kalplerde gizlenenler ortaya konduğu zaman;"
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "İşte o gün (anlayacaklar ki), rableri onlardan tam manasıyla haberdardır!"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

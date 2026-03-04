@@ -1,0 +1,46 @@
+{
+  "id": 111,
+  "name": "تَبَّتْ",
+  "translation": "Tebbet",
+  "transliteration": "tebbet",
+  "nuzul": 6,
+  "description": "Mekke döneminde inmiştir. 5 âyettir. “Tebbet”, kurusun, kahrolsun demektir.",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Ebu Leheb'in elleri kurusun! Kurudu zaten."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Ona ne malı fayda verdi ne de kazandığı başka şeyler."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "O, alev alev yanan ateşe atılacak!"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Dedikodu yapıp söz taşıyan karısı da."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Boynunda da ipten bükülmüş bir halat bulunacak."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

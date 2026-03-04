@@ -1,0 +1,36 @@
+{
+  "id": 108,
+  "name": "الكوثر",
+  "translation": "Kevser",
+  "transliteration": "kevser",
+  "nuzul": 15,
+  "description": "Mekke döneminde inmiştir. Medine döneminde indiği de rivayet edilmiştir.3 âyettir. Kevser, çok hayır, bereket demektir. Cennette Hz. Peygambere mahsusbir havuzun da adıdır.",
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Şüphesiz biz sana bitip tükenmez nimetler verdik."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Şimdi sen rabbin için namaz kıl ve kurban kes!"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Asıl soyu gelmeyecek olan, sana karşı nefret duyandır."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

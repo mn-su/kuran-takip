@@ -1,0 +1,61 @@
+{
+  "id": 98,
+  "name": "البينة",
+  "translation": "Beyyine",
+  "transliteration": "beyyine",
+  "nuzul": 100,
+  "description": "Medine döneminde inmiştir. 8 âyettir. Beyyine, apaçık delil demektir.",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Ehl-i kitap’tan ve müşriklerden hakkı inkar edenler, kendilerine açık kanıt; Allah tarafından gönderilen, tertemiz sayfaları okuyan bir elçi gelinceye kadar (bulundukları durumdan) ayrılacak değillerdir."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Ehl-i kitap’tan ve müşriklerden hakkı inkar edenler, kendilerine açık kanıt; Allah tarafından gönderilen, tertemiz sayfaları okuyan bir elçi gelinceye kadar (bulundukları durumdan) ayrılacak değillerdir."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "O sayfalarda dosdoğru hükümler yer almaktadır."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Ehl-i kitap ancak kendilerine o açık kanıt geldikten sonra ayrılığa düştüler."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Halbuki onlara, Allah’a kulluk etmeleri, Hanifler olarak O’na yürekten inanıp boyun eğmeleri, namaz kılmaları ve zekat vermeleri emredilmişti. Doğru din de işte budur."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Ehl-i kitap’tan ve müşriklerden hakkı inkar edenler, içinde ebedi olarak kalacakları cehennem ateşindedirler. İşte halkın en kötüleri onlardır."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "İman edip dünya ve ahiret için yararlı işler yapanlara gelince, halkın en hayırlısı da onlardır."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Onların rableri katındaki ödülleri, altından ırmaklar akan, içinde devamlı kalacakları adn cennetleridir. Allah onlardan razı olmuş, onlar da Allah’tan razı olmuşlardır. İşte bu, rabbini sayıp O’ndan korkanlar içindir."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

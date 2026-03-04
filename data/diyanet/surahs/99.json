@@ -1,0 +1,61 @@
+{
+  "id": 99,
+  "name": "الزلزلة",
+  "translation": "Zilzâl",
+  "transliteration": "zilzal",
+  "nuzul": 93,
+  "description": "Medine döneminde inmiştir. 8 âyettir. Zilzâl, sarsıntı, deprem demektir.",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Yer o dehşetli sarsıntısıyla sarsıldığında;"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Ve yer ağırlıklarını dışarı attığında;"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Ve insan, \"Ne oluyor buna!\" dediğinde;"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "O gün yer, bütün haberlerinin rabbinin ona vahyettiği şekilde anlatır."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "O gün yer, bütün haberlerinin rabbinin ona vahyettiği şekilde anlatır."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "İşte o gün insanlar yaptıkları kendilerine gösterilsin diye (bulundukları yerden) farklı gruplar halinde çıkarlar."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Kim zerre miktarı hayır yapmışsa onu (karşılığını) görür."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Kim de zerre miktarı şer işlemişse onu (karşılığını) görür."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

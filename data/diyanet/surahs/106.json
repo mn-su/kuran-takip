@@ -1,0 +1,41 @@
+{
+  "id": 106,
+  "name": "قريش",
+  "translation": "Kureyş",
+  "transliteration": "kureys",
+  "nuzul": 29,
+  "description": "Mekke döneminde inmiştir. 4 âyettir. Kureyş, Hz. Peygamberin mensup olduğukabilenin adıdır.",
+  "total_verses": 4,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Kureyş'in güvenliğini, onların kış ve yaz yolculuklarında güvenliğini sağlamak için (Allah lutuflarda bulundu)."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Kureyş'in güvenliğini, onların kış ve yaz yolculuklarında güvenliğini sağlamak için (Allah lutuflarda bulundu)."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Onlar da kendilerini besleyip açlıklarını gideren ve her çeşit korkudan emin kılan şu evin rabbine kulluk etsinler."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Onlar da kendilerini besleyip açlıklarını gideren ve her çeşit korkudan emin kılan şu evin rabbine kulluk etsinler."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 93,
+  "name": "الضحى",
+  "translation": "Duhâ",
+  "transliteration": "duha",
+  "nuzul": 11,
+  "description": "Mekke döneminde inmiştir. 11 âyettir. Duhâ, kuşluk vakti demektir",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Yemin olsun, kuşluk vaktine;"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Kararıp sakinleştiğinde geceye ki;"
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Rabbin seni bırakmadı ve sana darılmadı."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Elbette işin sonu senin için öncesinden daha hayırlı olacaktır."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Rabbin sana mutlaka lutuflarda bulunacak, sen de memnun olacaksın."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "O seni yetim bulup barındırmadı mı?"
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Seni yol bilmez halde bulup yol göstermedi mi?"
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Ve seni yoksul bulup zengin etmedi mi?"
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "O halde sakın yetimi ezme!"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "El açıp isteyeni de sakın boş çevirme!"
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Rabbinin lutuflarını şükranla an."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

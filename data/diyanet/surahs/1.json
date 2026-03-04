@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "name": "الفاتحة",
+  "translation": "Fâtiha",
+  "transliteration": "fatiha",
+  "nuzul": 5,
+  "description": "Mekke döneminde inmiştir. Yedi âyettir. Kur’an-ı Kerim’in ilk sûresi olduğu için “başlangıç” anlamına “Fâtiha” adını almıştır. Sûrenin ayrıca, “Ümmü’1-Kitab” (Kitab’ın özü) “es-Seb’ul-Mesânî” (Tekrarlanan yedi âyet) , “el-Esâs”,“el-Vâfiye”, “el-Kâfiye”, “el-Kenz”, “eş-Şifâ”, “eş-Şükr” ve “es-Salât” gibi başka adları da vardır. Kur’an’ın içerdiği esaslar öz olarak Fâtiha’da vardır. Zira övgü ve yüceltilmeye lâyık bir tek Allah’ın varlığı, onun hâkimiyeti, tek mabut oluşu, kulluğun ancak O’na yapılıp O’ndan yardım isteneceği, bu sûrede özlü bir şekilde ifade edilir. Fâtiha sûresi, aynı zamanda baştan başa eşsiz güzellikte bir dua, bir yakarıştır.",
+  "total_verses": 7,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah’ın adıyla..."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Hamd, alemlerin Rabbi olan Allah’a mahsustur."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Rahman ve rahim."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Ödül ve ceza gününün tek hakimi."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "(Rabbimiz!) Ancak sana kulluk eder ve yalnız senden yardım dileriz."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Bizi dosdoğru yola ilet;"
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Nimetine erdirdiklerinin yoluna; gazaba uğramışların yoluna da, dalalete sapmışların yoluna da değil! Amin!"
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "id": 20,
+  "name": "طٰهٰ",
+  "translation": "Tâhâ",
+  "transliteration": "taha",
+  "nuzul": 45,
+  "description": "Mekke döneminde inmiştir. 135 âyettir. Sûre, adını birinci âyette yer alan harflerden almıştır. Sûrede, Allah’ın peygamberler aracılığıyla insanlara gösterdiği doğru yolun temel gerçeklerine işaret edilmekte, Hz.Peygamber teselli edilerek peygamberlik görevini mutlaka en güzel şekilde başaracağı müjdelenip kendisine karşı çıkanların uğrayacağı sonuçlar izah edilmektedir.",
+  "total_verses": 135,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Ta-ha."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Biz Kur’an’ı sana mutsuz olasın diye indirmedik."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Ancak Allah korkusu taşıyanlar için öğüt olsun diye indirdik."
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "O, yeri ve yüce gökleri yaratan Allah katından peyderpey gönderilmiştir."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Rahman olan Allah arşa istiva etmiştir."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Göklerde, yerde, ikisinin arasında ve toprağın altında ne varsa hepsi O’nundur."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Sen sözü ister açığa vur (ister gizle), O gizliyi de, gizlinin gizlisini de bilir."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Allah, O’ndan başka tanrı yoktur; en güzel isimler O’na aittir."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Musa ile ilgili bilgi sana erişti mi?"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Hani o bir ateş görmüş ve ailesine şöyle demişti: “Siz bekleyin, (şu uzakta) bir ateş bulunduğunu farkettim; belki ondan size bir kor parçası getiririm veya ateşin başında bir kılavuz bulurum.”"
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Onun yanına geldiğinde kendisine “ey Musa!” diye seslenildi."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "“İyi bil ki ben, evet yalnız ben senin rabbinim; artık pabuçlarını çıkar, çünkü şu anda kutsal vadide, Tuva’dasın."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Ben seni seçtim, şimdi vahyedilecek olana kulak ver."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Kuşkusuz ben, yalnız ben Allahım. Benden başka tanrı yoktur. O halde bana kulluk et, beni hatırında tutmak için namazı kıl.”"
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "“Onun vaktini herkesten gizlemiş olsam da, her bir kişinin yapıp ettiğinin karşılığını görmesi için kıyamet mutlaka gelecektir.”"
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "“Ona inanmayan ve kendi tutkularının peşinden gidenler sakın seni ona inanmaktan alıkoymasın, sonra sen de helak olursun!"
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Nedir o sağ elindeki, ey Musa?”"
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Dedi ki: “O benim asamdır. Ona dayanırım, onunla koyunlarıma yaprak silkelerim, ona başkaca ihtiyaçlarım da var.”"
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Allah buyurdu: “Onu yere at ey Musa!”"
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Hemen attı. Bir de ne görsün, o akıp giden bir yılan oluvermiş!"
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Allah, “Tut onu ve korkma, biz onu hemen eski haline döndüreceğiz” buyurdu."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "“Şimdi de elini koynuna sok, bir hastalık yüzünden olmaksızın, bir başka mucize olarak elin bembeyaz çıkacaktır."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Böylece sana büyük mucizelerimiz­den bir kısmını göstermiş olalım."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Firavun’a git, çünkü o sınırı çok aştı.”"
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Musa “Rabbim!” dedi, “Gönlüme ferahlık ver."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "İşimi bana kolaylaştır."
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Dilimden düğümü çöz,"
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Ki sözümü iyi anlasınlar."
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Yakınlarımdan birini bana yardımcı ver."
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Kardeşim Harun’u."
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Onunla gücümü pekiştir."
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Onu da görevime ortak et."
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Ta ki seni bol bol tesbih edelim."
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Ve seni çok analım."
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "Kuşkusuz sen bizi görmektesin.”"
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "Allah buyurdu: “Ey Musa! Dileğin kabul edildi."
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Zaten sana bir kere daha lütufta bulunmuştuk."
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Hani annene şunu vahyetmiştik:"
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Onu sandığa koy ve ırmağa bırak; böylece ırmak onu kıyıya çıkarsın ve benim de düşmanım, onun da düşmanı olan biri onu alsın. (Ey Musa!) Senin üzerine kendimden bir sevgi bıraktım ki (sevilesin), nezaretim altında büyütülüp yetiştirilesin."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Hani kız kardeşin onlara gidip de, ‘Ona bakabilecek birini size göstereyim mi?’ diyordu. Nihayet gözü gönlü şen olsun ve kederlenmesin diye seni annene kavuşturduk. Ve birisini öldürmüştün de seni tasadan kurtarmış, ardından da seni ciddi sınavlardan geçirmiştik. Bu sebeple yıllarca Medyen halkının arasında kaldın, sonra mukadder olduğu üzere buraya geldin, ey Musa!"
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Ben seni kendim için seçip yetiştirdim.”"
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "“Sen ve kardeşin mucizelerimle gidin; beni anmakta gevşeklik göstermeyin."
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "İkiniz beraber Firavun’a gidin, çünkü o sınırı çok aştı."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Yine de ona söyleyeceklerinizi yumuşak bir üslupla söyleyin, ola ki aklını başına toplar veya içine bir korku düşer.”"
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "“Ey rabbimiz!” dediler, “Doğrusu onun bize karşı ileri gitmesinden veya daha da azmasından endişe ediyoruz.”"
+    },
+    {
+      "id": 46,
+      "text": "",
+      "translation": "Allah buyurdu: “Korkmayın, bilin ki ben sizinle beraberim; işitirim, görürüm."
+    },
+    {
+      "id": 47,
+      "text": "",
+      "translation": "Ona gidip deyin ki: Biz senin rabbinin elçileriyiz. Artık İsrailoğulları’nı bırak bizimle gelsinler. Onlara eziyet etme. Sana rabbinden bir mucize getirdik. Esenlik doğru yolu izleyenlerin olacaktır."
+    },
+    {
+      "id": 48,
+      "text": "",
+      "translation": "Bize vahyolunmuştur ki azap, asıl, (peygamberleri) yalanlayıp yüz çevirenlerin başına gelecektir.”"
+    },
+    {
+      "id": 49,
+      "text": "",
+      "translation": "Firavun, “Sizin rabbiniz de kimmiş ey Musa?” dedi."
+    },
+    {
+      "id": 50,
+      "text": "",
+      "translation": "Musa, “Bizim rabbimiz her şeye özüyle ve biçimiyle varlık veren, sonra da işin yolunu yordamını gösterendir” diye cevap verdi."
+    },
+    {
+      "id": 51,
+      "text": "",
+      "translation": "Firavun “peki” dedi, “Gelip geçen nesillerin durumu ne olacak?”"
+    },
+    {
+      "id": 52,
+      "text": "",
+      "translation": "Musa, “Onlar hakkındaki bilgi rabbimin katındaki bir kitaptadır; rabbim ne yanılır ne unutur” dedi."
+    },
+    {
+      "id": 53,
+      "text": "",
+      "translation": "Yeryüzünü sizin için bir beşik yapan, onda size yollar açan ve gökten su indiren O’dur. Onunla her çeşitten çift çift bitkiler çıkardık."
+    },
+    {
+      "id": 54,
+      "text": "",
+      "translation": "Kendiniz yiyin, hayvanlarınızı da otlatın. Kuşkusuz bunlarda akıl sahiplerinin çıkaracağı dersler vardır."
+    },
+    {
+      "id": 55,
+      "text": "",
+      "translation": "Sizi ondan yarattık, yine ona döndüreceğiz ve sonra oradan bir defa daha çıkaracağız."
+    },
+    {
+      "id": 56,
+      "text": "",
+      "translation": "Andolsun ona bütün kanıtlarımızı gösterdik; fakat o yalan saydı ve kabule yanaşmadı."
+    },
+    {
+      "id": 57,
+      "text": "",
+      "translation": "Dedi ki: “Ey Musa! Yaptığın sihirle bizi yurdumuzdan çıkarmak için mi geldin?"
+    },
+    {
+      "id": 58,
+      "text": "",
+      "translation": "Biz de sana benzeri bir sihirle mutlaka karşılık vereceğiz. Şimdi sen, aramızda -senin de bizim de caymayacağımız- uygun bir yerde bir buluşma zamanı belirle.”"
+    },
+    {
+      "id": 59,
+      "text": "",
+      "translation": "Musa, “Buluşma zamanınız şenlik günü ve ahalinin toplanacağı kuşluk vakti olsun” dedi."
+    },
+    {
+      "id": 60,
+      "text": "",
+      "translation": "Bunun üzerine Firavun dönüp gitti; bütün tedbirlerini aldı, sonra (sihirbazlarıyla) geldi."
+    },
+    {
+      "id": 61,
+      "text": "",
+      "translation": "Musa onlara şöyle dedi: “Yazıklar olsun size! Allah’a karşı yalan uydurmayın, yoksa ağır bir ceza ile kökünüzü kazır; iftira eden mutlaka perişan olur.”"
+    },
+    {
+      "id": 62,
+      "text": "",
+      "translation": "Bunun üzerine yapacakları işi aralarında tartıştılar ve konuşmalarını gizli tutmaya çalıştılar."
+    },
+    {
+      "id": 63,
+      "text": "",
+      "translation": "Şöyle diyorlardı: “Bunlar sizi sihirleriyle yurdunuzdan çıkarmak ve tuttuğunuz örnek yolu ortadan kaldırmak isteyen iki sihirbazdan başka bir şey değil!"
+    },
+    {
+      "id": 64,
+      "text": "",
+      "translation": "O halde siz de bütün hilelerinizi birleştirin ve saf düzeninde gelin. Bugün üstün gelen kendini kurtarmıştır.”"
+    },
+    {
+      "id": 65,
+      "text": "",
+      "translation": "Dediler ki: “Ey Musa! Ya sen at, yahut ilk atan biz olalım.”"
+    },
+    {
+      "id": 66,
+      "text": "",
+      "translation": "O “Hayır, siz atın” dedi. Bir de baktı ki, onların ipleri ve sopaları yaptıkları sihirden ötürü kendisine doğru akıp geliyor gibi görünüyor!"
+    },
+    {
+      "id": 67,
+      "text": "",
+      "translation": "Musa birden içinde bir korku duydu."
+    },
+    {
+      "id": 68,
+      "text": "",
+      "translation": "“Korkma!” dedik, “Üstün gelecek olan kesinlikle sensin."
+    },
+    {
+      "id": 69,
+      "text": "",
+      "translation": "Sağ elindekini at da onların yaptıklarını yalayıp yutsun; onların yaptığı sihirbaz hilesinden ibaret. Sihirbaz ise amacı ne olursa olsun başarıya ulaşamaz.”"
+    },
+    {
+      "id": 70,
+      "text": "",
+      "translation": "Sonunda sihirbazlar secdeye kapandılar ve “Biz Musa ile Harun’un rabbine iman ettik” dediler."
+    },
+    {
+      "id": 71,
+      "text": "",
+      "translation": "Firavun şöyle çıkıştı: “Ben size izin vermeden ona inandınız öyle mi? Anlaşılıyor ki o size sihri öğreten büyüğünüzdür. Ama ahdim olsun ben de sizin ellerinizi ve ayaklarınızı çaprazlama keseceğim ve sizi hurma dallarına asacağım! Böylece hangimizin cezasının daha şiddetli ve kalıcı olduğunu anlayacaksınız!”"
+    },
+    {
+      "id": 72,
+      "text": "",
+      "translation": "Onlar şu cevabı verdiler: “Bize gelen bunca apaçık kanıtlara ve bizi yaratana karşı asla seni tercih edemeyiz. Artık sen neye hükmedeceksen et; ama sen ancak bu dünya hayatında hükmünü geçirebilirsin."
+    },
+    {
+      "id": 73,
+      "text": "",
+      "translation": "Hatalarımızdan ve bize zorla yaptırdığın sihirden ötürü bizi bağışlaması için rabbimize kesin olarak iman ettik. Hayırlı ve sürekli olan Allah’tır.”"
+    },
+    {
+      "id": 74,
+      "text": "",
+      "translation": "Kim rabbine günahkar haliyle varırsa, bilsin ki cehennem onu beklemektedir; orada ne ölür ne de düzgün yaşar."
+    },
+    {
+      "id": 75,
+      "text": "",
+      "translation": "Dünya ve ahirete yararlı işler yapmış bir mümin olarak onun huzuruna çıkan kimseler için ise üstün dereceler vardır."
+    },
+    {
+      "id": 76,
+      "text": "",
+      "translation": "İçinde ebedi olarak kalacakları, altından ırmaklar akan adn cennetleri! İşte günahlardan arınanların ödülü budur."
+    },
+    {
+      "id": 77,
+      "text": "",
+      "translation": "Musa’ya şöyle vahyetmiştik: “Kullarımı geceleyin yola çıkar, yetişecekler diye korku ve endişe duymaksızın onlara denizde kupkuru bir yol aç.”"
+    },
+    {
+      "id": 78,
+      "text": "",
+      "translation": "Derken Firavun askerleriyle onların peşine düştü, ama deniz onları amansızca sarıverdi."
+    },
+    {
+      "id": 79,
+      "text": "",
+      "translation": "Firavun kavmini saptırmış, doğru yolu göstermemişti."
+    },
+    {
+      "id": 80,
+      "text": "",
+      "translation": "Ey İsrailoğulları! Böylece sizi düşmanınızdan kurtardık ve Tur’un sağ tarafında sizinle sözleştik; size kudret helvası ve bıldırcın gönderdik."
+    },
+    {
+      "id": 81,
+      "text": "",
+      "translation": "Size rızık olarak verdiğimiz iyi ve temiz şeylerden yiyin ama bunda ölçüyü aşmayın, yoksa gazabıma uğrarsınız; kim gazabıma uğrarsa artık uçuruma yuvarlanmış demektir."
+    },
+    {
+      "id": 82,
+      "text": "",
+      "translation": "Şu da bilinmeli ki, ben tövbe edip yürekten inanan ve iyi işler yapan, sonra da doğru yolda sebat eden kimselere karşı çok bağışlayıcıyım."
+    },
+    {
+      "id": 83,
+      "text": "",
+      "translation": "(Allah buyurdu ki:) “Seni halkından aceleyle ayrılmaya sevkeden neydi ey Musa!”"
+    },
+    {
+      "id": 84,
+      "text": "",
+      "translation": "Şöyle cevap verdi: “Onlar da benim izimdeler; benden hoşnut olasın diye sana gelmekte acele ettim ey rabbim.”"
+    },
+    {
+      "id": 85,
+      "text": "",
+      "translation": "Allah, “Fakat” dedi, “Biz senden sonra kavmini sınadık ve Samari onları yoldan çıkardı.”"
+    },
+    {
+      "id": 86,
+      "text": "",
+      "translation": "Bunun üzerine Musa öfkeli halde ve hayıflanarak kavmine döndü. Şöyle dedi: “Ey kavmim! Rabbiniz size güzel bir vaadde bulunmamış mıydı? Peki size bu süre çok mu uzun geldi, yoksa rabbinizin gazabına uğramak istediniz de onun için mi bana verdiğiniz sözden döndünüz!”"
+    },
+    {
+      "id": 87,
+      "text": "",
+      "translation": "Şöyle cevap verdiler: “Sana verdiğimiz söze bilerek ve isteyerek aykırı davranmış değiliz; fakat şu kavmin (Mısır halkının) ziynet eşyalarından bir kısmını yüklenmiştik, onları (haram diye ateşe) attık; çünkü Samiri de aynı şekilde atmıştı.”"
+    },
+    {
+      "id": 88,
+      "text": "",
+      "translation": "Derken onlara böğürebilen bir buzağı heykeli yaptı. (Ona uyanlar) “İşte bu sizin de tanrınız, Musa’nın da tanrısıdır, fakat o bunu unuttu” dediler."
+    },
+    {
+      "id": 89,
+      "text": "",
+      "translation": "Peki görmüyorlar mıydı ki o (heykel) kendilerine bir sözle karşılık veremiyordu, onlara zarar veremediği gibi fayda da sağlayamıyordu!"
+    },
+    {
+      "id": 90,
+      "text": "",
+      "translation": "Gerçek şu ki daha önce Harun onlara, “Ey kavmim! Siz bununla sınanmaktasınız; kuşkusuz sizin rabbiniz o rahmandır. O halde bana uyun ve emrime itaat edin” demişti."
+    },
+    {
+      "id": 91,
+      "text": "",
+      "translation": "Şöyle cevap verdiler: “Musa yanımıza dönünceye kadar ona tapmaktan asla vazgeçmeyeceğiz.”"
+    },
+    {
+      "id": 92,
+      "text": "",
+      "translation": "(Musa dönünce) dedi ki: “Ey Harun! Onların saptıklarını gördüğünde beni izlemekten seni alıkoyan neydi? Yoksa emrime isyan mı ettin?”"
+    },
+    {
+      "id": 93,
+      "text": "",
+      "translation": "(Musa dönünce) dedi ki: \"\"Ey Harun! Onların saptıklarını gördüğünde beni izleyip gelmekten seni alıkoyan neydi? Yoksa emrime isyan mı ettin?\"\""
+    },
+    {
+      "id": 94,
+      "text": "",
+      "translation": "O şöyle cevap verdi: “Ey anamın oğlu! Sakalımı saçımı çekme. Emin ol ki ben senin, ‘Sözüme riayet etmedin de İsrailoğulları’nın arasına ayrılık soktun!’ diyeceğinden endişelenmiştim.”"
+    },
+    {
+      "id": 95,
+      "text": "",
+      "translation": "Musa sordu: “Peki senin zorun neydi ey Samiri?”"
+    },
+    {
+      "id": 96,
+      "text": "",
+      "translation": "“Ben onların görmediklerini gördüm, bu yüzden elçinin izinden bir avuç avuçladım ve onu attım. Nefsim beni böyle yapmaya itti” diye cevap verdi."
+    },
+    {
+      "id": 97,
+      "text": "",
+      "translation": "(Musa) şöyle dedi: “Haydi git! Artık hayatın boyunca sana düşen ‘Bana dokunmak yok!’ demekten ibarettir. Ve bil ki asla kaçıp kurtulamayacağın bir hesap günü de seni beklemektedir. Şimdi şu tapıp durmakta olduğun tanrına bir bak; biz onu iyice yakacağız, sonra da küllerini denize savuracağız!”"
+    },
+    {
+      "id": 98,
+      "text": "",
+      "translation": "Sizin yegane tanrınız o Allah’tır ki O’ndan başka ilah yoktur. O ilmiyle her şeyi kuşatmıştır."
+    },
+    {
+      "id": 99,
+      "text": "",
+      "translation": "İşte böylece geçmiştekilerin haberlerinden bir kısmını sana anlatıyoruz. Kuşkusuz sana katımızdan bir zikir (Kur’an) verdik."
+    },
+    {
+      "id": 100,
+      "text": "",
+      "translation": "Kim ondan yüz çevirirse bilsin ki kıyamet günü ağır bir günah yüklenecektir."
+    },
+    {
+      "id": 101,
+      "text": "",
+      "translation": "Ebedi olarak o yükün altında kalacaklardır. Kıyamet günü bu onlar için ne kötü bir yüktür!"
+    },
+    {
+      "id": 102,
+      "text": "",
+      "translation": "O gün sura üfürülür ve günahkarları o gün gözleri göğermiş olarak toplarız."
+    },
+    {
+      "id": 103,
+      "text": "",
+      "translation": "“On günden fazla kalmadınız” diyerek aralarında fısıldaşırlar."
+    },
+    {
+      "id": 104,
+      "text": "",
+      "translation": "İçlerinden en aklı başında olanı, “Hayır, ancak bir gün kaldınız” der. Halbuki söyledikleri şeyi en iyi biz biliriz."
+    },
+    {
+      "id": 105,
+      "text": "",
+      "translation": "Sana dağları soruyorlar. De ki: “Rabbim onları un ufak edip savuracak."
+    },
+    {
+      "id": 106,
+      "text": "",
+      "translation": "Yerlerini dümdüz, bomboş bırakacak."
+    },
+    {
+      "id": 107,
+      "text": "",
+      "translation": "Orada artık ne bir kıvrım ne de bir tümsek görürsün."
+    },
+    {
+      "id": 108,
+      "text": "",
+      "translation": "O gün herkes çağırıcıya uyar; ondan kaçıp kurtulma imkanı yoktur. Rahmanın heybetinden sesler kısılmıştır; artık çok hafif sesler dışında bir şey işitemezsin."
+    },
+    {
+      "id": 109,
+      "text": "",
+      "translation": "O gün -rahmanın izin verdiği ve sözünden hoşnut olduğu kimseler müstesna- şefaatin bir yararı olmaz."
+    },
+    {
+      "id": 110,
+      "text": "",
+      "translation": "Onların önlerinde ve arkalarında olanı O bilir. Onların bilgisi ise O’nu kuşatamaz."
+    },
+    {
+      "id": 111,
+      "text": "",
+      "translation": "Diri ve her şeyin varlığı kendine bağlı olan Allah’ın huzurunda yüzler (başlar) hicapla eğilmiştir; zulmü yüklenmiş olan ise hüsrana uğramıştır."
+    },
+    {
+      "id": 112,
+      "text": "",
+      "translation": "Mümin olarak dünya ve ahiret için yararlı iyi işler yapan kimseye gelince, o ne büsbütün, hatta ne de kısmen haksızlığa uğramaktan korkar."
+    },
+    {
+      "id": 113,
+      "text": "",
+      "translation": "İşte, sakınsınlar yahut hatırlamalarını sağlasın diye onu Arapça bir Kur’an olarak indirdik ve onda uyarılarımıza tekrar tekrar yer verdik."
+    },
+    {
+      "id": 114,
+      "text": "",
+      "translation": "Gerçekliğinde şüphe bulunmayan, her şeye hükümran olan Allah yüceler yücesidir. Sana vahyi tamamlanmadan Kur’an’ı okumada aceleci davranma ve “Rabbim! İlmimi arttır” de."
+    },
+    {
+      "id": 115,
+      "text": "",
+      "translation": "Biz daha önce Adem’den söz almıştık, fakat o unuttu; biz onda yeterli bir kararlılık görmedik."
+    },
+    {
+      "id": 116,
+      "text": "",
+      "translation": "Meleklere “Adem’e secde edin” dedik, onlar da secde ettiler, sadece İblis direndi."
+    },
+    {
+      "id": 117,
+      "text": "",
+      "translation": "Bunun üzerine “Ey Adem!” dedik, “Bil ki bu senin de eşinin de düşmanıdır. Sakın sizi cennetten çıkarmasın, yoksa mutluluğunu yitirirsin!"
+    },
+    {
+      "id": 118,
+      "text": "",
+      "translation": "Burada sana acıkmak da çıplak kalmak da yok."
+    },
+    {
+      "id": 119,
+      "text": "",
+      "translation": "Yine burada susuzluk çekmezsin ve sıcaktan bunalmazsın.”"
+    },
+    {
+      "id": 120,
+      "text": "",
+      "translation": "Derken, şeytan şöyle diyerek onun kafasını karıştırdı: “Ey Adem! Sana sonsuzluk ağacının ve son bulmayacak bir hükümranlığın yolunu göstereyim mi?”"
+    },
+    {
+      "id": 121,
+      "text": "",
+      "translation": "Nihayet ikisi de o ağaçtan yediler. Bunun üzerine mahrem yerleri kendilerine göründü, üstlerini cennet yaprağıyla örtmeye çalıştılar. Böylece Adem rabbine karşı gelmiş ve yolunu şaşırmıştı."
+    },
+    {
+      "id": 122,
+      "text": "",
+      "translation": "Sonra rabbi onu seçkin kıldı, tövbesini kabul etti ve doğru yola yöneltti."
+    },
+    {
+      "id": 123,
+      "text": "",
+      "translation": "Şöyle buyurdu: “İkiniz birden inin oradan, birbirinize düşman olarak. Size benden bir hidayet geldiğinde bilesiniz ki hidayetime uyan artık ne sapar ne de bedbaht olur."
+    },
+    {
+      "id": 124,
+      "text": "",
+      "translation": "Kim de beni anmaktan yüz çevirirse mutlaka sıkıntılı bir hayatı olacaktır ve onu kıyamet günü kör olarak haşrederiz.”"
+    },
+    {
+      "id": 125,
+      "text": "",
+      "translation": "O der ki: “Ey rabbim! Beni niçin kör olarak haşrettin? Halbuki daha önce gören biriydim.”"
+    },
+    {
+      "id": 126,
+      "text": "",
+      "translation": "Allah buyurur: “İşte böyle! Sana ayetlerimiz geldiğinde onları unutmuştun, bu gün de aynı şekilde sen unutuluyorsun!”"
+    },
+    {
+      "id": 127,
+      "text": "",
+      "translation": "Haktan sapan ve rabbinin ayetlerine inanmayanları işte böyle cezalandırırız. Hiç kuşkusuz ahiretteki ceza daha şiddetli ve daha kalıcıdır."
+    },
+    {
+      "id": 128,
+      "text": "",
+      "translation": "Kendilerinden önceki nice nesilleri helak etmiş olmamız onları hala yola getirmedi mi? Oysa onların yurtlarında dolaşıp duruyorlar! Kuşkusuz bunlarda akıl sahiplerinin çıkaracağı dersler vardır."
+    },
+    {
+      "id": 129,
+      "text": "",
+      "translation": "Eğer rabbin tarafından daha önce söylenmiş bir söz ve belirlenmiş bir vade olmasaydı, hemen yakalarına yapışılırdı."
+    },
+    {
+      "id": 130,
+      "text": "",
+      "translation": "Sen onların söylediklerine sabret. Güneşin doğmasından önce de batmasından önce de rabbini övgüyle tesbih et; yine gecenin bazı vakitlerinde ve gündüzün iki ucunda da tesbih et ki hoşnutluğa erişesin."
+    },
+    {
+      "id": 131,
+      "text": "",
+      "translation": "Sakın kendilerini sınamak için onların bir kesimini yararlandırdığımız dünya hayatının çekiciliğine göz dikme! Rabbinin sana verdiği nimetler daha hayırlı ve daha kalıcıdır."
+    },
+    {
+      "id": 132,
+      "text": "",
+      "translation": "Aile fertlerine namazı emret, kendin de bunda kararlı ol. Senden rızık istemiyoruz; asıl biz seni rızıklandırıyoruz. Mutlu gelecek, günahlardan sakınanların olacaktır."
+    },
+    {
+      "id": 133,
+      "text": "",
+      "translation": "“O, rabbinden bize bir mucize getirseydi ya!” dediler. Peki önceki sahifelerde bulunan açık kanıt onlara gelmiş değil mi?"
+    },
+    {
+      "id": 134,
+      "text": "",
+      "translation": "Eğer biz bundan önce onları bir azapla helak etmiş olsaydık mutlaka şöyle diyeceklerdi: “Ey rabbimiz! Bize bir peygamber gönderseydin de, şu zillet ve rezillik başımıza gelmeden önce ona uymuş olsaydık.”"
+    },
+    {
+      "id": 135,
+      "text": "",
+      "translation": "De ki: “Herkes beklemekte, siz de bekleyin bakalım. Dosdoğru yolda yürüyenler kimmiş ve hidayete erenler kimmiş, yakında anlayacaksınız!”"
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

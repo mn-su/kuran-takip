@@ -1,0 +1,246 @@
+{
+  "id": 35,
+  "name": "فاطر",
+  "translation": "Fâtır",
+  "transliteration": "fatir",
+  "nuzul": 43,
+  "description": "Mekke döneminde inmiştir. 45 âyettir. Sûre, adını birinci âyette geçen “Fâtır” kelimesinden almıştır. Fâtır, yaratan, yoktan var eden demektir. Yine ilk âyette geçen “el-Melâike” kelimesinden dolayı “Melâike sûresi” diye de anılır. Sûrede başlıca, Allah’ın varlığına ve birliğine işaret eden kâinat olayları, öldükten sonra dirilme, Allah’ın nimetleri ve mü’minle kâfir arasındaki fark konu edilmektedir.",
+  "total_verses": 45,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Hamd, gökleri ve yeri yoktan var eden, melekleri ikişer, üçer, dörder kanatlı elçiler kılan Allah’a mahsustur. O dilediği kadar fazlasını da yaratır. Kuşkusuz Allah her şeye kadirdir."
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Allah’ın insanlar için açtığı rahmeti kısabilecek yoktur, O’nun kıstığını da O’ndan başkası açamaz. O mutlak izzet ve derin hikmet sahibidir."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Ey insanlar! Allah’ın üzerinizdeki nimetlerini hatırınızdan çıkarmayın. Allah’tan başka gökten ve yerden size rızık veren yaratıcı var mı? O’ndan başka tanrı yoktur. Öyleyse niçin haktan dönüyorsunuz?"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Sana yalancı diyorlarsa (bilesin ki) senden önceki peygamberler de yalancılıkla itham edilmişlerdir. Bütün işler sonunda Allah’a döndürülecektir."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Ey insanlar! Allah’ın verdiği söz gerçektir. Dünya hayatı sakın sizi aldatmasın, o aldatma ustası da Allah hakkında sizi kandırmasın."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Şüphe yok ki şeytan sizin düşmanınızdır, siz de onu düşman bilin. Çünkü o kendisine uyacaklara yakıcı ateşin mahkumlarından olsunlar diye çağrıda bulunur."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "İnkar edenler için çetin bir azap vardır; iman edip dünya ve ahirete yararlı işler yapanlara ise bağışlanma ve büyük bir mükafat vardır."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Kötü işleri hoşuna gidip de onları güzel bulan kimse (ile böyle olmayan bir) mi? Allah dilediğini sapkınlık içinde bırakır, dilediğini de doğruya iletir. O halde onlar için üzülerek kendini helak etme. Allah onların yaptıklarını elbette biliyor."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Rüzgarları gönderip bulutları harekete geçiren Allah’tır. Böylece onu ölü bir bölgeye sevkeder, ölümünden sonra yeryüzüne onunla hayat veririz. İşte öldükten sonra dirilme de böyle olacaktır."
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Kim izzet isterse bilmeli ki izzet tamamıyla Allah’a aittir. Güzel sözler O’na yükselir; rızasına uygun iş ve davranışları da O yüceltir. Sinsi sinsi kötülük tasarlayanlar için çetin bir azap vardır ve onların tuzakları altüst olur."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Allah sizi topraktan, sonra nutfeden yarattı. Sonra da sizi birbirinize eş kıldı. O’nun bilgisi olmadan hiçbir dişi ne gebe kalır ne doğurur. Bir canlının ömrünün uzun olması da kısa tutulması da mutlaka yazgıya uygun olarak gerçekleşir. Kuşkusuz bunlar Allah için kolaydır."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Şu iki çeşit su kütlesi birbirine eşit olmaz; birisi tatlıdır, susuzluğu giderir ve içimi güzeldir, ötekisi ise tuzlu ve acıdır. İkisinden de taze et yersiniz ve takınacağınız süs eşyaları çıkarırsınız. Gemilerin denizi yararak gittiklerini görürsün ki bu da O’nun lutfuna nail olmanız ve O’na şükretmeniz içindir."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Allah, geceyi gündüze, gündüzü de geceye katıyor. O güneşi ve ayı da buyruğu altına almıştır; her biri belirlenmiş bir vadeye kadar kendi yolunu izler. İşte rabbiniz Allah budur, mülk O’nundur. O’ndan başka yalvarıp durduklarınız ise bir çekirdek zarına bile hakim olamazlar."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Onlara yalvarsanız duanızı işitmezler, işitseler bile size karşılık veremezler. Kıyamet günü de onları (Allah’a) ortak koşmanızı kabullenmezler. Hiç kimse sana, her şeyden haberdar olan Allah gibi bilgi veremez."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Ey insanlar! Allah’a muhtaç olan sizlersiniz. Allah ise hiçbir şeye muhtaç değildir ve mutlak kemaliyle hep övgüye layık olan O’dur."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "O dilerse sizi yok eder ve yerinize yenilerini yaratır."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Bu, Allah için güç de değildir."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Hiçbir günahkar başkasının günahını yüklenmez. Günah yükü ağır gelen kimse onun taşınması için yardım çağrısında bulunsa -çağrılan yakını bile olsa- o yükten hiçbir şeyi başkası üzerine alamaz. Sen ancak, görmedikleri halde rablerinden korkanları ve namazı özenle kılanları uyarabilirsin. Kim arınırsa sadece kendi yararına arınmış olur. Her şeyin sonu Allah’a varır."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Görmeyenle gören, karanlıklarla aydınlık, gölge ile sıcak bir olmaz."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "Görmeyenle gören, karanlıklarla aydınlık, gölge ile sıcak bir olmaz."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Görmeyenle gören, karanlıklarla aydınlık, gölge ile sıcak bir olmaz."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Dirilerle ölüler de bir değildir. Allah dilediğine elbette işittirir; ama sen kabirlerdekilere de işittirecek değilsin!"
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Sen ancak bir uyarıcısın."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "Doğrusu biz seni hak ile desteklenmiş bir müjdeleyici ve uyarıcı olarak gönderdik. Hiçbir ümmet yoktur ki içlerinden bir uyarıcı gelip geçmemiş olsun."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Seni yalancılıkla itham ediyorlarsa, bil ki daha öncekiler de (peygamberlerini) yalancılıkla itham etmişlerdi. Peygamberleri onlara açık kanıtlar, sahifeler ve aydınlatıcı kitap getirmişlerdi."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Sonra ben o inkarcıları yakalayıverdim; bilsen nasıl bir cezalandırıştı o!"
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Allah’ın gökten su indirdiğini görmez misin? Sonra onunla renkleri ve çeşitleri farklı ürünler çıkardık. Dağların da farklı renklerde; beyaz, kırmızı, simsiyah yolları, kısımları vardır."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Aynı şekilde, insanlardan, binek hayvanlarından ve eti yenen hayvanlardan da farklı tür ve renklerde olanlar var. Kulları içinden ancak bilenler, Allah’ın büyüklüğü karşısında heyecan duyarlar. Şüphesiz Allah üstündür, çokça bağışlayıcıdır."
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Allah’ın kitabını okuyanlar, namazı özenle kılanlar ve kendilerine verdiğimiz rızıktan başkaları için gizli açık harcayanlar, asla zararla sonuçlanmayacak bir ticaret umabilirler."
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Zira Allah karşılıklarını tam olarak ödediği gibi lutfundan onlara fazlasını da verir. O çok bağışlayıcıdır, şükrün karşılığını bol bol verir."
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Sana vahyettiğimiz kitap kendinden öncekileri doğrulayıcı bir hakikattir. Kuşkusuz Allah kullarından haberdardır, her şeyi görmektedir."
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "Sonra biz kullarımızdan seçtiklerimizi o kitaba mirasçı kıldık. Onlardan kimi kendine kötülük eder, kimi orta bir durumdadır, kimi de Allah’ın izniyle hayır işlerinde yarışır; işte büyük lütuf budur."
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Onların gireceği yer adn cennetleridir. Orada altın bilezikler ve incilerle süsleneceklerdir. Orada onların giysileri de ipektir."
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Şöyle derler: “Bizden tasayı gideren Allah’a hamdolsun. Doğrusu rabbimiz çok bağışlayıcıdır, şükrün karşılığını eksiksiz vermektedir."
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "O ki bizi lutfuyla sonsuza kadar kalınacak yurda yerleştirdi. Orada artık biz ne bir yorgunluk duyarız ne de bize bir bıkkınlık gelir.”"
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "İnkar edenlere gelince, cehennem ateşi de onlarındır. Ne ölmelerine hükmedilir ki ölsünler ne de onlar için cehennem azabı hafifletilir. İşte inkarcılığa saplanıp kalmış herkesi böyle cezalandırırız."
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Ve onlar orada, “Rabbimiz! Bizi çıkar da yapmış olduklarımızdan tamamen başka, iyi işler yapalım” diye feryat ederler. Size düşünecek kimsenin düşünebileceği kadar bir ömür vermedik mi? Üstelik size uyarıcı da gelmişti. Şimdi tadın bakalım! Zalimlerin hiçbir yardımcısı da yoktur!"
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Kuşkusuz Allah göklerin ve yerin sırlarını bilmektedir ve O, kalplerin gizlediklerini de çok iyi bilir."
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Sizi yeryüzünde halifeler yapan O’dur. Artık kim inkar ederse inkarcılığı yalnız kendi aleyhinedir. Kafirlerin küfrü rableri katında gazabı arttırmaktan başka bir sonuç doğurmaz; şu halde kafirlerin küfrü ancak kendi ziyanlarını arttırır."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "De ki: “Allah’ı bırakıp da taptığınız ve O’na ortak koştuğunuz varlıklar üzerinde hiç düşündünüz mü? Gösterin bana, yeryüzündeki hangi nesneyi yaratmışlar! Yoksa onların göklerde mi ortaklığı var? Yahut biz onlara bir kitap vermişiz de onlar oradaki kesin bir delile mi dayanmaktalar? Hayır hayır! O zalimlerin birbirlerine vaadleri aldatmacadan başka bir şey değildir."
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Gerçek şu ki Allah, koyduğu düzenden sapmamaları için gökleri ve yeri tutmaktadır. Şayet sapacak olsalar artık O’ndan başka hiç kimse onları tutamaz. Şüphesiz O halimdir, çok bağışlayıcıdır."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Onlar kendilerine bir uyarıcı gelirse herhangi bir ümmetten daha fazla doğru yolu tutacaklarına dair var güçleriyle Allah adına yemin etmişlerdi. Ama onlara uyarıcı gelince bu sadece (haktan) uzaklaşmalarını arttırdı."
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "Çünkü yeryüzünde büyüklük taslıyor ve kötülük tuzakları kuruyorlardı. Halbuki kötülük tuzakları, kuranların ayağına dolaşır. Yoksa onlar öncekilere uygulanan yasalardan başkasını mı bekliyorlar? Allah’ın yasalarında asla bir değişme bulamazsın; Allah’ın yasalarında asla bir sapma da bulamazsın."
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Yeryüzünde gezip dolaşmazlar mı ki kendilerinden öncekilerin sonu nice olmuş görsünler! Kaldı ki onlar bunlardan daha güçlüydüler. Göklerde ve yerde Allah’ın kudretine karşı durabilecek yoktur. Şüphe yok ki O her şeyi bilmektedir, her şeye kadirdir."
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Şayet Allah insanları yapıp ettikleri yüzünden hemen cezalandıracak olsaydı, yerin üstünde tek bir canlı bırakmazdı; fakat onlara belirlenmiş bir vadeye kadar mühlet veriyor. Vadeleri dolduğunda ise (herkes anlayacaktır ki) Allah kullarını hakkıyla görüp bilmektedir."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    },
+    {
+      "id": 0,
+      "text": "",
+      "translation": "Rahman ve rahim olan Allah'ın adıyla."
+    }
+  ]
+}

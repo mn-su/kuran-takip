@@ -1,0 +1,656 @@
+{
+  "id": 9,
+  "name": "التوبة",
+  "translation": "Tevbe",
+  "transliteration": "tevbe",
+  "nuzul": 113,
+  "description": "Son iki âyet hariç Medine döneminde, Peygamber Efendimizin irtihaline yakın bir zamanda inmiştir. 129 âyettir. Sûre, adını Allah’ın kullarının tövbesini kabul edeceğini bildirdiği 104. âyetten almıştır. İlk âyette geçen “berâet” kelimesinden dolayı sûreye Berâe sûresi adı da verilmiştir. Başında besmele olmayan tek sûredir. Sûrenin başına besmelenin yazılmamış oluşunu bazı bilginler, onun bir önceki sûrenin devamı mahiyetinde oluşu ile açıklamışlardır. Sûrede başlıca, yaptıkları antlaşmalara bağlı kalmayan düşmanlarla ilişkilerin kesilmesi, antlaşmalara bağlı kalanlara karşı ise antlaşmalara bağlı kalınmasının gerekliliği  Tebük seferine hazırlık, Tebük seferi öncesi ve dönüşü sırasında münafıkların sergilediği iki yüzlü tavır, ehl-i kitapla ilişkiler, cizye ve zekât hükümleri, çölde yaşayan Arapların Kur’an talimatı karşısındaki tavırları, Kur’an’ın müslümanlar üzerinde oluşturduğu etki ve Hz. Peygamber’in müslümanlar adına duyduğu endişe söz konusu edilmektedir",
+  "total_verses": 129,
+  "verses": [
+    {
+      "id": 1,
+      "text": "",
+      "translation": "Allah ve Resulünden, antlaşma yapmış olduğunuz müşriklere karşı fesih ­bildirimidir!"
+    },
+    {
+      "id": 2,
+      "text": "",
+      "translation": "Yeryüzünde dört ay daha serbestçe dolaşın; fakat bilin ki asla Allah’ı aciz bırakamazsınız ve Allah inkarcıları er-geç rezil rüsva edecektir."
+    },
+    {
+      "id": 3,
+      "text": "",
+      "translation": "Yine Allah ve resulünden bu büyük hac günü insanlara duyurudur: Allah ve resulünün müşriklerle hiçbir bağı yoktur. Şayet tövbe ederseniz, bu kendi iyiliğinize olur; eğer sırt çevirirseniz bilin ki siz Allah’ı acizliğe düşüremezsiniz. (Resulüm!) İnkarcıları elem veren bir azapla müjdele!"
+    },
+    {
+      "id": 4,
+      "text": "",
+      "translation": "Ancak kendileriyle antlaşma yaptığınız müşriklerden bilahare yükümlülüklerini eksiksiz yerine getiren ve sizin aleyhinize kimseye arka çıkmayanlar müstesna; onlara verdiğiniz söze süresi doluncaya kadar riayet ediniz. Allah haksızlıktan sakınanları sever."
+    },
+    {
+      "id": 5,
+      "text": "",
+      "translation": "Haram aylar çıkınca, müşrikleri bulduğunuz yerde öldürün, esir alın, kuşatın ve onları her geçit yerinde gözetleyin. Şayet tövbe ederler, namazlarını kılarlar ve zekatlarını verirlerse artık onları serbest bırakın. Allah yargılayıcıdır, bağışlayıcıdır."
+    },
+    {
+      "id": 6,
+      "text": "",
+      "translation": "Ve eğer müşriklerden biri senden korunma isterse, Allah’ın sözünü duymasına fırsat vermek için onu koruma altına al; sonra onu kendi güvenlik bölgesine ulaştır. Bu uygulama, onların bilmeyen bir topluluk olmalarından dolayıdır."
+    },
+    {
+      "id": 7,
+      "text": "",
+      "translation": "Müşriklerin Allah’ın yanında, peygamberinin yanında geçerli ahdi nasıl olabilir? Ancak Mescid-i Haram yanında kendileriyle antlaşma yaptıklarınız müstesnadır. Onlar size verdikleri söze sadık kaldıkları sürece siz de onlara verdiğiniz sözde durun. Şüphesiz Allah günahtan sakınanları sever."
+    },
+    {
+      "id": 8,
+      "text": "",
+      "translation": "Verdikleri söze nasıl güvenilebilir ki? Şayet size galip gelselerdi, yakınlık bağını da antlaşma hükümlerini de sizin için gözetmezlerdi. Onlar dilleriyle sizi memnun etmeye çalışıyorlar, fakat kalplerinden geçen çok farklı. Zaten onların çoğu yoldan çıkmış kimselerdir."
+    },
+    {
+      "id": 9,
+      "text": "",
+      "translation": "Allah’ın ayetlerini basit bir menfaate değiştiler, böylece insanları Allah yolundan engellediler. Bakın, onların yapageldikleri ne kötü!"
+    },
+    {
+      "id": 10,
+      "text": "",
+      "translation": "Bir mümin hakkında ne yakınlık bağına ne de antlaşma hükümlerine riayet ederler; işte onlar böyle sınır tanımaz kimselerdir."
+    },
+    {
+      "id": 11,
+      "text": "",
+      "translation": "Ama tövbe ederlerse ve namazlarını kılıp zekatlarını verirlerse, artık onlar sizin din kardeşlerinizdir. Bilmek isteyenler için ayetlerimizi ayrıntılarıyla açıklıyoruz."
+    },
+    {
+      "id": 12,
+      "text": "",
+      "translation": "Şayet antlaşma yaptıktan sonra yeminlerini bozarlar ve dininizi karalamaya kalkışırlarsa, siz de küfrün elebaşılarıyla vuruşun; çünkü onların yeminleri yok sayılır. (Böyle yaparsanız) belki vazgeçerler."
+    },
+    {
+      "id": 13,
+      "text": "",
+      "translation": "Yeminlerini bozan, peygamberi sürüp çıkarmaya karar veren ve size karşı saldırıyı ilk başlatan topluluğa karşı savaşmaktan geri mi duracaksınız? Yoksa onlardan korkuyor musunuz! Oysa asıl çekinmeniz gereken Allah’tır; eğer yürekten inanıyorsanız."
+    },
+    {
+      "id": 14,
+      "text": "",
+      "translation": "Onlarla savaşın ki, Allah onları sizin elinizle cezalandırsın, onları rezil rüsva etsin, sizi onlara karşı başarılı kılsın, inananların yüreklerine su serpsin, kalplerindeki öfkeyi yatıştırsın. Allah dilediğinin tövbesini kabul eder. Allah bilmekte, hikmetle yönetmektedir."
+    },
+    {
+      "id": 15,
+      "text": "",
+      "translation": "Onlarla savaşın ki, Allah onları sizin elinizle cezalandırsın, onları rezil rüsva etsin, sizi onlara karşı başarılı kılsın, inananların yüreklerine su serpsin, kalplerindeki öfkeyi yatıştırsın. Allah dilediğinin tövbesini kabul eder. Allah bilmekte, hikmetle yönetmektedir."
+    },
+    {
+      "id": 16,
+      "text": "",
+      "translation": "Yoksa Allah sizden cihad edenleri ve Allah’tan, peygamberinden ve müminlerden başkasını sırdaş edinmeyenleri ortaya çıkarmadan, kendi halinize bırakılacağınızı mı sandınız? Allah yapıp ettiklerinizden haberdardır."
+    },
+    {
+      "id": 17,
+      "text": "",
+      "translation": "Müşrikler, inkarlarına bizzat kendileri tanıklık edip dururken, Allah’ın mescidlerini onarıp şenlendiremezler. Onlar, yapıp ettikleri boşa giden kimselerdir ve onlar ebedi olarak ateşte kalacaklardır."
+    },
+    {
+      "id": 18,
+      "text": "",
+      "translation": "Allah’ın mescidlerini ancak Allah’a ve ahiret gününe inanan, namazını kılan, zekatını veren ve yalnız Allah’tan korkup çekinen kimseler imar edebilirler. İşte bunların doğru yolu bulanlardan olmaları umulur."
+    },
+    {
+      "id": 19,
+      "text": "",
+      "translation": "Hacılara su verme ve Mescid-i Haram’ın imar ve bakım işini (üstlenen kimseyi), Allah’a ve ahiret gününe inanıp Allah yolunda cihad eden kimseyle bir mi tutuyorsunuz? Bunlar Allah katında bir değildirler. Allah zalimler topluluğunu hidayete erdirmez."
+    },
+    {
+      "id": 20,
+      "text": "",
+      "translation": "İnanan, hicret eden, Allah yolunda mallarıyla ve canlarıyla cihad edenlerin Allah katındaki mertebeleri pek büyüktür. Muradına erecek olanlar da onlardır."
+    },
+    {
+      "id": 21,
+      "text": "",
+      "translation": "Rableri onları kendi rahmeti, hoşnutluğu ve cennetleriyle müjdeliyor; onlar için orada kesintisiz nimetler vardır."
+    },
+    {
+      "id": 22,
+      "text": "",
+      "translation": "Onlar orada ebedi olarak kalacaklardır. Kuşkusuz en büyük ödül Allah katında olandır."
+    },
+    {
+      "id": 23,
+      "text": "",
+      "translation": "Ey iman edenler! Şayet inkarı imana tercih ederlerse, babalarınızı ve kardeşlerinizi dahi dayanıp güvenilecek dostlar edinmeyin. İçinizden kimler onları dost edinirse, işte kendilerine kötülük edenler bunlardır."
+    },
+    {
+      "id": 24,
+      "text": "",
+      "translation": "De ki: Eğer babalarınız, oğullarınız, kardeşleriniz, eşleriniz, hısım-akrabanız, kazandığınız mallar, durgunluğa uğramasından endişe ettiğiniz ticaretiniz ve hoşlandığınız meskenler size Allah’tan, peygamberinden ve O’nun yolunda cihaddan daha sevimli ise, artık Allah buyruğunu (kıyameti) gerçekleştirinceye kadar bekleyin. Allah günaha saplanmış kimseleri hidayete erdirmez."
+    },
+    {
+      "id": 25,
+      "text": "",
+      "translation": "Allah birçok yerde, bu arada Huneyn Savaşı’nda gerçekten size yardım etmiştir. O gün çokluğunuz sizi böbürlendirmiş, fakat bunun size hiçbir yararı olmamıştı; o yer geniş olmasına rağmen size dar gelmiş, nihayet geriye çekilmeye başlamıştınız."
+    },
+    {
+      "id": 26,
+      "text": "",
+      "translation": "Bunun üzerine Allah, peygamberinin ve müminlerin üzerine kendi katından bir güven duygusu indirdi, bir de göremediğiniz askerler gönderdi ve böylece inkar edenlerin cezasını verdi. İşte bu, inkarcıların hakettiği karşılıktır."
+    },
+    {
+      "id": 27,
+      "text": "",
+      "translation": "Artık bunun ardından Allah dilediğinin de tövbesini kabul eder. Allah bağışlayıcıdır, esirgeyicidir."
+    },
+    {
+      "id": 28,
+      "text": "",
+      "translation": "Ey iman edenler! Bilin ki Allah’a ortak koşanlar pisliğe batmışlardır; artık onlar bu yıldan sonra Mescid-i Haram’a yaklaşmasınlar. Eğer yoksulluktan endişe ederseniz, unutmayınız ki Allah size -dilerse- kendi lutfuyla bolluk verir. Allah bilmekte, hikmetle yönetmektedir."
+    },
+    {
+      "id": 29,
+      "text": "",
+      "translation": "Ehl-i kitap’tan Allah’a ve ahiret gününe inanmayan, Allah ve resulünün yasakladığını yasak saymayan ve hak dine uymayan kimselerle, yenilmiş olarak ve kendi elleriyle cizye verinceye kadar savaşın."
+    },
+    {
+      "id": 30,
+      "text": "",
+      "translation": "Yahudiler “Üzeyir Allah’ın oğludur” dediler, hıristiyanlar da “Mesih (İsa) Allah’ın oğludur” dediler. Bunlar, daha önceki inkarcıların söylediklerine benzer biçimde ağızlarından çıkan sözlerdir. Allah onları kahretsin! (Gerçeklerden) nasıl da yüz çeviriyorlar!"
+    },
+    {
+      "id": 31,
+      "text": "",
+      "translation": "Allah’ı bırakıp da din alimlerini, rahiplerini, özellikle Meryem oğlu Mesih’i rab edindiler. Oysa tek bir Tanrı’ya kulluk etmekle emrolunmuşlardı. O’ndan başka tanrı yoktur; O yüceler yücesidir, onların yakıştırdıkları eş ve ortaklardan bütünüyle uzaktır."
+    },
+    {
+      "id": 32,
+      "text": "",
+      "translation": "İsterler ki Allah’ın nurunu ağızlarıyla söndürüversinler; ama inkarcılar hoşlanmasalar da Allah nurunu muhakkak tamamlamayı istiyor."
+    },
+    {
+      "id": 33,
+      "text": "",
+      "translation": "Bütün dinlerin üzerindeki yerini alsın diye resulünü, doğru yol rehberi ve hak din ile gönderen O’dur; müşrikler hoşlanmasalar da!"
+    },
+    {
+      "id": 34,
+      "text": "",
+      "translation": "Ey iman edenler! Bilin ki yahudi din bilginlerinin ve hıristiyan din adamlarının birçoğu halkın mallarını haksızlıkla yerler ve Allah yolundan alıkoyarlar. Altın gümüş biriktirip Allah yolunda harcamayanları elem veren bir azapla müjdele!"
+    },
+    {
+      "id": 35,
+      "text": "",
+      "translation": "O gün bunlar cehennem ateşinde kızdırılıp onların alınları, böğürleri ve sırtları dağlanacak: İşte yalnız kendiniz için toplayıp sakladıklarınız; tadın şimdi biriktirip sakladıklarınızı!"
+    },
+    {
+      "id": 36,
+      "text": "",
+      "translation": "Doğrusu Allah’a göre ayların sayısı, Allah’ın gökleri ve yeri yarattığı günkü yazısına uygun olarak on ikidir; bunlardan dördü haram aylardır. İşte doğru olan hesap budur. O aylarda kendinize zulmetmeyin, müşrikler sizinle topyekün savaştıkları gibi siz de onlarla topyekün savaşın. Bilin ki Allah buyruklarına karşı gelmekten sakınanlarla beraberdir."
+    },
+    {
+      "id": 37,
+      "text": "",
+      "translation": "Aylara ek yapmak, inkarcılığı artırmaktan başka bir şey değildir, inkarcıların daha da sapmasına yol açmaktadır. Onlar (ayların sayısını) Allah’ın yasakladığı aylara uyarlamak üzere, bu eklemeyi bir yıl helal bir yıl haram sayıyorlar ki, böylece Allah’ın haram kıldıklarını meşru hale getirsinler. Bu yaptıkları kötü işler kendilerine güzel görünüyor. Allah inkarcılar topluluğunu doğru yola iletmez."
+    },
+    {
+      "id": 38,
+      "text": "",
+      "translation": "Ey iman edenler! Size ne oldu ki, “Allah yolunda seferber olun” denilince yerinize çakılıp kaldınız; yoksa ahiretten vazgeçip de dünya hayatıyla yetinmeye razı mı oldunuz? Halbuki dünya hayatının sağladığı fayda ahiretinkine göre pek azdır."
+    },
+    {
+      "id": 39,
+      "text": "",
+      "translation": "Eğer toplanıp seferber olmazsanız Allah sizi elem veren bir azapla cezalandırır, yerinize başka bir topluluk getirir ve siz O’na zerrece zarar veremezsiniz. Allah’ın her şeye gücü yeter."
+    },
+    {
+      "id": 40,
+      "text": "",
+      "translation": "Siz peygambere yardımcı olmasanız da önemli değil. Nitekim inkarcılar onu, iki kişiden biri olarak yurdundan çıkardıklarında Allah ona yardım etmişti: Hani onlar mağaradaydılar; arkadaşına “Tasalanma! Allah bizimle beraberdir” diyordu. Derken Allah ona kendi katından bir güven duygusu indirdi, sizin göremediğiniz askerlerle onu destekledi ve inkarcıların sözünü değersiz hale getirdi. Allah’ın sözü ise en yücedir. Çünkü Allah mutlak galiptir, hikmet sahibidir."
+    },
+    {
+      "id": 41,
+      "text": "",
+      "translation": "Kolay da olsa zor da olsa sefere çıkın ve mallarınızla canlarınızla Allah yolunda cihad edin. Bilirseniz, bu sizin kendi iyiliğinizedir."
+    },
+    {
+      "id": 42,
+      "text": "",
+      "translation": "Kolay elde edilecek bir kazanç ve kısa bir yolculuk olsaydı mutlaka peşinden gelirlerdi; fakat o meşakkatli yol onlara uzun geldi. Bir de kalkıp, “Gücümüz olsaydı inanın ki sizinle beraber sefere çıkardık” diye Allah’ın adına yemin edecek, böylece kendilerini helake sürükleyecekler. Oysa Allah onların yalan söylediklerini elbette biliyor."
+    },
+    {
+      "id": 43,
+      "text": "",
+      "translation": "Allah seni affetti de, doğru söyleyenler sence belli olmadan ve kimlerin yalancı olduğunu bilmeden niçin onlara izin verdin?"
+    },
+    {
+      "id": 44,
+      "text": "",
+      "translation": "Allah’a ve ahiret gününe iman edenler, kendilerini mallarıyla ve canlarıyla cihad etmekten muaf tutman için senden izin istemezler. Allah, buyruğuna karşı gelmekten sakınanları çok iyi bilir."
+    },
+    {
+      "id": 45,
+      "text": "",
+      "translation": "Senden izin isteyenler sadece, Allah’a ve ahiret gününe iman etmeyenler ve şüpheye kapılmış olanlardır; onlar şüpheleri içinde bocalayıp dururlar."
+    },
+    {
+      "id": 46,
+      "text": "",
+      "translation": "Eğer onlar savaşa çıkmak isteselerdi elbette bunun için bir hazırlık yapabilirlerdi; fakat Allah da onların sefere çıkmalarını istemedi, onları geri koydu, onlara “Oturun bakalım diğer oturanlarla beraber!” denildi."
+    },
+    {
+      "id": 47,
+      "text": "",
+      "translation": "Şayet onlar sizinle beraber sefere çıkmış olsalardı, size bozgunculuktan başka katkıları olmayacak ve sizi fitneye düşürmek istedikleri için aranıza sokulacaklardı; içinizde onlara kulak asacak olanlar da vardı. Allah zalimleri çok iyi bilir."
+    },
+    {
+      "id": 48,
+      "text": "",
+      "translation": "Aslında onlar daha önce de fitne çıkarmak istemişler ve sana karşı türlü türlü işler çevirmişlerdi. Nihayet onlar istemeseler de hak yerini buldu ve Allah’ın iradesi galip geldi."
+    },
+    {
+      "id": 49,
+      "text": "",
+      "translation": "İçlerinden “Aman bana izin ver, başımı derde sokma!” diyenler de var. Ama bilmiş olsunlar ki asıl (bu tutumlarıyla) belanın içine düşmüş oldular. Cehennem inkarcıları mutlaka kuşatacaktır."
+    },
+    {
+      "id": 50,
+      "text": "",
+      "translation": "Sen iyi bir sonuç elde etsen bu onlara üzüntü verir; ama başına bir musibet gelse, “Biz tedbirimizi önceden almıştık” derler ve sevine sevine dönüp giderler."
+    },
+    {
+      "id": 51,
+      "text": "",
+      "translation": "De ki: “Allah bize ne yazmışsa başımıza ancak o gelir, O bizim mevlamızdır.” Müminler yalnız Allah’a güvenip dayansınlar."
+    },
+    {
+      "id": 52,
+      "text": "",
+      "translation": "De ki: “Sizin bizim hakkımızda beklediğiniz, ancak iki güzellikten biridir. Bizim sizinle ilgili beklentimize gelince, Allah ya katından bir bela gönderecek veya sizin cezanızı bizim elimizle verecektir. O halde sonucu siz de bekleyin, biz de sizinle birlikte bekleyelim.”"
+    },
+    {
+      "id": 53,
+      "text": "",
+      "translation": "De ki: “İster gönüllü harcayın ister gönülsüz, sizden asla kabul edilmeyecek! Zira siz günaha gömülmüş kimseler oldunuz.”"
+    },
+    {
+      "id": 54,
+      "text": "",
+      "translation": "Yaptıkları harcamaların kabul edilmesine engel olan esas sebep de şudur: Onlar Allah’ı ve peygamberini tanımadılar; namaza da ancak üşene üşene gelirler ve harcamalarını gönülsüz olarak yaparlar."
+    },
+    {
+      "id": 55,
+      "text": "",
+      "translation": "O halde onların malları da evlatları da seni imrendirmesin; çünkü Allah onlara dünya hayatında bunlarla eziyet çektirmeyi ve canlarının da kafir olarak çıkmasını murat ediyor."
+    },
+    {
+      "id": 56,
+      "text": "",
+      "translation": "Kesinlikle sizden olduklarına dair Allah’a yemin de ederler, halbuki onlar sizden değildir, fakat onlar korkak bir topluluktur."
+    },
+    {
+      "id": 57,
+      "text": "",
+      "translation": "Eğer sığınacak bir yer, barınacak mağaralar veya girilecek bir kovuk bulsalardı, hemen koşup oraya sokulurlardı."
+    },
+    {
+      "id": 58,
+      "text": "",
+      "translation": "Onlardan sadakaların (zekat gelirleri) taksimi hususunda sana dil uzatanlar da var. Şayet bunlardan kendilerine verilmişse hoşnut olurlar, verilmemişse hemen öfkelenirler."
+    },
+    {
+      "id": 59,
+      "text": "",
+      "translation": "Halbuki Allah ve resulünün verdiğine razı olup, “Bize Allah yeter, Allah da resulü de bize lutuf ve kereminden yine verir. Doğrusu biz yalnız Allah’tan umarız” deselerdi daha iyi olurdu."
+    },
+    {
+      "id": 60,
+      "text": "",
+      "translation": "Sadakalar (zekat gelirleri) ancak şunlar içindir: Yoksullar, düşkünler, sadakaların toplanmasında görevli olanlar, kalpleri kazanılacak olanlar, azat edilecek köleler, borçlular, Allah yolunda (çalışanlar) ve yolda kalmışlar. İşte Allah’ın kesin buyruğu budur. Allah bilmekte ve hikmetle yönetmektedir."
+    },
+    {
+      "id": 61,
+      "text": "",
+      "translation": "Onlardan peygamberi inciten ve “O her söylenene kulak veriyor” diyenler var. De ki: “O sizin için hayırlı olana kulak veriyor; Allah’a inanıp müminlere güveniyor. Ve o içinizden iman edenler için bir rahmettir. Allah’ın resulünü incitenler için elem verici bir azap vardır.”"
+    },
+    {
+      "id": 62,
+      "text": "",
+      "translation": "Onlar sizi hoşnut etmek için (size gelip, inandıklarına dair) Allah’a yemin ederler. Oysa gerçekten iman etmiş olsalardı bilirlerdi ki, Allah ve resulü hoşnut edilmeye daha layıktı."
+    },
+    {
+      "id": 63,
+      "text": "",
+      "translation": "Bilmiyorlar mı ki Allah ve resulüne karşı çıkanı, içinde ebediyen kalacağı cehennem ateşi beklemektedir! İşte büyük rezillik de budur."
+    },
+    {
+      "id": 64,
+      "text": "",
+      "translation": "Münafıklar, kendileri hakkında kalplerindekini ortaya çıkaracak bir surenin indirilmesinden endişe ediyorlar. De ki: “Alay edin bakalım! Allah mutlaka o çekindiğiniz şeyi ortaya çıkaracaktır.”"
+    },
+    {
+      "id": 65,
+      "text": "",
+      "translation": "Onlara soracak olsan mutlaka, “Biz lafa dalıyor eğleniyorduk, hepsi bu!” derler. De ki: “Siz Allah ile, O’nun ayetleriyle ve peygamberiyle mi eğleniyordunuz?”"
+    },
+    {
+      "id": 66,
+      "text": "",
+      "translation": "Mazeret ileri sürmeye kalkmayın. İman ettiğinizi söyledikten sonra inkarcılığınızı açığa vurdunuz. İçinizden bir kısmını affetsek de, diğer bir kısmını günahta ısrarcı davranmış oldukları için azaba uğratacağız."
+    },
+    {
+      "id": 67,
+      "text": "",
+      "translation": "Erkeğiyle kadınıyla münafıklar birbirine benzer; kötülüğü özendirip iyiliği engellerler, hayır için harcamaya elleri varmaz. Onlar Allah’ı umursamadılar, O da onları rahmetinden mahrum bıraktı. Gerçek şu ki münafıklar günaha batmış kimselerdir."
+    },
+    {
+      "id": 68,
+      "text": "",
+      "translation": "Allah, erkeğiyle kadınıyla münafıklara ve açıktan inkarcılık yapanlara, içinde ebedi olarak kalacakları cehennem ateşini vaad etmiştir. Onlara bu yeter de artar! Allah onları lanetlemiştir ve onlar için devamlı bir azap vardır."
+    },
+    {
+      "id": 69,
+      "text": "",
+      "translation": "(Ey münafıklar! Sizin durumunuz da) sizden öncekilerin durumuna benziyor; üstelik onlar sizden daha güçlüydü, malları ve evlatları daha çoktu. Onlar dünyadaki nasiplerinden haz duyup yararlandılar. Sizden öncekilerin kendi paylarından istifade ettikleri gibi siz de kendi nasibinizi elde edip yararlandınız. Siz de onların daldıkları gibi boş şeylere daldınız. İşte hem dünyada hem ahirette yaptıkları boşa gidenler bunlardır, asıl ziyana uğrayanlar da bunlardır."
+    },
+    {
+      "id": 70,
+      "text": "",
+      "translation": "Bunlara kendilerinden öncekilerin, Nuh, Ad ve Semud toplumlarının, İbrahim’in kavminin, Medyen halkının ve yıkılıp giden beldeler ahalisinin haberleri gelmemiş miydi? Onlara peygamberleri apaçık delillerle geldiler. Demek ki Allah onlara zulmetmiş değildi, asıl onlar kendilerine zulmetmişlerdi."
+    },
+    {
+      "id": 71,
+      "text": "",
+      "translation": "Müminlerin erkekleri de kadınları da birbirlerinin velileridir; iyiliği teşvik eder, kötülükten alıkoyarlar, namazı kılarlar, zekatı verirler, Allah ve resulüne itaat ederler. İşte onları Allah merhametiyle kuşatacaktır. Kuşkusuz Allah mutlak güç ve hikmet sahibidir."
+    },
+    {
+      "id": 72,
+      "text": "",
+      "translation": "Allah mümin erkeklere ve mümin kadınlara içinde ebedi olarak kalmak üzere altından ırmaklar akan cennetler ve adn cennetlerinde güzel meskenler vaad etmiştir. Allah’ın rızası ise hepsinden büyüktür, işte büyük bahtiyarlık da odur."
+    },
+    {
+      "id": 73,
+      "text": "",
+      "translation": "Ey peygamber! İnkarcılara ve münafıklara karşı cihad et, onlara sert davran; onların varacağı yer cehennemdir ve bu ne kötü bir sondur!"
+    },
+    {
+      "id": 74,
+      "text": "",
+      "translation": "Söylemediklerine dair Allah adına yemin ediyorlar. Oysa inkarcılık içeren sözü söylemişler, müslüman olduklarını beyan ettikten sonra inkarcılığa sapmışlar ve başaramadıkları o işe yeltenmişlerdir. Onların öç almaya kalkışmaları için Allah’ın ve O’nun lütfu sayesinde resulünün kendilerini zengin etmesinden başka bir sebep de yoktu! Eğer pişman olup tövbe ederlerse bu kendilerinin iyiliğine olur; yüz çevirirlerse Allah onları dünyada da ahirette de elem verici bir azaba uğratır; artık yer yüzünde onlara ne bir dost ne bir yardımcı bulunur."
+    },
+    {
+      "id": 75,
+      "text": "",
+      "translation": "Onların içinde öyleleri var ki, “Allah bize lütuf ve kereminden bahşederse biz de elbette hayır yolunda harcar ve iyi kimselerden oluruz” diye Allah’a söz vermişlerdi."
+    },
+    {
+      "id": 76,
+      "text": "",
+      "translation": "Ama Allah onlara lütuf ve kereminden ihsan edince hemen cimrilik gösterdiler ve yüz çevirdiler, zaten yan çizip duruyorlardı."
+    },
+    {
+      "id": 77,
+      "text": "",
+      "translation": "Bunun üzerine Allah da kendisine verdikleri sözden caydıkları ve hep yalan söyledikleri için, kendi huzuruna çıkacakları güne kadar yüreklerine münafıklığı yerleştirdi."
+    },
+    {
+      "id": 78,
+      "text": "",
+      "translation": "Hala anlamadılar mı ki Allah onların sırlarını da, gizli görüşmelerini de bilir ve Allah bütün gizlileri eksiksiz bilmektedir!"
+    },
+    {
+      "id": 79,
+      "text": "",
+      "translation": "Sadakalar konusunda müminlerden hem gönüllü olarak fazla fazla verenlere hem de daha fazla verecek bir şey bulamayanlara dil uzatıp onlarla alay edenleri Allah maskaraya çevirecektir. Onlar için elem verici bir azap da vardır."
+    },
+    {
+      "id": 80,
+      "text": "",
+      "translation": "Onların bağışlanması için Allah’a ister dua et ister etme; onların affedilmesi için yetmiş kere de dua etsen Allah onları bağışlamayacaktır. Çünkü onlar Allah ve resulünü inkar etmişlerdir. Allah günaha batmış kimseleri doğru yola iletmez."
+    },
+    {
+      "id": 81,
+      "text": "",
+      "translation": "Allah’ın Resulünün çağrısına uymayarak seferden geri kalanlar yerlerinden ayrılmamış olmaktan dolayı sevinç duydular; canlarıyla mallarıyla Allah yolunda savaşmak istemediler, üstelik “Bu sıcakta sefere çıkmayın” dediler. De ki: “Cehennem ateşi çok daha sıcaktır” anlayabilselerdi!"
+    },
+    {
+      "id": 82,
+      "text": "",
+      "translation": "Yapıp ettikleri karşısında artık az gülsünler, çok ağlasınlar!"
+    },
+    {
+      "id": 83,
+      "text": "",
+      "translation": "Şayet Allah seni onlardan bir toplulukla tekrar karşılaştırır da başka bir sefere çıkmak için senden izin isterlerse, de ki: “Bundan böyle benimle asla sefere çıkmayacak ve benim maiyetimde düşmana karşı asla savaşmayacaksınız. Mademki ilk defasında oturup kalmayı yeğlediniz, şimdi de geride kalanlarla birlikte oturmaya devam edin.”"
+    },
+    {
+      "id": 84,
+      "text": "",
+      "translation": "Ve onların arasından ölen hiç kimsenin namazını kılma, mezarı başında da durma! Çünkü onlar Allah ve resulünü inkar ettiler ve yoldan sapmış olarak öldüler."
+    },
+    {
+      "id": 85,
+      "text": "",
+      "translation": "Onların malları ve evlatları seni imrendirmesin; çünkü Allah onlara dünyada bütün bunlarla eziyet vermeyi ve canlarının da inkarcı olarak çıkmasını murat ediyor."
+    },
+    {
+      "id": 86,
+      "text": "",
+      "translation": "“Allah’a iman edin ve resulünün maiyetinde cihad edin” buyruğunu içeren bir sure indirildiğinde, içlerinde imkanı olanlar bile kalmak için senden izin istediler ve “Bırak bizi, kalanlarla birlikte olalım” dediler."
+    },
+    {
+      "id": 87,
+      "text": "",
+      "translation": "Geride kalanlarla beraber olmayı yeğlediler de kalpleri mühürlendi; artık anlayıp kavrayamazlar."
+    },
+    {
+      "id": 88,
+      "text": "",
+      "translation": "Fakat peygamber ve beraberindeki müminler mallarıyla, canlarıyla cihad ettiler. İyi ve güzel şeylerin her türlüsü onların olacaktır, gerçek kurtuluşa erenler de onlardır."
+    },
+    {
+      "id": 89,
+      "text": "",
+      "translation": "Allah onlara, içinde ebedi olarak kalmak üzere altından ırmaklar akan cennetler hazırlamıştır. Büyük bahtiyarlık işte budur."
+    },
+    {
+      "id": 90,
+      "text": "",
+      "translation": "Bedevilerden mazeret ileri sürenler kendilerine izin verilmesi için geldiler. Allah ve resulüne inanmayanlar da (münafıklar) oturup kaldılar. Onlardan inkarcı olanlara elem veren bir azap gelecektir."
+    },
+    {
+      "id": 91,
+      "text": "",
+      "translation": "Güçsüzler, hastalar ve harcama yapma imkanı olmayanlar için -Allah ve peygamberine sadık kaldıkları sürece- sorumluluk yoktur. İyi niyet sahiplerini sorumlu tutmak olmaz. Allah bağışlayıcıdır, esirgeyicidir."
+    },
+    {
+      "id": 92,
+      "text": "",
+      "translation": "Kendilerine binek sağlaman için sana gelip de, “Sizi bindirecek bir şey bulamıyorum” diye cevap verdiğin zaman, harcayacak bir şey bulamamanın üzüntüsünden göz yaşları dökerek geri dönenlere de günah yoktur."
+    },
+    {
+      "id": 93,
+      "text": "",
+      "translation": "Sorumluluk sadece imkanları müsait olduğu halde senden izin isteyenler için vardır. Onlar geride kalanlarla beraber olmayı yeğlediler; Allah da onların kalplerini mühürledi; artık doğruyu bilemezler."
+    },
+    {
+      "id": 94,
+      "text": "",
+      "translation": "Onlar, yanlarına döndüğünüz zaman da size özür beyan ederler. De ki: “Boşuna mazeret ileri sürmeyin, size asla inanmayız, çünkü Allah yaptıklarınızın içyüzünü bize bildirmiştir. Bundan böyle de Allah ve resulü yapıp ettiklerinizi görecektir; sonra gizli açık her şeyi bilenin huzuruna çıkarılacaksınız ve O size neler yapmış olduğunuzu haber verecektir.”"
+    },
+    {
+      "id": 95,
+      "text": "",
+      "translation": "Yanlarına döndüğünüz zaman, onları hesaba çekmekten vazgeçesiniz diye size yemin billah edecekler. Artık onlardan uzak durun; zira onlar tiksinilecek kimselerdir, işlemiş oldukları günahların karşılığı olarak varacakları yer de cehennemdir."
+    },
+    {
+      "id": 96,
+      "text": "",
+      "translation": "Kendilerinden hoşnut olasınız diye size yemin ederler. Fakat siz onlardan hoşnut olsanız bile Allah günaha batmış o kimselerden asla razı olmaz."
+    },
+    {
+      "id": 97,
+      "text": "",
+      "translation": "Bedeviler inkarcılık ve iki yüzlülükte daha ileridedirler; Allah’ın resulüne indirdiklerinin sınırlarını tanımamaya daha yatkındırlar. Allah her şeyi bilmekte ve hikmetle yönetmektedir."
+    },
+    {
+      "id": 98,
+      "text": "",
+      "translation": "Bedevilerden öyleleri vardır ki, hayır yolunda yaptığı harcamayı angarya sayar ve başınıza kötü hallerin gelmesini bekler durur. O kötü haller kendi başlarına gelsin! Allah her şeyi çok iyi işitir ve bilir."
+    },
+    {
+      "id": 99,
+      "text": "",
+      "translation": "Bedeviler arasında öyleleri de vardır ki, Allah’a ve ahiret gününe inanır, hayır yolunda harcadıklarını Allah’a yakın olmak ve peygamberin duasını almak için vesile sayar. Bilesiniz ki bunlar kendileri için bir yakınlık vesilesidir. Allah onları rahmetiyle kuşatacaktır. Şüphesiz Allah bağışlayıcıdır, esirgeyicidir."
+    },
+    {
+      "id": 100,
+      "text": "",
+      "translation": "Muhacirlerin ve ensarın ilkleri ile onlara güzelce uyanlardan Allah hoşnut olmuştur, onlar da O’ndan razıdırlar. Onlara, sonsuza dek hep içinde kalmak üzere altından ırmaklar akan cennetler hazırlamıştır. Büyük bahtiyarlık işte budur."
+    },
+    {
+      "id": 101,
+      "text": "",
+      "translation": "Çevrenizdeki bedeviler içinde münafıklar var. Medine ahalisi içinde de iki yüzlülüğü huy edinmiş olanlar var. Sen onları bilmezsin; onları biz biliriz. Onları iki defa cezalandıracağız, ayrıca çok büyük bir azaba itilecekler."
+    },
+    {
+      "id": 102,
+      "text": "",
+      "translation": "Bir başka grup var ki, onlar iyi işe bir de kötü iş karıştırdıktan sonra günahlarını itiraf etmişlerdir. Umulur ki Allah onların tövbesini kabul eder. Şüphesiz Allah çok esirgeyici, çok bağışlayıcıdır."
+    },
+    {
+      "id": 103,
+      "text": "",
+      "translation": "Onları arındırmak ve temize çıkarmak üzere mallarından sadaka al! Bir de onlar için dua et; çünkü senin duan onlara huzur verir. Allah her şeyi çok iyi işitmekte ve bilmektedir."
+    },
+    {
+      "id": 104,
+      "text": "",
+      "translation": "Bilmiyorlar mı ki, kullarının tövbesini kabul eden Allah’tır, sadakaları kabul eden de O’dur. Şüphesiz Allah tövbe kapısını alabildiğine açık tutmaktadır, rahmetiyle her şeyi kuşatmaktadır."
+    },
+    {
+      "id": 105,
+      "text": "",
+      "translation": "De ki: “Durmadan bir şeyler yapın; yaptıklarınızı Allah da, peygamberi de müminler de görecektir. Sonunda, gizliyi de açığı da bilenin huzuruna çıkarılacaksınız ve O size yapmış olduklarınızı haber verecektir.”"
+    },
+    {
+      "id": 106,
+      "text": "",
+      "translation": "Bir diğer grubun durumu ise Allah’ın hükmüne kalmıştır; ya onlara azap edecek veya tövbelerini kabul edecektir. Allah bilen ve hikmetle yönetendir."
+    },
+    {
+      "id": 107,
+      "text": "",
+      "translation": "Bir de şunlar var ki, zararlı eylemler gerçekleştirmek, inkarcılıklarını pekiştirmek, müminlerin arasına ayrılık sokmak ve daha önce Allah ve resulüne savaş açmış kişi lehine fırsat kollamak üzere bir mescid yapmışlardır. “Amacımız sadece iyi bir şey yapmaktı” diye de yemin edecekler. Allah şahit, onlar kesinkes yalancıdırlar."
+    },
+    {
+      "id": 108,
+      "text": "",
+      "translation": "Orada asla namaza durma! Daha ilk günden takva temeli üzerine kurulan mescid ise namaz kılman için elbette daha uygundur; burada gerçekten arınmak isteyen adamlar vardır. Allah da arınmaya çalışanları sever."
+    },
+    {
+      "id": 109,
+      "text": "",
+      "translation": "Binasını Allah’a saygı ve O’nun hoşnutluğunu kazanma temeli üzerine kuran mı daha iyidir yoksa binasını kaymak üzere olan bir uçurumun kenarına kurarak onunla birlikte cehennem ateşine yuvarlanan mı? Allah hakkı çiğneyenleri doğru yola iletmez."
+    },
+    {
+      "id": 110,
+      "text": "",
+      "translation": "Onların kurduğu bina, yürekleri paramparça olmadığı (yaşadıkları) sürece içlerinde bir huzursuzluk kaynağı olmaya devam edecektir. Allah her şeyi bilmekte ve hikmetle yönetmektedir."
+    },
+    {
+      "id": 111,
+      "text": "",
+      "translation": "Allah, kendi yolunda çarpışırken öldüren ve öldürülen müminlerin canlarını ve mallarını, karşılığında cennet vermek üzere satın almıştır. Bu, Allah’ın Tevrat’ta, İncil’de ve Kur’an’da yer almış gerçek bir vaadidir. Kim Allah’tan daha fazla sözüne bağlı olabilir! O halde yaptığınız bu alışverişten ötürü sevinin. İşte büyük bahtiyarlık da budur."
+    },
+    {
+      "id": 112,
+      "text": "",
+      "translation": "O tövbekarlar, ibadet edenler, hamdedenler, dünyada yolcu gibi yaşayanlar, rükua varanlar, secde edenler, iyiliği teşvik edip kötülükten alıkoyanlar, Allah’ın sınırlarını gözetenler; müjdele o müminleri!"
+    },
+    {
+      "id": 113,
+      "text": "",
+      "translation": "Müşriklerin cehennemlik oldukları müminler nezdinde açıklık kazandıktan sonra, akraba bile olsalar peygamber de müminler de onların bağışlanmalarını dileyemezler."
+    },
+    {
+      "id": 114,
+      "text": "",
+      "translation": "İbrahim’in, babasının bağışlanması için yaptığı dua ise sırf ona verdiği bir sözden ötürüydü. Ama onun bir Allah düşmanı olduğu kendisine belli olunca ondan uzaklaştı. İbrahim gerçekten çok duyarlı, yumuşak huylu biriydi."
+    },
+    {
+      "id": 115,
+      "text": "",
+      "translation": "Allah bir topluluğu doğru yola ilettikten sonra, sakınacakları şeylerin neler olduğunu kendilerine açıklamadan, onları yoldan çıkmış sayacak değildir. Kuşkusuz Allah her şeyi en iyi bilmektedir."
+    },
+    {
+      "id": 116,
+      "text": "",
+      "translation": "Bilesiniz ki göklerin de yerin de hükümranlığı Allah’ındır. Yaşatan O’dur, öldüren O’dur. Allah’tan başka sizin için ne bir dost ne bir yardımcı vardır."
+    },
+    {
+      "id": 117,
+      "text": "",
+      "translation": "Şu bir gerçek ki Allah, peygambere ve o sıkıntılı zamanda, içlerinden bir grubun moralleri bozulmaya yüz tuttuktan sonra bile ona bağlılıklarını koruyan muhacirlere ve ensara lütfuyla muamele etti ve sonra da tövbelerini kabul etti. Allah onlara karşı çok şefkatli ve merhametlidir."
+    },
+    {
+      "id": 118,
+      "text": "",
+      "translation": "Allah geriye bırakılan (savaşa katılmayan) üç kişinin de tövbesini kabul etti. Sonunda, bütün genişliğine rağmen yeryüzü onlara dar gelmeye başlamış, vicdanları kendilerini sıkıştırmış ve Allah’a karşı O’ndan başka sığınılacak kimse olmadığını anlamışlardı. Bunun üzerine O da eski durumlarına dönmeleri için onlara tövbe nasip etti. Şüphesiz Allah, tövbeleri kabul edendir, merhametlidir."
+    },
+    {
+      "id": 119,
+      "text": "",
+      "translation": "Ey iman edenler! Allah’a karşı gelmekten sakının ve doğrularla beraber olun."
+    },
+    {
+      "id": 120,
+      "text": "",
+      "translation": "Medine ahalisi ve çevresinde bulunan bedevîler Resulullah’a katılmaktan geri kalamaz ve onu bırakıp kendi canlarının derdine düşemezler. Çünkü onlar Allah yolunda ne zaman bir susuzluk, yorgunluk ve açlığa maruz kalsalar, kafirleri öfkelendirecek biçimde bir yere ayak bassalar veya düşmana karşı bir başarı elde etseler, bunların her biri mutlaka onlar için iyi birer amel olarak yazılır. Allah iyilerin emeğini asla boşa çıkarmaz."
+    },
+    {
+      "id": 121,
+      "text": "",
+      "translation": "Yine, onlar küçük olsun büyük olsun hayır yolunda bir harcama yaptıklarında, bir yol katettiklerinde, bu -Allah’ın onlara, yapmış olduklarından daha güzeliyle karşılık vermesi için- muhakkak onların lehine yazılır."
+    },
+    {
+      "id": 122,
+      "text": "",
+      "translation": "Bununla beraber müminlerin hepsinin toptan savaşa çıkmaları doğru değildir. Onların her kesiminden bir grup dinde yeterli bilgi sahibi olmaya çalışmak ve seferden dönen topluluklarını uyarmak üzere geride kalmalıdır. Umulur ki sakınırlar."
+    },
+    {
+      "id": 123,
+      "text": "",
+      "translation": "Ey iman edenler! İnkarcılardan hemen yakınınızda bulunanlarla savaşın. Onlar sizin çetin gücünüzü görsünler. Biliniz ki Allah, buyruğuna karşı gelmekten sakınanlarla beraberdir."
+    },
+    {
+      "id": 124,
+      "text": "",
+      "translation": "Ne zaman bir sure indirilse, içlerinden “Bu hanginizin imanını arttırdı ki?” diye soranlar çıkar. Ama bu, iman etmiş olanların imanını pekiştirmiştir ve bundan dolayı onlar sevinç içindedirler."
+    },
+    {
+      "id": 125,
+      "text": "",
+      "translation": "Kalplerinde hastalık olanlara gelince, bu onların (manevi) kirlerine kir katmıştır ve onlar inkarcı olarak ölüp gitmişlerdir."
+    },
+    {
+      "id": 126,
+      "text": "",
+      "translation": "Görmüyorlar mı ki her yıl bir veya iki defa musibetlerle sınanıyorlar da yine tövbe etmiyorlar ve ibret almıyorlar."
+    },
+    {
+      "id": 127,
+      "text": "",
+      "translation": "Ne zaman bir sure indirilse, “Sizi biri görüyor mu?” diyerek birbirlerine bakarlar, sonra sıvışıp giderler. Anlamamakta direndikleri için Allah da onların kalplerini haktan çevirmiştir."
+    },
+    {
+      "id": 128,
+      "text": "",
+      "translation": "Andolsun, size içinizden öyle bir peygamber gelmiştir ki, sizin sıkıntıya uğramanız ona ağır gelir, size çok düşkündür, müminlere karşı şefkat ve merhamet doludur."
+    },
+    {
+      "id": 129,
+      "text": "",
+      "translation": "Buna rağmen yüz çevirirlerse de ki: “Allah bana yeter, O’ndan başka ilah yoktur, ben yalnız O’na güvenip dayanırım; O, büyük arşın sahibidir.”"
+    }
+  ]
+}

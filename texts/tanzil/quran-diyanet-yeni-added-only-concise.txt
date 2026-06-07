@@ -1,0 +1,13 @@
+20|68|قُلْنَا لَاتَخَفْ اِنَّكَ اَنْتَ الْاَعْلٰى || INSERTIONS=17:  U+0020 SPACE
+26|129|وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَۚ || INSERTIONS=29:ـ U+0640 ARABIC TATWEEL
+37|2|فَالزَّاجِرَاتِ زَجْرً || INSERTIONS=27:ا U+0627 ARABIC LETTER ALEF, 28:ۙ U+06D9 ARABIC SMALL HIGH LAM ALEF
+37|42|فَوَاكِهُۚ وَهُمْ مُكْرَمُونَۙ || INSERTIONS=11:‌ U+200C ZERO WIDTH NON-JOINER
+52|7|اِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌۙ || INSERTIONS=34:ـ U+0640 ARABIC TATWEEL
+52|8|مَا لَهُ مِنْ دَافِعٍۙ || INSERTIONS=24:ـ U+0640 ARABIC TATWEEL
+56|75|فَلَٓا اُقْسِمُ بِمَوَاقِعِ النُّجُومِۙ || INSERTIONS=31:ـ U+0640 ARABIC TATWEEL
+68|10|وَلَا تُطِعْ كُلَّ حَلَّافٍ مَهٖنٍۙ || INSERTIONS=38:ی U+06CC ARABIC LETTER FARSI YEH
+
+
+Diyanet'in yaptığı 3 kritik harf düzeltmesi 
+(Saffat 2, Taha 68, Kalem 10) eski metin dosyasına uygulandı, 
+diğerleri uygulanmadı.

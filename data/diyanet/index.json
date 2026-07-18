@@ -1,0 +1,1028 @@
+[
+  {
+    "id": 1,
+    "name": "الفاتحة",
+    "translation": "Fâtiha",
+    "transliteration": "fatiha",
+    "nuzul": 5,
+    "description": "Mekke döneminde inmiştir. Yedi âyettir. Kur’an-ı Kerim’in ilk sûresi olduğu için “başlangıç” anlamına “Fâtiha” adını almıştır. Sûrenin ayrıca, “Ümmü’1-Kitab” (Kitab’ın özü) “es-Seb’ul-Mesânî” (Tekrarlanan yedi âyet) , “el-Esâs”,“el-Vâfiye”, “el-Kâfiye”, “el-Kenz”, “eş-Şifâ”, “eş-Şükr” ve “es-Salât” gibi başka adları da vardır. Kur’an’ın içerdiği esaslar öz olarak Fâtiha’da vardır. Zira övgü ve yüceltilmeye lâyık bir tek Allah’ın varlığı, onun hâkimiyeti, tek mabut oluşu, kulluğun ancak O’na yapılıp O’ndan yardım isteneceği, bu sûrede özlü bir şekilde ifade edilir. Fâtiha sûresi, aynı zamanda baştan başa eşsiz güzellikte bir dua, bir yakarıştır.",
+    "total_verses": 7
+  },
+  {
+    "id": 2,
+    "name": "البقرة",
+    "translation": "Bakara",
+    "transliteration": "bakara",
+    "nuzul": 87,
+    "description": "Medine döneminde inmiştir. Kur’an-ı Kerim’in en uzun sûresi olup 286 âyettir. Adını, 67-73. âyetlerde yer alan “bakara (sığır)” kelimesinden alır. Sûre, İslâm hukukunun ana konularıyla ilgili pek çok hüküm içermektedir.",
+    "total_verses": 286
+  },
+  {
+    "id": 3,
+    "name": "آل عمران",
+    "translation": "Âl-i İmrân",
+    "transliteration": "ali imran",
+    "nuzul": 89,
+    "description": "Medine döneinde inmiştir. 200 âyettir. Sûre, adını 33. âyette geçen “Âl-i İmrân” tamlamasından almıştır. Âl-i İmrân, İmran ailesi demektir.",
+    "total_verses": 200
+  },
+  {
+    "id": 4,
+    "name": "النساء",
+    "translation": "Nisâ",
+    "transliteration": "nisa",
+    "nuzul": 92,
+    "description": "Medine döneminde inmiştir. 176 âyettir. Sûre, özellikle kadın haklarından,onların hukûkî ve sosyal konumlarından bahsettiği için bu adı almıştır. “Nisâ” kadınlar demektir.",
+    "total_verses": 176
+  },
+  {
+    "id": 5,
+    "name": "المائدة",
+    "translation": "Mâide",
+    "transliteration": "maide",
+    "nuzul": 112,
+    "description": "Medine döneminde inmiştir. 120 âyettir. Sûre, adını 112. ve 114. âyetlerde yer alan “mâide” (sofra) kelimesinden almıştır. Sûrede başlıca  verilen sözlerin yerine getirilmesi, İsrailoğullarının sözlerinde durmamaları, Hıristiyanların yanlış inançları, dünyaya düşkünlükleri ve yolsuzlukları, müslümanlar için bazı talimat, uyarı ve dinî hükümler konu edilmektedir.",
+    "total_verses": 120
+  },
+  {
+    "id": 6,
+    "name": "الأنعام",
+    "translation": "En'âm",
+    "transliteration": "enam",
+    "nuzul": 55,
+    "description": "Mekke döneminde inmiştir. Kuvvetli görüşe göre, 91, 92, 93, 151, 152 ve 153. âyetler Medine’de inmiştir. 165 âyettir. Adını, 136, 138 ve 139. âyetlerde yer alan “el-En’âm” kelimesinden almıştır. En’âm, koyun, keçi, deve ve sığır cinsi ehli hayvanları ifade eden bir kelimedir. Sûrede başlıca tevhide, adalete, peygamberliğe, ahirete dair meseleler ile küfrün ve batıl inançların reddi ve bazı temel ahlâk kuralları konu edilmektedir.",
+    "total_verses": 165
+  },
+  {
+    "id": 7,
+    "name": "الأعراف",
+    "translation": "A'râf",
+    "transliteration": "araf",
+    "nuzul": 39,
+    "description": "Mekke döneminde inmiştir. 163-170. âyetlerin Medine döneminde indiğini söyleyen âlimler de vardır. 206 âyettir. Sûre, adını 46. ve 48. âyetlerde geçen“el-A’râf ” kelimesinden almıştır. “el-A’râf ”, yüksek yerler, yüksek mevkiler demektir. Sûrede temel konu olarak, ilâhî vahyin doğruluğu ve vahye duyulan ihtiyaç işlenmektedir.",
+    "total_verses": 206
+  },
+  {
+    "id": 8,
+    "name": "الأنفال",
+    "translation": "Enfâl",
+    "transliteration": "enfal",
+    "nuzul": 88,
+    "description": "Medine döneminde hicretin ikinci yılında Bedir savaşından sonra inmiştir.75 âyettir. Sûre, adını ilk ayetteki “el-Enfâl” kelimesinden almıştır. “Enfâl”, savaş ganimetleri demektir. Sûrede başlıca, savaş, özellikle Bedir savaşı sonrası elde edilen ganimetlerle, bunların kimlere ve nasıl pay edileceği konu edilmektedir.",
+    "total_verses": 75
+  },
+  {
+    "id": 9,
+    "name": "التوبة",
+    "translation": "Tevbe",
+    "transliteration": "tevbe",
+    "nuzul": 113,
+    "description": "Son iki âyet hariç Medine döneminde, Peygamber Efendimizin irtihaline yakın bir zamanda inmiştir. 129 âyettir. Sûre, adını Allah’ın kullarının tövbesini kabul edeceğini bildirdiği 104. âyetten almıştır. İlk âyette geçen “berâet” kelimesinden dolayı sûreye Berâe sûresi adı da verilmiştir. Başında besmele olmayan tek sûredir. Sûrenin başına besmelenin yazılmamış oluşunu bazı bilginler, onun bir önceki sûrenin devamı mahiyetinde oluşu ile açıklamışlardır. Sûrede başlıca, yaptıkları antlaşmalara bağlı kalmayan düşmanlarla ilişkilerin kesilmesi, antlaşmalara bağlı kalanlara karşı ise antlaşmalara bağlı kalınmasının gerekliliği  Tebük seferine hazırlık, Tebük seferi öncesi ve dönüşü sırasında münafıkların sergilediği iki yüzlü tavır, ehl-i kitapla ilişkiler, cizye ve zekât hükümleri, çölde yaşayan Arapların Kur’an talimatı karşısındaki tavırları, Kur’an’ın müslümanlar üzerinde oluşturduğu etki ve Hz. Peygamber’in müslümanlar adına duyduğu endişe söz konusu edilmektedir",
+    "total_verses": 129
+  },
+  {
+    "id": 10,
+    "name": "يونس",
+    "translation": "Yûnus",
+    "transliteration": "yunus",
+    "nuzul": 51,
+    "description": "40,94,95 ve 96. âyetler Medine döneminde, diğerleri Mekke döneminde inmiştir.109 âyettir. Sûrede temel konu olarak Allah’ın rahmetinin gazabına üstünolduğu vurgulanmaktadır. Sûrede, Yûnus, Nûh ve Mûsâ peygamberlerile bunların kavimlerinin kıssalarına yer verilmektedir. Sûre, adını içindekiYûnus kıssasından almıştır.",
+    "total_verses": 109
+  },
+  {
+    "id": 11,
+    "name": "هود",
+    "translation": "Hûd",
+    "transliteration": "hud",
+    "nuzul": 52,
+    "description": "Mekke döneminde inmiştir. 123 âyettir. Sûre, adını içinde söz konusu edilen Hûd peygamberden almıştır. Sûre de başlıca tevhit, peygamberlik, öldükten sonra dirilme ve ceza konuları ele alınmakta ve bunlar bazı peygamberlerin kıssalarıyla desteklenmektedir.",
+    "total_verses": 123
+  },
+  {
+    "id": 12,
+    "name": "يوسف",
+    "translation": "Yûsuf",
+    "transliteration": "yusuf",
+    "nuzul": 53,
+    "description": "Mekke döneminde inmiştir. 111 âyettir. Bu sûrede Yûsuf Peygamberin hayatta karşılaştığı sıkıntılar ve bunlara sabrederek nasıl başarıya ulaştığı anlatılmakta ve inananlar için faydalı öğütler, önemli mesajlar verilmektedir. Kur’an’da baştan sona kadar bir tek konuyu anlatan tek sûre budur.",
+    "total_verses": 111
+  },
+  {
+    "id": 13,
+    "name": "الرعد",
+    "translation": "Ra'd",
+    "transliteration": "rad",
+    "nuzul": 96,
+    "description": "Mekke döneminde inmiştir. 43 âyettir. Sûre, adını 13. âyette geçen “Ra’d” kelimesinde nalmıştır. “Ra’d” gök gürültüsü demektir. Sûrede başlıca Allah’ın birliği, peygamberlik, öldükten sonra dirilmek ve hesap ile müşriklerin İslâm hakkında ortaya attıkları şüpheler konu edilmektedir.",
+    "total_verses": 43
+  },
+  {
+    "id": 14,
+    "name": "ابراهيم",
+    "translation": "İbrâhîm",
+    "transliteration": "ibrahim",
+    "nuzul": 72,
+    "description": "Mekke döneminde inmiştir. 52 âyettir. İçinde Hz. İbrahim’den ve ailesinden söz edildiği için bu adı almıştır. Sûre de başlıca imanın temel konuları olan Allah’a iman, peygamberlere iman, öldükten sonra dirilme ve hesap ele alınmaktadır.",
+    "total_verses": 52
+  },
+  {
+    "id": 15,
+    "name": "الحجر",
+    "translation": "Hicr",
+    "transliteration": "hicr",
+    "nuzul": 54,
+    "description": "Mekke döneminde inmiştir. 99 âyettir. Sûre, adını 80. âyette geçen “Hicr” kelimesinden almıştır. Hicr, Medine’nin kuzeyinde vaktiyle Semûd kavminin yaşadığı bir yerin adıdır. Sûre de başlıca Allah’ın birliği, peygamberlik, öldükten sonra dirilme ve hesap konuları  peygamberlerin, çeşitli zamanlarda azgınlara ve inkârcılara karşı verdikleri mücadeleler çerçevesinde ele alınmaktadır. Bu sûre de ayrıca ilâhî kitapların kendisiyle kemale erdiği Kur’an’ın, her türlü tahriften korunacağı hükmü de yer almaktadır.",
+    "total_verses": 99
+  },
+  {
+    "id": 16,
+    "name": "النحل",
+    "translation": "Nahl",
+    "transliteration": "nahl",
+    "nuzul": 70,
+    "description": "Mekke döneminde inmiştir. 128 âyettir. Sûre, adını 68. âyette geçen “en-Nahl” kelimesinden almıştır. “en-Nahl” bal arısı demektir. Sûrede başlıca, kâinatta Allah’ın varlığını ve birliğini gösteren deliller, vahiy, öldükten sonra dirilme gibi konular yer almaktadır",
+    "total_verses": 128
+  },
+  {
+    "id": 17,
+    "name": "الإسراء",
+    "translation": "İsrâ",
+    "transliteration": "isra",
+    "nuzul": 50,
+    "description": "26,32,33 ve 57. âyetler ile 73-80. âyetler Medine döneminde, diğerleri Mekke döneminde inmiştir. 111 âyettir. Sûre, adını ilk âyetin konusu olan “İsrâ” olayından almıştır. “Geceleyin yürütmek” anlamına gelen “İsrâ”, Mîrac yolculuğunda, Hz. Peygamberin bir gece, Mekke’den Kudüs’e götürülmesini ifade eder. Sûrenin diğer bir adı da “Benî İsrâil Sûresi”dir.",
+    "total_verses": 111
+  },
+  {
+    "id": 18,
+    "name": "الكهف",
+    "translation": "Kehf",
+    "transliteration": "kehf",
+    "nuzul": 69,
+    "description": "Mekke döneminde inmiştir. 28. âyetin Medine döneminde indiği de rivayet edilmiştir. 110 âyettir. Sûre, adını  ilk defa dokuzuncu âyette olmak üzere,birkaç yerde geçen “kehf ” kelimesinden almıştır. Kehf, mağara demektir. Sûre de temel konu olarak, inançları sebebiyle öldürülmekten kurtulmak için bir mağaraya sığınan gençlerin mucizevî hâlleri, ayrıca Hz. Mûsâ ile Zülkarneyn konu edilmektedir.",
+    "total_verses": 110
+  },
+  {
+    "id": 19,
+    "name": "مريم",
+    "translation": "Meryem",
+    "transliteration": "meryem",
+    "nuzul": 44,
+    "description": "Mekke döneminde inmiştir. 98 âyettir. Bazı tefsir bilginlerine göre 58 ve 71. âyetler Medine döneminde inmiştir. Sûre, Meryem’in, oğlu İsa’yı nasıl dünyaya getirdiğini anlattığı için bu adla anılmıştır. Sûre de başlıca, tevhit inancını yerleştirmek amacıyla bazı peygamberlerin kıssaları ve kıyamet sahneleri konu edilmektedir.",
+    "total_verses": 98
+  },
+  {
+    "id": 20,
+    "name": "طٰهٰ",
+    "translation": "Tâhâ",
+    "transliteration": "taha",
+    "nuzul": 45,
+    "description": "Mekke döneminde inmiştir. 135 âyettir. Sûre, adını birinci âyette yer alan harflerden almıştır. Sûrede, Allah’ın peygamberler aracılığıyla insanlara gösterdiği doğru yolun temel gerçeklerine işaret edilmekte, Hz.Peygamber teselli edilerek peygamberlik görevini mutlaka en güzel şekilde başaracağı müjdelenip kendisine karşı çıkanların uğrayacağı sonuçlar izah edilmektedir.",
+    "total_verses": 135
+  },
+  {
+    "id": 21,
+    "name": "الأنبياء",
+    "translation": "Enbiyâ",
+    "transliteration": "enbiya",
+    "nuzul": 73,
+    "description": "Mekke döneminde inmiştir. 112 âyettir. “Enbiyâ”, peygamberler demektir.Sûre, temel konu olarak peygamberlerden, onların tevhit davası uğrunda verdikleri mücadelelerden bahsettiği için bu adı almıştır",
+    "total_verses": 112
+  },
+  {
+    "id": 22,
+    "name": "الحج",
+    "translation": "Hac",
+    "transliteration": "hac",
+    "nuzul": 103,
+    "description": "Âyetlerinin çoğu Mekke’de, bir kısmı ise Medine döneminde inmiştir. 78 âyettir. Hac ibadetinden bahsettiği için bu adı almıştır. Sûrede ayrıca kıyamet gününün dehşetinden, kıyamet günü yaşanacak sahnelerden, cihattan ve helâk edilmiş eski toplumlardan söz edilmektedir",
+    "total_verses": 78
+  },
+  {
+    "id": 23,
+    "name": "المؤمنون",
+    "translation": "Mü'minûn",
+    "transliteration": "muminun",
+    "nuzul": 74,
+    "description": "Mekke döneminde inmiştir. 118 âyettir. Sûre, adını birinci âyette geçen “elMü’minûn” kelimesinden almıştır. “el-Mü’minûn”, mü’minler demektir. Müşriklere son uyarı niteliğindeki bu sûrede, mü’minlerin zafere ulaşacakları, kötülerin cezaya çarptırılacağı konu edilmektedir.",
+    "total_verses": 118
+  },
+  {
+    "id": 24,
+    "name": "النور",
+    "translation": "Nûr",
+    "transliteration": "nur",
+    "nuzul": 102,
+    "description": "Medine döneminde inmiştir. 64 âyettir. Adını, 35. âyette geçen “nûr” kelimesinden almıştır. Sûre de başlıca  bireysel ve toplumsal hayatla ilgili çeşitli hüküm ve prensipler, özellikle aile hayatına dair esaslar yer almaktadır.",
+    "total_verses": 64
+  },
+  {
+    "id": 25,
+    "name": "الفرقان",
+    "translation": "Furkân",
+    "transliteration": "furkan",
+    "nuzul": 42,
+    "description": "Mekke döneminde inmiştir. 68-70. âyetlerin Medine döneminde indiği konusunda bir rivayet de vardır. 77 âyettir. Sûre, adını ilk âyette geçen “elFurkân” kelimesinden almaktadır. Furkân, “hak ile batılı birbirinden ayıran”demek olup Kur’an’ın isimlerinden biridir. Sûre de temel konular olarak Hz.Peygamber’in tüm insanlığa gönderildiği, onun tebliğ sırasında karşılaştığı zorluklar ve şirkin kökünün kazınacağı, geçmiş ümmetlerin hayatlarından bazı örnekler de verilerek ele alınmaktadır.",
+    "total_verses": 77
+  },
+  {
+    "id": 26,
+    "name": "الشعراء",
+    "translation": "Şuarâ",
+    "transliteration": "suara",
+    "nuzul": 47,
+    "description": "Mekke döneminde inmiştir. 227 âyettir. Sûre, adını 224. âyette geçen “eş-Şu’arâ” kelimesinden almıştır. “Şu’arâ” şairler demektir. Sûre de başlıca Mûsâ, İbrahim, Nûh, Hûd,Salih ve Şu’ayb peygamberlerin kıssaları dile getirilmekte  müşriklerin, Kur’an’ın vahiy dışı bir kaynağa dayalı olduğu iddialarına karşılık, onun bir vahiy eseri olduğu vurgulanmakta, söz konusu kaynakların Kur’an üzerinde hiçbir etkisinin bulunamayacağı ifade edilmektedir.",
+    "total_verses": 227
+  },
+  {
+    "id": 27,
+    "name": "النمل",
+    "translation": "Neml",
+    "transliteration": "neml",
+    "nuzul": 48,
+    "description": "Mekke döneminde inmiştir. 93 âyettir. Sûre, adını 18. âyette yer alan “enNeml” kelimesinden almaktadır. Neml, karınca demektir. Sûre de başlıca, Süleyman peygamber ve Sebe’ melikesi, Belkıs kıssası ile Salih ve Lût peygamberler konu edilmekte, ayrıca mü’minlerin kurtuluşa ereceği, İslâm karşıtlarının kötü akıbetleri, öldükten sonra dirilmek ve kıyamet dile getirilmektedir.",
+    "total_verses": 93
+  },
+  {
+    "id": 28,
+    "name": "القصص",
+    "translation": "Kasas",
+    "transliteration": "kasas",
+    "nuzul": 49,
+    "description": "Mekke döneminde inmiştir. 88 âyettir. Sûre, adını 25. âyette geçen “el-Kasas” kelimesinden almıştır. Kasas, kıssalar anlamında olup Kur’an’da geçen kıssa ve olaylar için kullanılır. Sûrede başlıca Hz. Mûsâ’nın çocukluğunu, peygamber oluşunu, Musevîleri Mısır’dan çıkarmasını ve Firavun ile ordusunun boğulmasını kapsayan süreç anlatılmaktadır. Ayrıca küfre saplanıp maddî servet ve kudrete bel bağlamanın kötü akıbetini vurgulamak üzere Kârûn kıssasına yer verilmektedir.",
+    "total_verses": 88
+  },
+  {
+    "id": 29,
+    "name": "العنكبوت",
+    "translation": "Ankebût",
+    "transliteration": "ankebut",
+    "nuzul": 85,
+    "description": "Mekke döneminde inmiştir. 69 âyettir. Sûre, adını 41. âyette geçen “elAnkebût” kelimesinden almıştır. Ankebût, örümcek demektir. Sûrede başlıca, Allah’ın birliği, peygamberlik, öldükten sonra dirilme gibi temel inanç konuları ile Nûh, İbrahim, Lût ve Şu’ayb gibi peygamberlerin ibret dolu kıssaları konu edilmektedir. Yine Âd ve Semûd gibi kavimlerle Kârûn ve Hâmân gibi tarihin azgın liderlerinin başlarına gelenlere dikkat çekilmektedir.",
+    "total_verses": 69
+  },
+  {
+    "id": 30,
+    "name": "الروم",
+    "translation": "Rûm",
+    "transliteration": "rum",
+    "nuzul": 84,
+    "description": "Mekke döneminde inmiştir. 60 âyettir. Sûre, adını ikinci âyette geçen “erRûm” kelimesinden almıştır. Sûre de başlıca kıyametin hâllerinden, Allah’ın kudretine ve birliğine delalet eden kevnî meseleler ile Kureyş kabilesinin İslâm’a karşı olumsuz tutumu konu edilmiştir.",
+    "total_verses": 60
+  },
+  {
+    "id": 31,
+    "name": "لقمان",
+    "translation": "Lokmân",
+    "transliteration": "lokman",
+    "nuzul": 57,
+    "description": "Mekke döneminde inmiştir. 34 âyettir. Sûre, adını 12. ve 13. âyetlerde anılan Hz. Lokmân’dan almıştır. Sûrede başlıca, Hz. Lokmân’ın oğluna öğütleri çerçevesinde, tevhid, peygamberlik, öldükten sonra dirilme ve haşr konularına dikkat çekilmekte, kıyamet günü için hazırlıklı olunması öğütlenmektedir.",
+    "total_verses": 34
+  },
+  {
+    "id": 32,
+    "name": "السجدة",
+    "translation": "Secde",
+    "transliteration": "secde",
+    "nuzul": 75,
+    "description": "Mekke döneminde inmiştir. 30 âyettir. Sûre, adını mü’minlerin Allah’a secde etmelerinden bahseden 15. âyetten almıştır. Sûrede ayrıca Allah’ın kudretinden,ahiret gününden, kitaplardan, peygamberlerden ve insanın yaratılışından söz edilmektedir.",
+    "total_verses": 30
+  },
+  {
+    "id": 33,
+    "name": "الأحزاب",
+    "translation": "Ahzâb",
+    "transliteration": "ahzab",
+    "nuzul": 90,
+    "description": "Medine döneminde inmiştir. 73 âyettir. Sûre, adını 20 ve 22. âyetlerde geçen “el-Ahzâb” kelimesinden almıştır. Ahzâb, gruplar, demektir. Sûrede başlıca Hendek ve Benî Kureyza savaşları ile aile hayatına dair bazı hükümler konu edilmektedir.",
+    "total_verses": 73
+  },
+  {
+    "id": 34,
+    "name": "سبإ",
+    "translation": "Sebe'",
+    "transliteration": "sebe",
+    "nuzul": 58,
+    "description": "Mekke döneminde inmiştir. 54 âyettir. Sûre, adını 15. âyette geçen “Sebe’ ” kelimesinden almıştır.  Sûre de başlıca müşriklerin ahireti inkâr etmeleri, Davûd ve Süleyman Peygamberlerin kıssaları ve müşriklerin Hz. Muhammed’in peygamberliğihakkındaki bazı şüpheleri konu edilmektedir.",
+    "total_verses": 54
+  },
+  {
+    "id": 35,
+    "name": "فاطر",
+    "translation": "Fâtır",
+    "transliteration": "fatir",
+    "nuzul": 43,
+    "description": "Mekke döneminde inmiştir. 45 âyettir. Sûre, adını birinci âyette geçen “Fâtır” kelimesinden almıştır. Fâtır, yaratan, yoktan var eden demektir. Yine ilk âyette geçen “el-Melâike” kelimesinden dolayı “Melâike sûresi” diye de anılır. Sûrede başlıca, Allah’ın varlığına ve birliğine işaret eden kâinat olayları, öldükten sonra dirilme, Allah’ın nimetleri ve mü’minle kâfir arasındaki fark konu edilmektedir.",
+    "total_verses": 45
+  },
+  {
+    "id": 36,
+    "name": "يس",
+    "translation": "Yâsîn",
+    "transliteration": "yasin",
+    "nuzul": 41,
+    "description": "Mekke döneminde inmiştir. 83 âyettir. Sûre, adını ilk âyeti oluşturan “Yâ-Sîn” harflerinden almıştır. Sûrede başlıca insanın ahlâkî sorumlulukları, vahiy, Hz. Peygamber’i yalanlayan Kureyş kabilesi, Antakya halkına gönderilen peygamberler, Allah’ın birliğini ve kudretini gösteren deliller, öldükten sonra dirilme,hesap ve ceza konu edilmektedir.",
+    "total_verses": 83
+  },
+  {
+    "id": 37,
+    "name": "الصافات",
+    "translation": "Sâffât",
+    "transliteration": "saffat",
+    "nuzul": 56,
+    "description": "Mekke döneminde inmiştir. 182 âyettir. Sûre, adını ilk âyette geçen “es-Sâffât” kelimesinden almıştır. Sâffât, sıra sıra dizilenler, saf saf duranlar demektir. Sûrede başlıca, meleklerden, cinlerden, kıyamet ve ahiret olaylarından söz edilmekte  Nûh, İbrahim, İsmail, İshak, Mûsâ, Hârun, İlyas, Lût ve Yûnus Peygamberlerin kıssalarına yer verilmektedir.",
+    "total_verses": 182
+  },
+  {
+    "id": 38,
+    "name": "ص",
+    "translation": "Sâd",
+    "transliteration": "sad",
+    "nuzul": 38,
+    "description": "Mekke döneminde inmiştir. 88 âyettir. Sûre, adını birinci âyetteki “Sâd” harfinden almıştır. Sûrede başlıca, Allah’ın birliği, müşriklerin inkârları ve sapıklıkları sebebiyle azabı hak etmiş oldukları, Davûd, Süleyman, Eyyüp, İbrahim, İshak, İsmail, el-Yesa’ ve Zülkifl Peygamberlerin kıssaları, Davûd Peygamberin hakemliği ve Hz. Peygamberin temel görevi konu edilmektedir.",
+    "total_verses": 88
+  },
+  {
+    "id": 39,
+    "name": "الزمر",
+    "translation": "Zümer",
+    "transliteration": "zumer",
+    "nuzul": 59,
+    "description": "Mekke döneminde inmiştir. 75 âyettir. Sûre, adını 71 ve 73. âyetlerde geçen “Zümer” kelimesinden almıştır. Zümer  zümreler, gruplar demektir. Sûrede başlıca, göklerde ve yerde Allah’ın birliğini gösteren deliller, mü’minlerin cennete, kâfirlerin cehenneme sevk edilecekleri konu edilmekte  kullar, ölüm gelip çatmadan Allah’a yönelmeye çağrılmaktadır.",
+    "total_verses": 75
+  },
+  {
+    "id": 40,
+    "name": "الْمُؤْمِن",
+    "translation": "Mü'min",
+    "transliteration": "mumin",
+    "nuzul": 60,
+    "description": "56 ve 57. âyetler hariç Mekke döneminde inmiştir. 85 âyettir. Sûre, adını 28.âyette geçen “mü’min” kelimesinden almıştır. Mü’min inanan kimse demektir. Âyette sözü edilen mü’min, Firavun ailesinin  gizlice iman eden ve çevresindekileri hakka yönlendirmeye çalışan bir ferdidir. Ayrıca sûre, Allah’ın sıfatlarından biri olan ve 3. âyette geçen “ğâfir” kelimesinden dolayı “Ğâfîr sûresi” diye de anılmaktadır. “Ğâfir”, bağışlayan demektir. Sûrede başlıca, Allah’ın birliğini gösteren bazı delillere yer verilerek kıyametle ilgili tasvirler yapılmaktadır.",
+    "total_verses": 85
+  },
+  {
+    "id": 41,
+    "name": "فصلت",
+    "translation": "Fussilet",
+    "transliteration": "fussilet",
+    "nuzul": 61,
+    "description": "Mekke döneminde inmiştir. 54 âyettir. Sûre, adını üçüncü âyette geçen ve Kur’an âyetlerini niteleyen “fussilet” ifadesinden almıştır. “Fussilet”, “genişçe açıklandı” demektir. Sûre, ayrıca “Hâ Mîm es-Secde” diye de anılır. Sûrede başlıca hakka davet, batılda ısrar edenlerin uyarılması, vahyin insanlar üzerindeki ahlâkî ve manevî etkileri konu edilmektedir.",
+    "total_verses": 54
+  },
+  {
+    "id": 42,
+    "name": "الشورى",
+    "translation": "Şûrâ",
+    "transliteration": "sura",
+    "nuzul": 62,
+    "description": "Mekke döneminde inmiştir. 53 âyettir. Sûre, adını 38. âyette geçen “Şûrâ” kelimesinden almıştır. Şûrâ, danışma demektir. Sûrede başlıca müslümanların işlerini kendi aralarında danışma yoluyla yürüttükleri, ayrıca kâinatta Allah’ın birliğini gösteren deliller ve kıyamet gününün hâlleri konu edilmektedir",
+    "total_verses": 53
+  },
+  {
+    "id": 43,
+    "name": "الزخرف",
+    "translation": "Zuhruf",
+    "transliteration": "zuhruf",
+    "nuzul": 63,
+    "description": "Mekke döneminde inmiştir. 89 âyettir. Sûre, adını 35. âyette geçen “Zuhruf ” kelimesinden almaktadır. Zuhruf  yaldız, mücevher, dünya hayatının geçici menfaati anlamlarına gelir. Sûrede başlıca tevhit, iman ve vahyin getirdiği hakikatler ile insanların bu hakikatlere ters düşecek şekilde sırf geçici dünya menfaatlerine bağlanarak sergiledikleri çelişki vurgulanmakta, batıla karşı çıkan ve hakkı tutan şahsiyetler olarak İbrahim, Mûsâ ve İsa Peygamberlerden söz edilmektedir.",
+    "total_verses": 89
+  },
+  {
+    "id": 44,
+    "name": "الدخان",
+    "translation": "Duhân",
+    "transliteration": "duhan",
+    "nuzul": 64,
+    "description": "Mekke döneminde inmiştir. 59 âyettir. Sûre, adını onuncu âyette geçen “duhân” kelimesinden almıştır. Duhan, duman demektir. Sûrede başlıca, Kur’an’ın indirilişi, müşriklerin ona karşı tutumu, Firavun ve halkının başlarına gelen azaplar, Kureyş’in Hz. Peygamberi yalanlaması, iyilerin ve kötülerin karşılaşacakları akıbet konu edilmektedir.",
+    "total_verses": 59
+  },
+  {
+    "id": 45,
+    "name": "الجاثية",
+    "translation": "Câsiye",
+    "transliteration": "casiye",
+    "nuzul": 65,
+    "description": "Mekke döneminde inmiştir. 37 âyettir. Sûre, adını 28. âyette geçen “Câsiye” kelimesinden almıştır. Câsiye, diz üstü çöken demektir. Sûrede başlıca, Kur’an’ın indirilmesi, dış âlemde Allah’ın varlığını ve birliğini gösteren deliller, Allah’ın kullarına bahşettiği nimetler, İsrailoğullarının kendilerine verilen nimetlere inkâr ve isyanla karşılık vermeleri konu edilmektedir.",
+    "total_verses": 37
+  },
+  {
+    "id": 46,
+    "name": "الأحقاف",
+    "translation": "Ahkâf",
+    "transliteration": "ahkaf",
+    "nuzul": 66,
+    "description": "Mekke döneminde inmiştir. 35 âyettir. Sûre, adını 21. âyette geçen “Ahkâf ” kelimesinden almıştır. Ahkâf, sûrede sözü edilen “Âd” kavminin yaşadığı Yemen’de bir bölgenin adı olup, uzun ve kıvrımlı kum yığınları demektir. Konusu itibariyle bir önceki sûrenin devamı niteliğindedir.",
+    "total_verses": 35
+  },
+  {
+    "id": 47,
+    "name": "محمد",
+    "translation": "Muhammed",
+    "transliteration": "muhammed",
+    "nuzul": 95,
+    "description": "Medine döneminde inmiştir. 38 âyettir. Sûre, adını Peygamber Efendimizin,ikinci âyette geçen adından almıştır. Sûre, ayrıca yirminci âyette geçen “elKıtâl” kelimesinden dolayı “Kıtâl sûresi”, diye de anılmaktadır. Sûrede temel konu cihad olmak üzere başlıca, savaş, esirler, ganimetler ve münafıkların durumu konu edilmektedir.",
+    "total_verses": 38
+  },
+  {
+    "id": 48,
+    "name": "الفتح",
+    "translation": "Fetih",
+    "transliteration": "feth",
+    "nuzul": 111,
+    "description": "Medine döneminde inmiştir. 29 âyettir. Sûre, adını 1, 18 ve 27. âyetlerde geçen “fetih” kelimesinden almıştır. Sûre de başlıca, hicretin altıncı yılında Hz.Peygamber ile Mekke’li müşrikler arasında gerçekleşen Hudeybiye antlaşması, cihad, savaştan geri kalan münafıklar ve Mekke’nin fethedileceği müjdesi konu edilmektedir.",
+    "total_verses": 29
+  },
+  {
+    "id": 49,
+    "name": "الحجرات",
+    "translation": "Hucurât",
+    "transliteration": "hucurat",
+    "nuzul": 106,
+    "description": "Medine döneminde inmiştir. 18 âyettir. Sûre, adını dördüncü âyette geçen “Hucurât” kelimesinden almıştır. Hucurât odalar demektir. Burada Hz.Peygamber’in aile efradıyla birlikte ikamet ettiği odalar kastedilmektedir. Sûrede başlıca, mü’minlerin, gerek Hz. Peygambere karşı, gerek kendi aralarında uymaları gereken bazı görgü ve ahlâk kuralları konu edilmektedir.",
+    "total_verses": 18
+  },
+  {
+    "id": 50,
+    "name": "قۤ",
+    "translation": "Kâf",
+    "transliteration": "kaf",
+    "nuzul": 34,
+    "description": "Mekke döneminde inmiştir. 45 âyettir. Sûre, adını başındaki “Kâf ” harfindenalmıştır. Sûrede başlıca İslâm inancının temel esasları çerçevesinde, Allah’ın birliğinin delilleri, Peygamberlik, öldükten sonra dirilme ve geçmişteki inkârcı milletlerin başlarına gelen felaketler, uğradıkları azaplar konu edilmektedir.",
+    "total_verses": 45
+  },
+  {
+    "id": 51,
+    "name": "الذاريات",
+    "translation": "Zâriyât",
+    "transliteration": "zariyat",
+    "nuzul": 67,
+    "description": "Mekke döneminde inmiştir. 60 âyettir. Sûre, adını ilk âyette geçen “ez-zâriyât” kelimesinden almıştır. Zâriyât, esip savuran rüzgârlar demektir. Sûrede başlıca, öldükten sonra hesap için toplanma, inkârcıların ahirette karşılaşacakları azap, mü’minlere verilecek mükâfatlar, Allah’ın varlığını ve birliğini gösteren kevni deliller konu edilmektedir.",
+    "total_verses": 60
+  },
+  {
+    "id": 52,
+    "name": "الطور",
+    "translation": "Tûr",
+    "transliteration": "tur",
+    "nuzul": 76,
+    "description": "Mekke döneminde inmiştir. 49 âyettir. Sûre, adını birinci âyette geçen “etTûr” kelimesinden almıştır. Tûr, dağ demektir. Burada Hz. Mûsâ’ya ilk vahyin geldiği, Sina Yarımadası’nın güneyindeki Sina dağı kastedilmektedir. Sûrede başlıca, ahiret hâlleri, kâfirlerin karşılaşacakları ceza, mü’minlerin mükâfatları konu edilmekte ve müşriklerin Hz. Peygamber hakkındaki batıl iddiaları reddedilmektedir.",
+    "total_verses": 49
+  },
+  {
+    "id": 53,
+    "name": "النجم",
+    "translation": "Necm",
+    "transliteration": "necm",
+    "nuzul": 23,
+    "description": "Mekke döneminde inmiştir. 62 âyettir. Sûre, adını ilk âyetin başındaki “en-Necm” kelimesinden almıştır. Necm, yıldız demektir. Sûrede başlıca, Kur’an’ın vahiy eseri olduğu vurgulanmakta, herkesin yaptığının karşılığını göreceği, Allah’ın kudretinin delilleri konu edilmektedir.",
+    "total_verses": 62
+  },
+  {
+    "id": 54,
+    "name": "القمر",
+    "translation": "Kamer",
+    "transliteration": "kamer",
+    "nuzul": 37,
+    "description": "Mekke döneminde inmiştir. 55 âyettir. Sûre, adını ilk âyette geçen “el-Kamer” kelimesinden almıştır. Kamer, ay demektir. Sûre de ana fikir olarak, Kur’an’ı yalanlayanlar, çeşitli azap ve helâk örnekleri de verilerek uyarılmaktadır.",
+    "total_verses": 55
+  },
+  {
+    "id": 55,
+    "name": "الرحمن",
+    "translation": "Rahmân",
+    "transliteration": "rahman",
+    "nuzul": 97,
+    "description": "Mekke döneminde inmiştir. 78 âyettir. Sûre, adını ilk âyeti oluşturan ve Allah’ın sıfatlarından biri olan “er-Rahmân” kelimesinden almıştır. Sûrede başlıca, Allah’ın nimetleri, birliğini ve kudretini gösteren kâinat delilleri ve günahkârların kıyamette karşılaşacakları korku ve şiddet konu edilmektedir.",
+    "total_verses": 78
+  },
+  {
+    "id": 56,
+    "name": "الواقعة",
+    "translation": "Vâkıa",
+    "transliteration": "vakia",
+    "nuzul": 46,
+    "description": "Mekke döneminde inmiştir. 96 âyettir. Sûre, adını birinci âyette geçen “elvâkı’a” kelimesinden almıştır. Vâkı’a, gerçekleşen, meydana gelen olay demektir. Burada kıyameti ifade etmektedir. Sûrede başlıca, kıyametin kopmasından önceki ve sonraki dehşetli hâller ve insanların amellerine göre içinde yer alacağı gruplar konu edilmektedir.",
+    "total_verses": 96
+  },
+  {
+    "id": 57,
+    "name": "الحديد",
+    "translation": "Hadîd",
+    "transliteration": "hadid",
+    "nuzul": 94,
+    "description": "Medine döneminde inmiştir. 29 âyettir. Sûre, adını 25. âyette geçen “elHadîd” kelimesinden almıştır. Hadîd, demir demektir. Sûrede başlıca, tüm kâinatın Allah’a ait olduğu ve kâinatta dilediği gibi tasarruf edeceği, Allah’ın dinini yüceltmek için can ve mal ile mücadelenin gerekliliği, dünya hayatının geçiciliği ve aldatıcılığı konu edilmektedir.",
+    "total_verses": 29
+  },
+  {
+    "id": 58,
+    "name": "المجادلة",
+    "translation": "Mücâdele",
+    "transliteration": "mucadele",
+    "nuzul": 105,
+    "description": "Medine döneminde inmiştir. 22 âyettir. Sûre, adını ilk âyette sözü edilen olaydan almıştır. “Mücâdele”, münakaşa etmek, tartışmak demektir. Bir adamın “zıhâr” yaptığı kar ısı, Hz. Peygambere gelerek onu şikâyet etmiş ve Hz. Peygamberle de tartışmıştı. Sûrede başlıca, zıhar, zıhar keffareti gibi bazı dînî hükümler ile birtakım görgü kuralları ve mü’minlerin inanmayanlara karşı takınmaları gereken tavır konu edilmektedir.",
+    "total_verses": 22
+  },
+  {
+    "id": 59,
+    "name": "الحشر",
+    "translation": "Haşr",
+    "transliteration": "hasr",
+    "nuzul": 101,
+    "description": "Medine döneminde inmiştir. 24 âyettir. Sûre, adını ikinci ayette geçen “elHaşr” kelimesinden almıştır. Haşr, toplamak demektir. Sûrede başlıca,Medine’de yaşamakta olan ve Hz.Peygamberle yaptıkları antlaşmaya ihanet ederek İslâm toplumunu ortadan kaldırmak üzere Mekkeli müşriklerle ittifak yapan Nadîroğulları’nın Medine’den topluca sürülmesi hadisesi ile Yahudilerle antlaşma yapan münafıklar konu edilmektedir.",
+    "total_verses": 24
+  },
+  {
+    "id": 60,
+    "name": "الممتحنة",
+    "translation": "Mümtehine",
+    "transliteration": "mumtehine",
+    "nuzul": 91,
+    "description": "Medine döneminde inmiştir. 13 âyettir. Onuncu âyette, Hudeybiye antlaşmasından sonra müşrikler arasından çıkıp Medine’ye gelen ve müslüman olduklarını söyleyen kadınların imtihan edilmeleri emredildiği için sûreye mecazen,“imtihan eden” anlamında “mümtehine” denmiştir. Sûrede başlıca, Allah için sevmek, Allah için buğz etmek ve müslümanlarla kâfirler arasındaki ilişkilere dair bazı uyarılar konu edilmektedir",
+    "total_verses": 13
+  },
+  {
+    "id": 61,
+    "name": "الصف",
+    "translation": "Saf",
+    "transliteration": "saff",
+    "nuzul": 109,
+    "description": "Medine döneminde inmiştir. 14 âyettir. Sûre, adını 4. âyette geçen “saff ” kelimesinden almıştır. Saff, sıra, dizi demektir. Sûrede başlıca, Allah yolunda cihadın fazileti konu edilmektedir.",
+    "total_verses": 14
+  },
+  {
+    "id": 62,
+    "name": "الجمعة",
+    "translation": "Cuma",
+    "transliteration": "cuma",
+    "nuzul": 110,
+    "description": "Medine döneminde inmiştir. 11 âyettir. Sûre, adını 9. âyette geçen “elCumu’a”kelimesinden almıştır. Sûrede başlıca, Hz. Muhammed’in peygamberolarak gönderilişi, Yahudilerin Allah’ın dininden yan çizmeleri ve Cumanamazı ile ilgili bazı hükümler konu edilmektedir.",
+    "total_verses": 11
+  },
+  {
+    "id": 63,
+    "name": "المنافقون",
+    "translation": "Münâfikûn",
+    "transliteration": "munafikun",
+    "nuzul": 104,
+    "description": "Medine döneminde inmiştir. 11 âyettir. Sûre, münafıkların genel karakter veözelliklerinden bahsettiği için bu adı almıştır.",
+    "total_verses": 11
+  },
+  {
+    "id": 64,
+    "name": "التغابن",
+    "translation": "Tegâbün",
+    "transliteration": "tegabun",
+    "nuzul": 108,
+    "description": "Medine döneminde inmiştir. 18 âyettir. Sûre, adını 9. âyette geçen “etTeğâbun”kelimesinden almıştır. Teğâbun, aldanma demektir. İnanmayanlarınaldanışları, Kıyamet gününde açıkça ortaya çıkacağı için bugüne“Yevmü’t-Teğâbun (aldanma günü)” denmiştir. Sûrede, başlıca mü’min olsun,kâfir olsun herkesin eksiklik ve kusurlarının kıyamet günü açığa çıkacağı konu edilmektedir.",
+    "total_verses": 18
+  },
+  {
+    "id": 65,
+    "name": "الطلاق",
+    "translation": "Talâk",
+    "transliteration": "talak",
+    "nuzul": 99,
+    "description": "Medine döneminde inmiştir. 12 âyettir. Sûre, adını işlediği konudan almıştır. “Talâk“ boşamak demektir. Sûrede talâk ile ilgili diğer bazı hükümler konuedilmektedir.",
+    "total_verses": 12
+  },
+  {
+    "id": 66,
+    "name": "التحريم",
+    "translation": "Tahrîm",
+    "transliteration": "tahrim",
+    "nuzul": 107,
+    "description": "Medine döneminde inmiştir. 12 âyettir. Sûre, adını Hz. Peygamber’in, helâlolan bir şeyi kendisine haram kıldığından söz eden ve “Tahrîm Âyeti” diyeadlandırılan birinci âyetten almıştır. Tahrîm, haram kılmak demektir. Sûredebaşlıca, Hz. Peygamber’in eşleriyle olan bazı münasebetleri ile, mutlu bir aileyuvasının oluşturulmasının temel prensipleri konu edilmektedir.",
+    "total_verses": 12
+  },
+  {
+    "id": 67,
+    "name": "الملك",
+    "translation": "Mülk",
+    "transliteration": "mulk",
+    "nuzul": 77,
+    "description": "Mekke döneminde inmiştir. 30 âyettir. Sûre, adını birinci âyette geçen “elMülk”kelimesinden almıştır. Sûrede başlıca, Allah’ın azameti, Allah’ın birliğinindelilleri ve öldükten sonra dirilmeyi inkâr edenlerin akıbetleri konuedilmektedir",
+    "total_verses": 30
+  },
+  {
+    "id": 68,
+    "name": "القلم",
+    "translation": "Kalem",
+    "transliteration": "kalem",
+    "nuzul": 2,
+    "description": "Mekke döneminde inmiştir. 52 âyettir. Sûre, adını birinci âyette geçen “elKalem”kelimesinden almıştır. “Nûn” sûresi diye de anılır. Sûrede başlıca, Hz.Muhammed’in peygamberliğinin ispatı ve mü’minler ile kâfirlerin akıbetlerikonu edilmiştir.",
+    "total_verses": 52
+  },
+  {
+    "id": 69,
+    "name": "الحاقة",
+    "translation": "Hâkka",
+    "transliteration": "hakka",
+    "nuzul": 78,
+    "description": "Mekke döneminde inmiştir. 52 âyettir. Sûre, adını birinci âyeti oluşturan“el-Hâkka” kelimesinden almıştır. Hâkka, mutlaka gerçekleşecek olan kıyametdemektir. Sûrede başlıca, Kıyameti inkâr edenlerin görecekleri cezalarve mü’minler ile kâfirlerin dehşetli Kıyamet günündeki hâlleri konu edilmektedir.",
+    "total_verses": 52
+  },
+  {
+    "id": 70,
+    "name": "المعارج",
+    "translation": "Meâric",
+    "transliteration": "mearic",
+    "nuzul": 79,
+    "description": "Mekke döneminde inmiştir. 44 âyettir. Sûre, adını üçüncü âyetteki “elMe’âric”kelimesinden almıştır. Me’âric, yükselme yolları demektir. Sûredebaşlıca, Mekke müşriklerinin inkâr, inat ve azgınlıkları, insan tabiatının bazıyönleri, ölüm ötesi hayatın gerçekliği konu edilmektedir",
+    "total_verses": 44
+  },
+  {
+    "id": 71,
+    "name": "نوح",
+    "translation": "Nûh",
+    "transliteration": "nuh",
+    "nuzul": 71,
+    "description": "Mekke döneminde inmiştir. 28 âyettir. Sûrede başlıca, Nûh peygamberin mücadeleleri ve Nûh Tufanı konu edilmektedir. Sûre, adını konusundan almıştır.",
+    "total_verses": 28
+  },
+  {
+    "id": 72,
+    "name": "الجن",
+    "translation": "Cin",
+    "transliteration": "cin",
+    "nuzul": 40,
+    "description": "Mekke döneminde inmiştir. 28 âyettir. Ağırlıklı olarak cinlerden bahsettiğiiçin “Cin sûresi” adını almıştır. Sûrede ayrıca tevhit, peygamberlik ve öldüktensonra dirilmek gibi meseleler konu edilmektedir.",
+    "total_verses": 28
+  },
+  {
+    "id": 73,
+    "name": "المزمل",
+    "translation": "Müzzemmil",
+    "transliteration": "muzzemmil",
+    "nuzul": 3,
+    "description": "Mekke döneminde inmiştir. 20 âyettir. Sûre, adını birinci âyette geçen “elMüzzemmil”kelimesinden almıştır. Müzzemmil, örtünüp bürünen demektir.Sûrede başlıca, Hz. Peygamberin ibadet ve taat hayatı konu edilmiştir.",
+    "total_verses": 20
+  },
+  {
+    "id": 74,
+    "name": "المدثر",
+    "translation": "Müddessir",
+    "transliteration": "muddessir",
+    "nuzul": 4,
+    "description": "Mekke döneminde inmiştir. 56 âyettir. Sûre, adını birinci âyette geçen “elMüddessir”kelimesinden almıştır. Müddessir, tıpkı bir önceki sûrenin adıolan müzzemmil gibi, örtünüp bürünen demektir. Sûrede başlıca, Hz. Peygamberintebliğ ve davetle görevlendirilmesi, müşriklerin ona karşı çıkmasıve onların cehennemle uyarılması konu edilmektedir.",
+    "total_verses": 56
+  },
+  {
+    "id": 75,
+    "name": "القيامة",
+    "translation": "Kıyâmet",
+    "transliteration": "kiyame",
+    "nuzul": 31,
+    "description": "Mekke döneminde inmiştir. 40 âyettir. Sûre, adını birinci âyetteki “el-Kıyâme”kelimesinden almıştır. Sûrede başlıca, öldükten sonra dirilme ve ceza, ölümsırasında insanın durumu ve kâfirlerin ahirette karşılaşacağı zorluklar konuedilmektedir",
+    "total_verses": 40
+  },
+  {
+    "id": 76,
+    "name": "الانسان",
+    "translation": "İnsân",
+    "transliteration": "insan",
+    "nuzul": 98,
+    "description": "Medine döneminde inmiştir. 31 âyettir. Sûre, adını birinci âyetteki “insan” kelimesindenalmıştır. Aynı âyette geçen “ed-Dehr” kelimesinden dolayı Dehrsûresi diye de anılır. Dehr, zaman demektir. Sûrede başlıca, ahiret hayatıyla ilgilimeseleler ve özellikle takva sahiplerinin cennette kavuşacakları çeşitli nimetlerkonu edilmektedir.",
+    "total_verses": 31
+  },
+  {
+    "id": 77,
+    "name": "المرسلات",
+    "translation": "Mürselât",
+    "transliteration": "murselat",
+    "nuzul": 33,
+    "description": "Mekke döneminde inmiştir. 50 âyettir. Sûre, adını birinci âyette geçen “elMürselât”kelimesinden almıştır. Mürselât, gönderilenler demektir. Sûredebaşlıca, kıyametin, hesap ve azabın gerçekleşeceği, Allah’ın kudreti vegünahkârların akıbeti konu edilmektedir.",
+    "total_verses": 50
+  },
+  {
+    "id": 78,
+    "name": "النبإ",
+    "translation": "Nebe",
+    "transliteration": "nebe",
+    "nuzul": 80,
+    "description": "Mekke döneminde inmiştir. 40 âyettir. Sûre, adını ikinci âyette geçen “enNebe’”kelimesinden almıştır. Nebe’, haber demektir. Sûrede, ölüm ötesi hayatınvarlığını ispat çerçevesinde, kıyamet, öldükten sonra dirilme ve hesap için toplanma konularına yer verilmektedir.",
+    "total_verses": 40
+  },
+  {
+    "id": 79,
+    "name": "النازعات",
+    "translation": "Naziât",
+    "transliteration": "naziat",
+    "nuzul": 81,
+    "description": "Mekke döneminde inmiştir. 46 âyettir. Sûre, adını birinci âyetteki “en-Nâzi’ât”kelimesinden almıştır. Nâzi’ât burada, “ruhları çekip alan melekler” demektir.Sûrede başlıca, tevhit, peygamberlik, öldükten sonra dirilme ve hesap konuedilmektedir.",
+    "total_verses": 46
+  },
+  {
+    "id": 80,
+    "name": "عبس",
+    "translation": "Abese",
+    "transliteration": "abese",
+    "nuzul": 24,
+    "description": "Mekke döneminde inmiştir. 42 âyettir. Sûre, adını birinci âyetteki “abese” fiilindenalmıştır. “Abese”, “yüzünü ekşitti” demektir. Sûrede başlıca, itikat, peygamberlik,Allah’ın kudreti ve kıyamet hâlleri konu edilmektedir",
+    "total_verses": 42
+  },
+  {
+    "id": 81,
+    "name": "التكوير",
+    "translation": "Tekvîr",
+    "transliteration": "tekvir",
+    "nuzul": 7,
+    "description": "Mekke döneminde inmiştir. 29 âyettir. Sûre, adını birinci âyette geçen “küvviret”fiilinin mastarından almıştır. Tekvîr, dürmek demektir. Sûrede başlıca, kıyamet, vahiy ve peygamberlik konuları ele alınmaktadır.",
+    "total_verses": 29
+  },
+  {
+    "id": 82,
+    "name": "الإنفطار",
+    "translation": "İnfitâr",
+    "transliteration": "infitar",
+    "nuzul": 82,
+    "description": "Mekke döneminde inmiştir. 19 âyettir. Sûre, adını birinci âyetteki “infetarat”fiilinin mastarından almıştır. İnfitâr, yarılmak demektir.",
+    "total_verses": 19
+  },
+  {
+    "id": 83,
+    "name": "المطففين",
+    "translation": "Mutaffifîn",
+    "transliteration": "mutaffifin",
+    "nuzul": 86,
+    "description": "Mekke döneminde inmiştir. 36 âyettir. Sûre, adını ilk âyette geçen “elMutaffifîn”kelimesinden almıştır. Mutaffifîn, ölçüde ve tartıda hile yapanlardemektir.",
+    "total_verses": 36
+  },
+  {
+    "id": 84,
+    "name": "الإنشقاق",
+    "translation": "İnşikâk",
+    "transliteration": "insikak",
+    "nuzul": 83,
+    "description": "Mekke döneminde inmiştir. 25 âyettir. Sûre, adını birinci âyette geçen “inşakka” fiilinin mastarı olan “İnşikâk” kelimesinden almıştır. İnşikâk, yarılmakdemektir",
+    "total_verses": 25
+  },
+  {
+    "id": 85,
+    "name": "البروج",
+    "translation": "Burûc",
+    "transliteration": "buruc",
+    "nuzul": 27,
+    "description": "Mekke döneminde inmiştir. 22 âyettir. Sûre, adını birinci âyetteki “el-Bürûc”kelimesinden almıştır. Bürûc, burçlar demektir.",
+    "total_verses": 22
+  },
+  {
+    "id": 86,
+    "name": "الطارق",
+    "translation": "Târık",
+    "transliteration": "tarik",
+    "nuzul": 36,
+    "description": "Mekke döneminde inmiştir. 17 âyettir. Sûre, adını birinci âyetteki “et-Târık”kelimesinden almıştır. Târık, şiddetle çarpan, vuran, gece gelen şey demektir.",
+    "total_verses": 17
+  },
+  {
+    "id": 87,
+    "name": "الأعلى",
+    "translation": "A'lâ",
+    "transliteration": "ala",
+    "nuzul": 8,
+    "description": "Mekke döneminde inmiştir. 19 âyettir. Sûre, adını birinci âyette yer alan ve AllahTeâlâ’yı niteleyen “el-A’lâ” kelimesinden almıştır. A’lâ, en yüce demektir.",
+    "total_verses": 19
+  },
+  {
+    "id": 88,
+    "name": "الغاشية",
+    "translation": "Gâşiye",
+    "transliteration": "gasiye",
+    "nuzul": 68,
+    "description": "Mekke döneminde inmiştir. 26 âyettir. Sûre, adını birinci âyetteki “el-Gâşiye”kelimesinden almıştır. Ğâşiye, kaplayıp bürüyen demektir.",
+    "total_verses": 26
+  },
+  {
+    "id": 89,
+    "name": "الفجر",
+    "translation": "Fecr",
+    "transliteration": "fecr",
+    "nuzul": 10,
+    "description": "Mekke döneminde inmiştir. 30 âyettir. Sûre, adını birinci âyetteki “el-Fecr”kelimesinden almıştır. Fecr, tan yerinin ağarması vakti demektir",
+    "total_verses": 30
+  },
+  {
+    "id": 90,
+    "name": "البلد",
+    "translation": "Beled",
+    "transliteration": "beled",
+    "nuzul": 35,
+    "description": "Mekke döneminde inmiştir. 20 âyettir. Sûre, adını ilk âyetteki “el-Beled” kelimesindenalmıştır. Beled, şehir, belde demektir",
+    "total_verses": 20
+  },
+  {
+    "id": 91,
+    "name": "الشمس",
+    "translation": "Şems",
+    "transliteration": "sems",
+    "nuzul": 26,
+    "description": "Mekke döneminde inmiştir. 15 âyettir. Sûre, adını birinci âyetteki “eş-Şems”kelimesinden almıştır. Şems, güneş demektir",
+    "total_verses": 15
+  },
+  {
+    "id": 92,
+    "name": "الليل",
+    "translation": "Leyl",
+    "transliteration": "leyl",
+    "nuzul": 9,
+    "description": "Mekke döneminde inmiştir. 21 âyettir. Leyl, gece demektir",
+    "total_verses": 21
+  },
+  {
+    "id": 93,
+    "name": "الضحى",
+    "translation": "Duhâ",
+    "transliteration": "duha",
+    "nuzul": 11,
+    "description": "Mekke döneminde inmiştir. 11 âyettir. Duhâ, kuşluk vakti demektir",
+    "total_verses": 11
+  },
+  {
+    "id": 94,
+    "name": "الْاِنْشِرَاحِ",
+    "translation": "İnşirâh",
+    "transliteration": "insirah",
+    "nuzul": 12,
+    "description": "Mekke döneminde inmiştir. 8 âyettir. İnşirah, açılmak, genişlemek demektir.",
+    "total_verses": 8
+  },
+  {
+    "id": 95,
+    "name": "التين",
+    "translation": "Tîn",
+    "transliteration": "tin",
+    "nuzul": 28,
+    "description": "Mekke döneminde inmiştir. 8 âyettir. Tîn, incir demektir",
+    "total_verses": 8
+  },
+  {
+    "id": 96,
+    "name": "العلق",
+    "translation": "Alak",
+    "transliteration": "alak",
+    "nuzul": 1,
+    "description": "Mekke döneminde inmiştir. 19 âyettir. Sûre, adını ikinci âyette geçen “alak”kelimesinden almıştır.",
+    "total_verses": 19
+  },
+  {
+    "id": 97,
+    "name": "القدر",
+    "translation": "Kadir",
+    "transliteration": "kadr",
+    "nuzul": 25,
+    "description": "Mekke döneminde inmiştir. 5 âyettir. Sûre, Kadir gecesini anlattığı için bu adıalmıştır. Kadr, azamet ve şeref demektir.",
+    "total_verses": 5
+  },
+  {
+    "id": 98,
+    "name": "البينة",
+    "translation": "Beyyine",
+    "transliteration": "beyyine",
+    "nuzul": 100,
+    "description": "Medine döneminde inmiştir. 8 âyettir. Beyyine, apaçık delil demektir.",
+    "total_verses": 8
+  },
+  {
+    "id": 99,
+    "name": "الزلزلة",
+    "translation": "Zilzâl",
+    "transliteration": "zilzal",
+    "nuzul": 93,
+    "description": "Medine döneminde inmiştir. 8 âyettir. Zilzâl, sarsıntı, deprem demektir.",
+    "total_verses": 8
+  },
+  {
+    "id": 100,
+    "name": "العاديات",
+    "translation": "Âdiyât",
+    "transliteration": "adiyat",
+    "nuzul": 14,
+    "description": "Mekke döneminde inmiştir. 11 âyettir. Âdiyât, hızlı koşan atlar demektir.",
+    "total_verses": 11
+  },
+  {
+    "id": 101,
+    "name": "القارعة",
+    "translation": "Kâria",
+    "transliteration": "karia",
+    "nuzul": 30,
+    "description": "Mekke döneminde inmiştir. 11 âyettir. “Kâri’a”, vuran, çarpan, kapıyı çalan,yürekleri hoplatan şey demektir. Burada, kıyamet gününü ifade etmektedir.",
+    "total_verses": 11
+  },
+  {
+    "id": 102,
+    "name": "التكاثر",
+    "translation": "Tekâsür",
+    "transliteration": "tekasur",
+    "nuzul": 16,
+    "description": "Mekke döneminde inmiştir. 8 âyettir. Tekâsür, mal, mülk ve çoluk çocuğunçokluğuyla övünmek demektir",
+    "total_verses": 8
+  },
+  {
+    "id": 103,
+    "name": "العصر",
+    "translation": "Asr",
+    "transliteration": "asr",
+    "nuzul": 13,
+    "description": "Mekke döneminde inmiştir. 3 âyettir. Asr, çağ, ikindi vakti, uzun zaman demektir.",
+    "total_verses": 3
+  },
+  {
+    "id": 104,
+    "name": "الهمزة",
+    "translation": "Hümeze",
+    "transliteration": "humeze",
+    "nuzul": 32,
+    "description": "Mekke döneminde inmiştir. 9 âyettir. Hümeze, insanları arkadan çekiştiren,ayıplayan kimse demektir",
+    "total_verses": 9
+  },
+  {
+    "id": 105,
+    "name": "الفيل",
+    "translation": "Fîl",
+    "transliteration": "fil",
+    "nuzul": 19,
+    "description": "Mekke döneminde inmiştir. 5 âyettir. Sûre, fillerle donanmış ordusuylaKâ’be’yi yıkmaya gelen Ebrehe’nin helâk edilişinden bahsettiği için bu adı almıştır",
+    "total_verses": 5
+  },
+  {
+    "id": 106,
+    "name": "قريش",
+    "translation": "Kureyş",
+    "transliteration": "kureys",
+    "nuzul": 29,
+    "description": "Mekke döneminde inmiştir. 4 âyettir. Kureyş, Hz. Peygamberin mensup olduğukabilenin adıdır.",
+    "total_verses": 4
+  },
+  {
+    "id": 107,
+    "name": "الماعون",
+    "translation": "Maûn",
+    "transliteration": "maun",
+    "nuzul": 17,
+    "description": "Mekke döneminde inmiştir. 7 âyettir. Mâ’ûn, yardım ve zekât demektir.",
+    "total_verses": 7
+  },
+  {
+    "id": 108,
+    "name": "الكوثر",
+    "translation": "Kevser",
+    "transliteration": "kevser",
+    "nuzul": 15,
+    "description": "Mekke döneminde inmiştir. Medine döneminde indiği de rivayet edilmiştir.3 âyettir. Kevser, çok hayır, bereket demektir. Cennette Hz. Peygambere mahsusbir havuzun da adıdır.",
+    "total_verses": 3
+  },
+  {
+    "id": 109,
+    "name": "الكافرون",
+    "translation": "Kâfirûn",
+    "transliteration": "kafirun",
+    "nuzul": 18,
+    "description": "Mekke döneminde inmiştir. 6 âyettir. “Kâfirûn”, inkârcılar demektir.",
+    "total_verses": 6
+  },
+  {
+    "id": 110,
+    "name": "النصر",
+    "translation": "Nasr",
+    "transliteration": "nasr",
+    "nuzul": 114,
+    "description": "Medine döneminde inmiştir. 3 âyettir. Nasr, yardım demektir.",
+    "total_verses": 3
+  },
+  {
+    "id": 111,
+    "name": "تَبَّتْ",
+    "translation": "Tebbet",
+    "transliteration": "tebbet",
+    "nuzul": 6,
+    "description": "Mekke döneminde inmiştir. 5 âyettir. “Tebbet”, kurusun, kahrolsun demektir.",
+    "total_verses": 5
+  },
+  {
+    "id": 112,
+    "name": "الإخلاص",
+    "translation": "İhlâs",
+    "transliteration": "ihlas",
+    "nuzul": 22,
+    "description": "Mekke döneminde inmiştir. 4 âyettir. İhlâs, samimi olmak, dine içtenliklebağlanmak demektir. Allah’a bu sûrede anlatıldığı şekilde inanan, tevhit inancınıtam anlamıyla benimsemiş ihlâslı bir mü’min olacağı için sûre bu adlaanılmaktadır.",
+    "total_verses": 4
+  },
+  {
+    "id": 113,
+    "name": "الفلق",
+    "translation": "Felak",
+    "transliteration": "felak",
+    "nuzul": 20,
+    "description": "Medine döneminde inmiştir. 5 âyettir. Felâk, sabah aydınlığı demektir",
+    "total_verses": 5
+  },
+  {
+    "id": 114,
+    "name": "الناس",
+    "translation": "Nâs",
+    "transliteration": "nas",
+    "nuzul": 21,
+    "description": "Medine döneminde inmiştir. 6 âyettir. Nâs, insanlar demektir.",
+    "total_verses": 6
+  }
+]

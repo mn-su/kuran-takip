@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yazı Tipi Karşılaştırma Laboratuvarı</title>
+  
+  <!-- Modern Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    /* Font Declarations pointing to local assets in /public/fonts */
+    @font-face {
+      font-family: 'Elif_1';
+      src: url('./fonts/diyanet/Elif_1.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Elif_2';
+      src: url('./fonts/diyanet/Elif_2.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Elif_3';
+      src: url('./fonts/diyanet/Elif_3.otf') format('opentype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Elif_4';
+      src: url('./fonts/diyanet/Elif_4.otf') format('opentype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Elif_1_eski';
+      src: url('./fonts/diyanet/Elif_1_eski.otf') format('opentype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Elif_1_eski2';
+      src: url('./fonts/diyanet/Elif_1_eski2.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Elif_2_eski';
+      src: url('./fonts/diyanet/Elif_2_eski.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Elif_eski';
+      src: url('./fonts/diyanet/Elif_eski.otf') format('opentype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Diyanet_Amasya';
+      src: url('./fonts/diyanet-amasya-regular.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Abay_Amasya';
+      src: url('./fonts/kk_abay.woff2') format('woff2'), url('./fonts/kk_abay.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Qurancom_Indopak';
+      src: url('./fonts/qurancom-indopak.woff2') format('woff2');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'DefaultElif1';
+      src: url('./fonts/diyanet-apk/DefaultElif1.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'LibertinusMono';
+      src: url('./fonts/diyanet-apk/LibertinusMono-Regular.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'ShaikhHamdullah';
+      src: url('./fonts/diyanet-apk/ShaikhHamdullahMushaf.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'SuleymanFeyzullah';
+      src: url('./fonts/diyanet-apk/SuleymanFeyzullahoglu.ttf') format('truetype');
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Abay_APK';
+      src: url('./fonts/diyanet-apk/abay.ttf') format('truetype');
+      font-display: swap;
+    }
+
+    /* Core Theme CSS Variables */
+    :root {
+      --bg-gradient-start: #0b0f19;
+      --bg-gradient-end: #030712;
+      --panel-bg: rgba(17, 24, 39, 0.7);
+      --border-color: rgba(255, 255, 255, 0.08);
+      --text-main: #f3f4f6;
+      --text-muted: #9ca3af;
+      --accent: #f59e0b; /* Amber 500 */
+      --accent-hover: #d97706;
+      --card-bg: rgba(31, 41, 55, 0.4);
+      --card-border: rgba(255, 255, 255, 0.06);
+      --active-badge-bg: rgba(16, 185, 129, 0.15);
+      --active-badge-text: #34d399;
+      --inactive-badge-bg: rgba(239, 68, 68, 0.15);
+      --inactive-badge-text: #f87171;
+      --shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+      --glow: rgba(245, 158, 11, 0.15);
+      --input-bg: rgba(17, 24, 39, 0.9);
+      --card-header-bg: rgba(17, 24, 39, 0.5);
+    }
+
+    .light-theme {
+      --bg-gradient-start: #f8fafc;
+      --bg-gradient-end: #e2e8f0;
+      --panel-bg: rgba(255, 255, 255, 0.8);
+      --border-color: rgba(15, 23, 42, 0.08);
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --accent: #d97706; /* Amber 600 */
+      --accent-hover: #b45309;
+      --card-bg: rgba(255, 255, 255, 0.9);
+      --card-border: rgba(15, 23, 42, 0.06);
+      --active-badge-bg: rgba(5, 150, 105, 0.1);
+      --active-badge-text: #059669;
+      --inactive-badge-bg: rgba(220, 38, 38, 0.1);
+      --inactive-badge-text: #dc2626;
+      --shadow: 0 10px 30px rgba(148, 163, 184, 0.12);
+      --glow: rgba(217, 119, 6, 0.1);
+      --input-bg: #ffffff;
+      --card-header-bg: rgba(241, 245, 249, 0.8);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+    }
+
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background: linear-gradient(135deg, var(--bg-gradient-start), var(--bg-gradient-end));
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      padding: 2.5rem 2rem 1.5rem 2rem;
+      text-align: center;
+      position: relative;
+    }
+
+    h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 2.5rem;
+      font-weight: 800;
+      background: linear-gradient(to right, #ffffff, var(--accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    .light-theme h1 {
+      background: linear-gradient(to right, #0f172a, var(--accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    header p {
+      color: var(--text-muted);
+      font-size: 1.1rem;
+      font-weight: 400;
+    }
+
+    .dashboard {
+      display: flex;
+      flex: 1;
+      padding: 0 2rem 3rem 2rem;
+      gap: 2rem;
+      max-width: 1600px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    /* Left Control Panel */
+    .controls-panel {
+      width: 320px;
+      background: var(--panel-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 24px;
+      padding: 1.75rem;
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      box-shadow: var(--shadow);
+      height: fit-content;
+      position: sticky;
+      top: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    label {
+      font-size: 0.85rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+    }
+
+    select, textarea, input[type="range"] {
+      width: 100%;
+      background: var(--input-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      color: var(--text-main);
+      padding: 0.75rem;
+      font-family: inherit;
+      font-size: 0.95rem;
+      outline: none;
+    }
+
+    select:focus, textarea:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 10px var(--glow);
+    }
+
+    textarea {
+      resize: vertical;
+      min-height: 120px;
+      direction: rtl;
+      font-size: 1.3rem;
+      line-height: 1.6;
+    }
+
+    .range-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 0.25rem;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    .theme-btn {
+      background: var(--accent);
+      color: #000;
+      border: none;
+      border-radius: 12px;
+      padding: 0.75rem 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      margin-top: 0.5rem;
+      transition: background-color 0.2s, transform 0.1s;
+    }
+
+    .theme-btn:hover {
+      background: var(--accent-hover);
+    }
+
+    .theme-btn:active {
+      transform: scale(0.98);
+    }
+
+    /* Right Grid Panel */
+    .fonts-grid {
+      flex: 1;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+      gap: 1.5rem;
+      align-content: start;
+    }
+
+    /* Font Card */
+    .font-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      height: 340px;
+      transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .font-card:hover {
+      transform: translateY(-4px);
+      border-color: var(--accent);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4), 0 0 15px var(--glow);
+    }
+
+    .card-header {
+      background: var(--card-header-bg);
+      padding: 1rem 1.25rem;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .card-header-info {
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+    }
+
+    .font-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text-main);
+    }
+
+    .font-path {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-family: monospace;
+    }
+
+    .badge-container {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.35rem;
+    }
+
+    .badge {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.6rem;
+      border-radius: 9999px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .badge.active {
+      background: var(--active-badge-bg);
+      color: var(--active-badge-text);
+    }
+
+    .badge.inactive {
+      background: var(--inactive-badge-bg);
+      color: var(--inactive-badge-text);
+    }
+
+    .font-size-label {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    .card-body {
+      flex: 1;
+      padding: 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow-y: auto;
+      background: rgba(0, 0, 0, 0.1);
+    }
+
+    .light-theme .card-body {
+      background: rgba(0, 0, 0, 0.02);
+    }
+
+    .arabic-preview {
+      width: 100%;
+      text-align: justify;
+      direction: rtl;
+      unicode-bidi: plaintext;
+      color: var(--text-main);
+      word-break: keep-all;
+      white-space: normal;
+      line-height: 1.6;
+    }
+
+    /* Range styles */
+    input[type="range"] {
+      -webkit-appearance: none;
+      height: 6px;
+      background: var(--border-color);
+      border-radius: 3px;
+      border: none;
+      cursor: pointer;
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+      transition: background-color 0.1s;
+    }
+
+    input[type="range"]::-webkit-slider-thumb:hover {
+      background: var(--accent-hover);
+    }
+
+    /* Responsiveness */
+    @media (max-width: 1024px) {
+      .dashboard {
+        flex-direction: column;
+      }
+      .controls-panel {
+        width: 100%;
+        position: static;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Yazı Tipi Karşılaştırma Laboratuvarı</h1>
+    <p>Projeye dahil edilen tüm hat / kaligrafi yazı tiplerinin canlı karşılaştırma ekranı</p>
+  </header>
+
+  <div class="dashboard">
+    <!-- Sidebar Controls -->
+    <div class="controls-panel">
+      <div class="control-group">
+        <label for="text-select">Örnek Metin Seç</label>
+        <select id="text-select">
+          <option value="fatihah">Fâtiha Sûresi (1-5)</option>
+          <option value="ayat-al-kursi">Ayetel Kürsi</option>
+          <option value="short">Kısa Hatim Örneği</option>
+          <option value="custom">Özel Metin Yaz...</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <label for="arabic-text-input">Önizleme Metni (Arapça)</label>
+        <textarea id="arabic-text-input" placeholder="Arapça metin girin..."></textarea>
+      </div>
+
+      <div class="control-group">
+        <div style="display:flex; justify-content:space-between">
+          <label for="font-size-slider">Yazı Boyutu</label>
+          <span id="font-size-val" style="font-size:0.85rem; font-weight:700; color:var(--accent)">45px</span>
+        </div>
+        <input type="range" id="font-size-slider" min="20" max="100" value="45">
+        <div class="range-info">
+          <span>20px</span>
+          <span>100px</span>
+        </div>
+      </div>
+
+      <div class="control-group">
+        <div style="display:flex; justify-content:space-between">
+          <label for="line-height-slider">Satır Yüksekliği</label>
+          <span id="line-height-val" style="font-size:0.85rem; font-weight:700; color:var(--accent)">1.6</span>
+        </div>
+        <input type="range" id="line-height-slider" min="1.0" max="3.0" step="0.1" value="1.6">
+        <div class="range-info">
+          <span>1.0</span>
+          <span>3.0</span>
+        </div>
+      </div>
+
+      <button id="theme-toggle" class="theme-btn">
+        <span id="theme-icon">☀️</span>
+        <span id="theme-text">Açık Tema</span>
+      </button>
+    </div>
+
+    <!-- Main Grid Cards -->
+    <div class="fonts-grid" id="fonts-grid">
+      <!-- Cards will be generated dynamically by JS -->
+    </div>
+  </div>
+
+  <script>
+    // Predefined Arabic sample texts
+    const sampleTexts = {
+      fatihah: "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾",
+      "ayat-al-kursi": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا nَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِإِذْنِهِ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+      short: "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ ﴿١﴾ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ ﴿٢﴾ لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ ﴿٣﴾"
+    };
+
+    // Metadata of all font files inside public/fonts/
+    const fontsData = [
+      { id: "Elif_1", name: "Diyanet Elif 1", file: "diyanet/Elif_1.ttf", size: "94.6 KB", status: "active" },
+      { id: "Elif_2", name: "Diyanet Elif 2", file: "diyanet/Elif_2.ttf", size: "95.3 KB", status: "active" },
+      { id: "Elif_3", name: "Diyanet Elif 3", file: "diyanet/Elif_3.otf", size: "77.0 KB", status: "active" },
+      { id: "Abay_Amasya", name: "Abay Amasya", file: "kk_abay.woff2 / .ttf", size: "49.7 KB / 130 KB", status: "active" },
+      { id: "Diyanet_Amasya", name: "Diyanet Amasya Regular", file: "diyanet-amasya-regular.ttf", size: "111.4 KB", status: "active" },
+      { id: "Qurancom_Indopak", name: "Quran.com Indopak", file: "qurancom-indopak.woff2", size: "78.6 KB", status: "active" },
+      { id: "DefaultElif1", name: "Feyzül Furkan", file: "diyanet-apk/DefaultElif1.ttf", size: "106.7 KB", status: "inactive" },
+      { id: "SuleymanFeyzullah", name: "Süleyman Feyzullahoğlu", file: "diyanet-apk/SuleymanFeyzullahoglu.ttf", size: "668.7 KB", status: "inactive" },
+      { id: "ShaikhHamdullah", name: "Shaikh Hamdullah", file: "diyanet-apk/ShaikhHamdullahMushaf.ttf", size: "78.7 KB", status: "inactive" },
+      { id: "Elif_4", name: "Diyanet Elif 4", file: "diyanet/Elif_4.otf", size: "79.2 KB", status: "inactive" },
+      { id: "Elif_1_eski", name: "Elif 1 (Eski OTF)", file: "diyanet/Elif_1_eski.otf", size: "95.3 KB", status: "inactive" },
+      { id: "Elif_1_eski2", name: "Elif 1 (Eski TTF 2)", file: "diyanet/Elif_1_eski2.ttf", size: "94.6 KB", status: "inactive" },
+      { id: "Elif_2_eski", name: "Elif 2 (Eski)", file: "diyanet/Elif_2_eski.ttf", size: "95.3 KB", status: "inactive" },
+      { id: "Elif_eski", name: "Elif (Eski OTF)", file: "diyanet/Elif_eski.otf", size: "89.3 KB", status: "inactive" },
+      { id: "Abay_APK", name: "Abay Regular (APK)", file: "diyanet-apk/abay.ttf", size: "95.0 KB", status: "inactive" },
+      { id: "LibertinusMono", name: "Libertinus Mono (Latin)", file: "diyanet-apk/LibertinusMono-Regular.ttf", size: "153.1 KB", status: "inactive" }
+    ];
+
+    // DOM Elements
+    const textSelect = document.getElementById("text-select");
+    const arabicText = document.getElementById("arabic-text-input");
+    const fontSizeSlider = document.getElementById("font-size-slider");
+    const fontSizeVal = document.getElementById("font-size-val");
+    const lineHeightSlider = document.getElementById("line-height-slider");
+    const lineHeightVal = document.getElementById("line-height-val");
+    const themeToggle = document.getElementById("theme-toggle");
+    const themeIcon = document.getElementById("theme-icon");
+    const themeText = document.getElementById("theme-text");
+    const fontsGrid = document.getElementById("fonts-grid");
+
+    // Initialize Text
+    arabicText.value = sampleTexts.fatihah;
+
+    // Generate Font Cards in Grid
+    function renderCards() {
+      fontsGrid.innerHTML = "";
+      const currentText = arabicText.value;
+      const fontSize = fontSizeSlider.value + "px";
+      const lineHeight = lineHeightSlider.value;
+
+      fontsData.forEach(font => {
+        const card = document.createElement("div");
+        card.className = "font-card";
+        
+        const isLibertinus = font.id === "LibertinusMono";
+        const textToDisplay = isLibertinus ? "A b c d e f g h i j k l m n o p q r s t u v w x y z 1 2 3 4 5" : currentText;
+        
+        card.innerHTML = `
+          <div class="card-header">
+            <div class="card-header-info">
+              <span class="font-title">${font.name}</span>
+              <span class="font-path">fonts/${font.file}</span>
+            </div>
+            <div class="badge-container">
+              <span class="badge ${font.status}">${font.status === 'active' ? 'Aktif' : 'Atıl'}</span>
+              <span class="font-size-label">${font.size}</span>
+            </div>
+          </div>
+          <div class="card-body">
+            <div class="arabic-preview" style="font-family: '${font.id}'; font-size: ${fontSize}; line-height: ${lineHeight}; text-align: ${isLibertinus ? 'left' : 'justify'}">
+              ${textToDisplay}
+            </div>
+          </div>
+        `;
+        fontsGrid.appendChild(card);
+      });
+    }
+
+    // Event Listeners
+    textSelect.addEventListener("change", (e) => {
+      const val = e.target.value;
+      if (val !== "custom") {
+        arabicText.value = sampleTexts[val];
+        renderCards();
+      }
+    });
+
+    arabicText.addEventListener("input", () => {
+      textSelect.value = "custom";
+      renderCards();
+    });
+
+    fontSizeSlider.addEventListener("input", (e) => {
+      const val = e.target.value;
+      fontSizeVal.textContent = val + "px";
+      
+      const previews = document.querySelectorAll(".arabic-preview");
+      previews.forEach(p => {
+        p.style.fontSize = val + "px";
+      });
+    });
+
+    lineHeightSlider.addEventListener("input", (e) => {
+      const val = e.target.value;
+      lineHeightVal.textContent = val;
+      
+      const previews = document.querySelectorAll(".arabic-preview");
+      previews.forEach(p => {
+        p.style.lineHeight = val;
+      });
+    });
+
+    // Theme Toggle
+    themeToggle.addEventListener("click", () => {
+      const bodyClass = document.body.classList;
+      if (bodyClass.contains("light-theme")) {
+        bodyClass.remove("light-theme");
+        themeIcon.textContent = "☀️";
+        themeText.textContent = "Açık Tema";
+      } else {
+        bodyClass.add("light-theme");
+        themeIcon.textContent = "🌙";
+        themeText.textContent = "Karanlık Tema";
+      }
+    });
+
+    // Initial Render
+    renderCards();
+  </script>
+</body>
+</html>
